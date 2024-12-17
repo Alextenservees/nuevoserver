@@ -17713,6 +17713,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2024-12-17 07:56:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_hoe_repairing": {
     "criteria": {
       "has_iron_hoe": "2024-12-17 07:41:06 +0000"
@@ -17746,6 +17752,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
     "criteria": {
       "has_mangrove_planks": "2024-12-17 07:38:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/vangrove_banister": {
+    "criteria": {
+      "has_item": "2024-12-17 08:04:44 +0000"
     },
     "done": true
   },
