@@ -14,7 +14,7 @@ skills:
     xp: 52.3
   auraskills/mining:
     level: 3
-    xp: 505.9500000000324
+    xp: 509.4700000000328
   auraskills/enchanting:
     level: 0
     xp: 0.0
@@ -29,7 +29,7 @@ skills:
     xp: 341.87999999999926
   auraskills/agility:
     level: 6
-    xp: 1096.999600000001
+    xp: 1232.803400000001
   auraskills/fishing:
     level: 0
     xp: 0.0
@@ -52,5 +52,3 @@ trait_modifiers:
 ability_data:
   auraskills/first_strike:
     counter: 9
-  auraskills/lightning_blade:
-    cooldown: 638
