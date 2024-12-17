@@ -9170,6 +9170,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-12-17 08:48:02 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/avocado_sapling": {
     "criteria": {
       "has_avocado": "2024-12-17 07:23:43 +0000"
