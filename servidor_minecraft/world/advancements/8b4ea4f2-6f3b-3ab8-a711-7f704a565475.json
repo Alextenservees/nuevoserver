@@ -9250,6 +9250,18 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/stone_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-18 01:55:13 +0000"
@@ -9262,6 +9274,30 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/stone_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
+    },
+    "done": true
+  },
   "farmerscroptopia:recipes/croptopia_cooking/beetroot_salad": {
     "criteria": {
       "has_the_recipe": "2024-12-18 01:55:13 +0000"
@@ -9271,6 +9307,24 @@
   "croptopia:recipes/misc/beetroot_salad": {
     "criteria": {
       "has_beetroot": "2024-12-18 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
     },
     "done": true
   },
@@ -9292,9 +9346,39 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/stone_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
+    },
+    "done": true
+  },
   "terramity:most_gamblers_quit_advancement": {
     "criteria": {
       "most_gamblers_quit_advancement_0": "2024-12-18 02:38:32 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 02:49:59 +0000"
     },
     "done": true
   },

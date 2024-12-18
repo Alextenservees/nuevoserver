@@ -5,7 +5,7 @@ skills:
     xp: 5535.709999999372
   auraskills/defense:
     level: 7
-    xp: 3029.4784892298285
+    xp: 3268.5184947229936
   auraskills/fishing:
     level: 0
     xp: 0.0
@@ -55,4 +55,4 @@ trait_modifiers:
     value: 10.0
 ability_data:
   auraskills/xp_convert:
-    xp: 19.267990412283524
+    xp: 18.30799590544757
