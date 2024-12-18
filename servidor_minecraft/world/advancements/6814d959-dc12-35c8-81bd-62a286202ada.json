@@ -19786,6 +19786,12 @@
     },
     "done": true
   },
+  "netherexp:nether/stayin_frosty": {
+    "criteria": {
+      "c1": "2024-12-18 05:27:31 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/quartz/chiseled_quartz_pillar": {
     "criteria": {
       "has_item": "2024-12-18 04:18:32 +0000"
