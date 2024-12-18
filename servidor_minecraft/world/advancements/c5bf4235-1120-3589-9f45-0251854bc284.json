@@ -17707,39 +17707,9 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/stone_dancer_s_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2024-12-17 08:07:31 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_crate": {
     "criteria": {
       "has_mangrove_planks": "2024-12-17 07:38:29 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_dagger_conditional_shaped": {
-    "criteria": {
-      "has_item": "2024-12-17 08:07:31 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/blackstone/weeping": {
-    "criteria": {
-      "has_item": "2024-12-17 08:14:25 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skreecher": {
-    "criteria": {
-      "killed": "2024-12-17 07:56:35 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_hoe_repairing": {
-    "criteria": {
-      "has_iron_hoe": "2024-12-17 07:41:06 +0000"
     },
     "done": true
   },
@@ -17749,21 +17719,9 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/stone_scythe_conditional_shaped": {
-    "criteria": {
-      "has_item": "2024-12-17 08:07:31 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
     "criteria": {
       "has_mangrove_planks": "2024-12-17 07:38:29 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_sickle_conditional_shaped": {
-    "criteria": {
-      "has_item": "2024-12-17 08:07:31 +0000"
     },
     "done": true
   },
@@ -17773,21 +17731,9 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/stone_broad_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2024-12-17 08:07:31 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_cutting_board": {
     "criteria": {
       "has_mangrove_planks": "2024-12-17 07:38:29 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_cutlass_conditional_shaped": {
-    "criteria": {
-      "has_item": "2024-12-17 08:07:31 +0000"
     },
     "done": true
   },
@@ -17797,45 +17743,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/vangrove_banister": {
-    "criteria": {
-      "has_item": "2024-12-17 08:04:44 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_katana_conditional_shaped": {
-    "criteria": {
-      "has_item": "2024-12-17 08:07:31 +0000"
-    },
-    "done": true
-  },
-  "croptopia:root": {
-    "criteria": {
-      "root": "2024-12-17 07:41:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_slab_recycling": {
-    "criteria": {
-      "has_polished_cut_deepslate_slab": "2024-12-17 08:08:42 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_mace_conditional_shaped": {
-    "criteria": {
-      "has_item": "2024-12-17 08:07:31 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_mail_box": {
     "criteria": {
       "has_mangrove_planks": "2024-12-17 07:38:29 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_spear_conditional_shaped": {
-    "criteria": {
-      "has_item": "2024-12-17 08:07:31 +0000"
     },
     "done": true
   },
@@ -17845,39 +17755,105 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/stone_great_hammer_conditional_shaped": {
-    "criteria": {
-      "has_item": "2024-12-17 08:07:31 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_chair": {
     "criteria": {
       "has_mangrove_planks": "2024-12-17 07:38:29 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/stone_claymore_conditional_shaped": {
+  "refurbished_furniture:recipes/misc/constructing/mangrove_desk": {
+    "criteria": {
+      "has_mangrove_planks": "2024-12-17 07:38:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2024-12-17 07:41:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2024-12-17 07:41:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2024-12-17 07:56:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/vangrove_banister": {
+    "criteria": {
+      "has_item": "2024-12-17 08:04:44 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-17 08:07:31 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/blackstone/twisting": {
+  "expanded_combat:recipes/combat/stone_dagger_conditional_shaped": {
     "criteria": {
-      "has_item": "2024-12-17 08:14:25 +0000"
+      "has_item": "2024-12-17 08:07:31 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_slab_recycling": {
+  "expanded_combat:recipes/combat/stone_scythe_conditional_shaped": {
     "criteria": {
-      "has_cut_deepslate_slab": "2024-12-17 08:08:06 +0000"
+      "has_item": "2024-12-17 08:07:31 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_desk": {
+  "expanded_combat:recipes/combat/stone_sickle_conditional_shaped": {
     "criteria": {
-      "has_mangrove_planks": "2024-12-17 07:38:29 +0000"
+      "has_item": "2024-12-17 08:07:31 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-17 08:07:31 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-17 08:07:31 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-17 08:07:31 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-17 08:07:31 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-17 08:07:31 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-17 08:07:31 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-17 08:07:31 +0000"
     },
     "done": true
   },
@@ -17896,6 +17872,30 @@
   "expanded_combat:recipes/combat/stone_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-17 08:07:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_recycling": {
+    "criteria": {
+      "has_cut_deepslate_slab": "2024-12-17 08:08:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_deepslate_slab": "2024-12-17 08:08:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2024-12-17 08:14:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2024-12-17 08:14:25 +0000"
     },
     "done": true
   },

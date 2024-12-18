@@ -590,6 +590,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-14 01:28:19 +0000",
+      "sweet_berries": "2024-12-18 01:52:28 +0000",
       "cooked_beef": "2024-12-13 01:14:22 +0000",
       "apple": "2024-12-13 01:01:42 +0000",
       "potato": "2024-12-14 19:13:42 +0000",
@@ -599,6 +600,7 @@
       "rotten_flesh": "2024-12-13 22:06:48 +0000",
       "glow_berries": "2024-12-14 22:07:30 +0000",
       "golden_carrot": "2024-12-14 19:32:55 +0000",
+      "beetroot": "2024-12-18 01:55:46 +0000",
       "carrot": "2024-12-13 00:39:53 +0000"
     },
     "done": false
@@ -5743,7 +5745,10 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2024-12-14 00:08:54 +0000",
-      "tomato": "2024-12-14 00:08:57 +0000"
+      "sweet_berries": "2024-12-17 09:07:46 +0000",
+      "tomato": "2024-12-14 00:08:57 +0000",
+      "beetroot": "2024-12-17 09:07:40 +0000",
+      "potato": "2024-12-18 01:52:33 +0000"
     },
     "done": false
   },
@@ -9170,12 +9175,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/summon_iron_golem": {
-    "criteria": {
-      "summoned_golem": "2024-12-17 08:48:02 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/misc/avocado_sapling": {
     "criteria": {
       "has_avocado": "2024-12-17 07:23:43 +0000"
@@ -9187,12 +9186,6 @@
       "has_avocado": "2024-12-17 07:23:43 +0000"
     },
     "done": true
-  },
-  "croptopia:gather_tree_all": {
-    "criteria": {
-      "avocado_sapling": "2024-12-17 09:03:54 +0000"
-    },
-    "done": false
   },
   "croptopia:recipes/quesadilla": {
     "criteria": {
@@ -9206,6 +9199,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-17 08:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-17 08:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-12-17 08:48:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_tree_all": {
+    "criteria": {
+      "avocado_sapling": "2024-12-17 09:03:54 +0000"
+    },
+    "done": false
+  },
   "croptopia:gather_tree_forest": {
     "criteria": {
       "avocado_sapling": "2024-12-17 09:03:54 +0000"
@@ -9218,15 +9235,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_honeycomb": "2024-12-17 08:41:36 +0000"
+      "beetroots": "2024-12-17 09:07:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "has_honeycomb": "2024-12-17 08:41:36 +0000"
+      "has_beetroot": "2024-12-18 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/beetroot_salad": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/beetroot_soup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 01:55:13 +0000"
     },
     "done": true
   },
