@@ -121,6 +121,7 @@
       "minecraft:deep_ocean": "2024-11-09 16:43:37 +0000",
       "minecraft:frozen_river": "2024-10-29 15:50:43 +0000",
       "minecraft:cherry_grove": "2024-11-09 01:35:48 +0000",
+      "minecraft:sunflower_plains": "2024-12-18 04:10:46 +0000",
       "minecraft:birch_forest": "2024-10-31 16:24:40 +0000",
       "minecraft:beach": "2024-10-31 16:25:17 +0000",
       "minecraft:dark_forest": "2024-11-09 17:33:37 +0000",
@@ -19410,15 +19411,33 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2024-12-18 04:06:05 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/jungle_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-18 03:47:38 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-18 04:11:58 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/jungle_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-18 04:12:00 +0000"
     },
     "done": true
   },
@@ -19500,15 +19519,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-18 04:11:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2024-12-18 04:23:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/time_planks": {
     "criteria": {
       "has_item": "2024-12-18 03:40:38 +0000"
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2024-12-18 04:05:18 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/jungle_rail_bridge": {
     "criteria": {
       "has_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2024-12-18 04:12:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2024-12-18 04:12:00 +0000"
     },
     "done": true
   },
@@ -19530,6 +19579,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-18 04:11:58 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/jungle_log_bridge_middle": {
     "criteria": {
       "has_planks": "2024-12-18 03:47:38 +0000"
@@ -19542,6 +19597,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-18 04:12:09 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/jungle_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-18 03:47:38 +0000"
@@ -19551,6 +19612,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
     "criteria": {
       "has_jungle_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2024-12-18 04:12:00 +0000"
     },
     "done": true
   },
@@ -19572,6 +19639,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2024-12-18 04:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-12-18 03:47:38 +0000"
@@ -19584,15 +19657,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-18 04:11:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2024-12-18 03:47:38 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2024-12-18 04:11:58 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/jungle_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-18 04:12:00 +0000"
     },
     "done": true
   },
@@ -19626,9 +19717,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-18 04:12:09 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/jungle_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/quartz/chiseled_quartz_pillar": {
+    "criteria": {
+      "has_item": "2024-12-18 04:18:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-18 04:12:00 +0000"
     },
     "done": true
   },

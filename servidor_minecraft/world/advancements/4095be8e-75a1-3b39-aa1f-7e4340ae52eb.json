@@ -178,6 +178,7 @@
       "minecraft:frozen_river": "2024-12-14 06:01:56 +0000",
       "minecraft:birch_forest": "2024-12-14 06:02:40 +0000",
       "minecraft:beach": "2024-12-14 06:28:29 +0000",
+      "minecraft:dark_forest": "2024-12-18 04:06:27 +0000",
       "minecraft:river": "2024-12-14 06:26:52 +0000",
       "minecraft:grove": "2024-12-14 06:16:44 +0000",
       "minecraft:cold_ocean": "2024-12-14 06:28:45 +0000",
@@ -194,6 +195,7 @@
     "criteria": {
       "autumnal_maple_forest": "2024-12-14 05:36:07 +0000",
       "frozen_tundra": "2024-12-14 05:09:57 +0000",
+      "frozen_pine_taiga": "2024-12-18 04:06:29 +0000",
       "temperate_grove": "2024-12-14 06:25:58 +0000",
       "cold_river": "2024-12-14 06:35:59 +0000",
       "gravel_beach": "2024-12-14 06:35:52 +0000"
@@ -204,6 +206,7 @@
     "criteria": {
       "autumnal_maple_forest": "2024-12-14 05:36:07 +0000",
       "frozen_tundra": "2024-12-14 05:09:57 +0000",
+      "frozen_pine_taiga": "2024-12-18 04:06:29 +0000",
       "temperate_grove": "2024-12-14 06:25:58 +0000",
       "cold_river": "2024-12-14 06:35:59 +0000",
       "gravel_beach": "2024-12-14 06:35:52 +0000"
@@ -2009,6 +2012,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2024-12-14 06:27:24 +0000",
+      "cooked_beef": "2024-12-18 04:25:13 +0000",
       "apple": "2024-12-14 06:27:40 +0000",
       "pumpkin_pie": "2024-12-14 06:01:02 +0000",
       "bread": "2024-12-14 06:27:57 +0000",
@@ -3373,57 +3377,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2024-12-14 07:07:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2024-12-14 07:02:28 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dark_oak_bridge_pier": {
-    "criteria": {
-      "has_planks": "2024-12-14 07:03:41 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/bridge_torch": {
-    "criteria": {
-      "has_planks": "2024-12-14 07:03:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2024-12-14 07:02:28 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_pickaxe_repairing": {
-    "criteria": {
-      "has_diamond_pickaxe": "2024-12-14 07:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2024-12-14 07:02:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-14 06:55:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2024-12-14 07:09:49 +0000"
     },
     "done": true
   },
@@ -3433,33 +3389,33 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
-    "criteria": {
-      "has_log": "2024-12-14 07:03:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2024-12-14 07:08:34 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
     "criteria": {
       "has_log": "2024-12-14 06:55:10 +0000"
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "aether:recipes/combat/diamond_gloves_repairing": {
     "criteria": {
-      "enchanted_item": "2024-12-14 07:40:38 +0000"
+      "has_diamond_gloves": "2024-12-14 07:00:59 +0000"
     },
     "done": true
   },
-  "dummmmmmy:recipes/dummy_crafting": {
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
-      "has_hay_block": "2024-12-14 07:08:34 +0000"
+      "has_dark_prismarine": "2024-12-14 07:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-14 07:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-14 07:02:28 +0000"
     },
     "done": true
   },
@@ -3469,9 +3425,21 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_gloves_repairing": {
+  "mcwbridges:recipes/bridge_torch": {
     "criteria": {
-      "has_diamond_gloves": "2024-12-14 07:00:59 +0000"
+      "has_planks": "2024-12-14 07:03:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-14 07:03:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2024-12-14 07:03:41 +0000"
     },
     "done": true
   },
@@ -3487,9 +3455,285 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-14 07:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 07:08:34 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 07:08:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-14 07:08:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-14 07:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-14 07:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-14 07:40:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2024-12-18 04:07:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2024-12-18 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2024-12-18 04:18:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-18 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "strawberry_seed": "2024-12-18 04:04:28 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-12-18 04:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-18 04:25:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/yoghurt": {
+    "criteria": {
+      "has_strawberry": "2024-12-18 04:04:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "pine_log": "2024-12-18 04:07:52 +0000"
+    },
+    "done": false
+  },
+  "grimoireofgaia:main/witch": {
+    "criteria": {
+      "kill": "2024-12-18 04:26:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-18 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2024-12-18 04:07:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_birch_leaves": "2024-12-18 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/strawberry_ice_cream": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 04:04:28 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2024-12-18 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_trifle": {
+    "criteria": {
+      "has_strawberry": "2024-12-18 04:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-18 04:21:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_ice_cream": {
+    "criteria": {
+      "has_strawberry": "2024-12-18 04:04:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2024-12-18 04:25:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 04:07:52 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/matango": {
+    "criteria": {
+      "kill": "2024-12-18 04:22:22 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/pumpkin_soup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-18 04:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-18 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "strawberry_seed": "2024-12-18 04:04:28 +0000"
+    },
+    "done": false
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/noodle_soup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_seed": {
+    "criteria": {
+      "has_strawberry": "2024-12-18 04:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-18 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2024-12-18 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_jam": {
+    "criteria": {
+      "has_strawberry": "2024-12-18 04:04:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_smoothie": {
+    "criteria": {
+      "has_strawberry": "2024-12-18 04:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/strawberry_jam": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 04:04:28 +0000"
     },
     "done": true
   },
