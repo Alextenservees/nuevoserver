@@ -17456,7 +17456,8 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "sorting_hanging_sign": "2024-12-10 07:19:41 +0000"
+      "sorting_hanging_sign": "2024-12-10 07:19:41 +0000",
+      "time_wood": "2024-12-18 03:40:38 +0000"
     },
     "done": false
   },
@@ -19062,6 +19063,7 @@
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
       "locate_shipwreck": "2024-12-14 22:10:04 +0000",
+      "locate_underwater_small_ruins": "2024-12-18 03:55:35 +0000",
       "locate_ruin_cold": "2024-12-14 07:18:40 +0000"
     },
     "done": false
@@ -19402,9 +19404,231 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_table": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/time_planks": {
+    "criteria": {
+      "has_item": "2024-12-18 03:40:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_rail_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_boots_repairing": {
+    "criteria": {
+      "has_zanite_boots": "2024-12-18 03:35:56 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
   "terramity:lucky_sevens_advancement": {
     "criteria": {
       "lucky_sevens_advancement_0": "2024-12-18 03:23:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/protein_bar": {
+    "criteria": {
+      "has_caramel": "2024-12-18 03:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-18 03:47:38 +0000"
     },
     "done": true
   },

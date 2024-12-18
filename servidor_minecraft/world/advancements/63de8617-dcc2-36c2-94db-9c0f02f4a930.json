@@ -11395,6 +11395,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2024-12-18 03:51:42 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/copper_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 03:01:37 +0000"
@@ -11545,6 +11551,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2024-12-18 03:51:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-18 03:01:37 +0000"
@@ -11572,6 +11584,12 @@
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-18 03:06:12 +0000"
+    },
+    "done": true
+  },
+  "terramity:lucky_cherries_advancement": {
+    "criteria": {
+      "lucky_cherries_advancement_0": "2024-12-18 03:45:46 +0000"
     },
     "done": true
   },
@@ -11608,6 +11626,12 @@
   "terramity:lucky_sevens_advancement": {
     "criteria": {
       "lucky_sevens_advancement_0": "2024-12-18 03:22:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_shrub": {
+    "criteria": {
+      "has_pine_sapling": "2024-12-18 03:50:11 +0000"
     },
     "done": true
   },
@@ -11701,6 +11725,12 @@
     },
     "done": true
   },
+  "terramity:when_life_gives_you_lemons": {
+    "criteria": {
+      "when_life_gives_you_lemons_0": "2024-12-18 03:26:55 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/documentation": {
     "criteria": {
       "has_crop": "2024-12-18 03:06:12 +0000"
@@ -11722,6 +11752,12 @@
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-18 03:12:44 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-18 03:48:35 +0000"
     },
     "done": true
   },
