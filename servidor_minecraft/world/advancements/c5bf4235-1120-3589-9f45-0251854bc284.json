@@ -17899,6 +17899,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2024-12-18 02:56:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2024-12-18 02:56:28 +0000"
+    },
+    "done": true
+  },
   "hrbsdrills:drill": {
     "criteria": {
       "requirement": "2024-12-18 01:56:04 +0000"
@@ -17920,6 +17932,12 @@
   "terramity:most_gamblers_quit_advancement": {
     "criteria": {
       "most_gamblers_quit_advancement_0": "2024-12-18 02:31:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2024-12-18 02:56:28 +0000"
     },
     "done": true
   },

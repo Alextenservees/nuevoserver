@@ -19402,5 +19402,11 @@
     },
     "done": true
   },
+  "terramity:lucky_sevens_advancement": {
+    "criteria": {
+      "lucky_sevens_advancement_0": "2024-12-18 03:23:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
