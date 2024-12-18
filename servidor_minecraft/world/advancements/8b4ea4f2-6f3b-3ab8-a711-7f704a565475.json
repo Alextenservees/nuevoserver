@@ -5748,7 +5748,10 @@
       "sweet_berries": "2024-12-17 09:07:46 +0000",
       "tomato": "2024-12-14 00:08:57 +0000",
       "beetroot": "2024-12-17 09:07:40 +0000",
-      "potato": "2024-12-18 01:52:33 +0000"
+      "potato": "2024-12-18 01:52:33 +0000",
+      "wheat": "2024-12-18 02:06:05 +0000",
+      "melon": "2024-12-18 02:00:26 +0000",
+      "pumpkin": "2024-12-18 02:00:39 +0000"
     },
     "done": false
   },
@@ -9250,6 +9253,12 @@
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-18 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_wraith": {
+    "criteria": {
+      "kill_a_wraith": "2024-12-18 02:32:12 +0000"
     },
     "done": true
   },

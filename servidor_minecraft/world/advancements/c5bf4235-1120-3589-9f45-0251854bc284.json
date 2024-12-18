@@ -17899,5 +17899,23 @@
     },
     "done": true
   },
+  "hrbsdrills:drill": {
+    "criteria": {
+      "requirement": "2024-12-18 01:56:04 +0000"
+    },
+    "done": true
+  },
+  "terramity:lucky_sevens_advancement": {
+    "criteria": {
+      "lucky_sevens_advancement_0": "2024-12-18 02:31:10 +0000"
+    },
+    "done": true
+  },
+  "terramity:most_gamblers_quit_advancement": {
+    "criteria": {
+      "most_gamblers_quit_advancement_0": "2024-12-18 02:31:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
