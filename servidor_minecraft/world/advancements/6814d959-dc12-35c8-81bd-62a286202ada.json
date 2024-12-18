@@ -145,6 +145,7 @@
       "minecraft:jungle": "2024-10-29 15:44:04 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-03 06:21:24 +0000",
       "minecraft:snowy_beach": "2024-11-06 07:50:03 +0000",
+      "minecraft:windswept_savanna": "2024-12-18 04:46:59 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-09 16:43:09 +0000",
       "minecraft:flower_forest": "2024-12-11 03:17:33 +0000",
       "minecraft:frozen_peaks": "2024-10-29 16:08:04 +0000",
@@ -2127,6 +2128,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2024-12-18 04:45:56 +0000",
       "silver_birch_forest": "2024-10-27 07:35:46 +0000",
       "shrubland": "2024-10-27 06:15:20 +0000",
       "redstone_abyss": "2024-12-10 06:01:00 +0000",
@@ -2179,6 +2181,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2024-12-18 04:45:56 +0000",
       "silver_birch_forest": "2024-10-27 07:35:46 +0000",
       "shrubland": "2024-10-27 06:15:20 +0000",
       "fen": "2024-11-10 23:51:40 +0000",
@@ -19513,6 +19516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-12-18 04:53:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_table": {
     "criteria": {
       "has_jungle_planks": "2024-12-18 03:47:38 +0000"
@@ -19609,6 +19618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-18 04:53:29 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/jungle_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-18 03:47:38 +0000"
@@ -19630,6 +19645,12 @@
   "goety:goety/kill_a_heretic": {
     "criteria": {
       "kill_a_warlock": "2024-12-18 04:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-18 04:53:29 +0000"
     },
     "done": true
   },
@@ -19699,6 +19720,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-18 04:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2024-12-18 04:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2024-12-18 03:47:38 +0000"
@@ -19726,6 +19759,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
     "criteria": {
       "has_jungle_planks": "2024-12-18 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-12-18 04:53:29 +0000"
     },
     "done": true
   },
