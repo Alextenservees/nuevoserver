@@ -17905,6 +17905,12 @@
     },
     "done": true
   },
+  "terramity:lucky_cherries_advancement": {
+    "criteria": {
+      "lucky_cherries_advancement_0": "2024-12-18 02:40:48 +0000"
+    },
+    "done": true
+  },
   "terramity:lucky_sevens_advancement": {
     "criteria": {
       "lucky_sevens_advancement_0": "2024-12-18 02:31:10 +0000"

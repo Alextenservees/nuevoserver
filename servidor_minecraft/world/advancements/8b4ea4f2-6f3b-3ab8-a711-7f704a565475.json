@@ -9274,6 +9274,12 @@
     },
     "done": true
   },
+  "terramity:lucky_sevens_advancement": {
+    "criteria": {
+      "lucky_sevens_advancement_0": "2024-12-18 02:39:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2024-12-18 01:55:13 +0000"
@@ -9283,6 +9289,12 @@
   "farmerscroptopia:recipes/farmersdelight_crafting/beetroot_soup": {
     "criteria": {
       "has_the_recipe": "2024-12-18 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "terramity:most_gamblers_quit_advancement": {
+    "criteria": {
+      "most_gamblers_quit_advancement_0": "2024-12-18 02:38:32 +0000"
     },
     "done": true
   },
