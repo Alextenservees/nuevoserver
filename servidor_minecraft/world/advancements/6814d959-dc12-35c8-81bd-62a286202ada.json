@@ -19870,9 +19870,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-12-20 04:30:42 +0000"
+    },
+    "done": true
+  },
   "goety:goety/kill_a_wraith": {
     "criteria": {
       "kill_a_wraith": "2024-12-20 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/tiles_from_etched": {
+    "criteria": {
+      "has_planks": "2024-12-20 04:28:35 +0000"
     },
     "done": true
   },
@@ -19888,9 +19900,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/tiles": {
+    "criteria": {
+      "has_planks": "2024-12-20 04:28:35 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2024-12-20 02:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-12-20 04:30:42 +0000"
     },
     "done": true
   },

@@ -12466,6 +12466,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2024-12-20 04:30:19 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/building_blocks/sentry_base_from_sentry_stone_stonecutting": {
     "criteria": {
       "has_sentry_stone": "2024-12-20 03:58:20 +0000"
