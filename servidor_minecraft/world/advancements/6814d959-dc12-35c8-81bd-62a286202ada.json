@@ -20353,9 +20353,105 @@
     },
     "done": true
   },
+  "croptopia:recipes/sushi": {
+    "criteria": {
+      "has_rice": "2024-12-20 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2024-12-20 05:53:35 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 05:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-20 06:09:47 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/imbuements": {
+    "criteria": {
+      "criteria": "2024-12-20 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2024-12-20 05:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-20 06:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-20 06:04:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2024-12-20 05:18:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-12-20 05:53:35 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/steamed_rice": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/pumpkin_soup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 05:53:35 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/cooked_rice": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-20 06:09:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/steamed_rice": {
+    "criteria": {
+      "has_rice": "2024-12-20 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-20 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-12-20 05:57:36 +0000"
     },
     "done": true
   },

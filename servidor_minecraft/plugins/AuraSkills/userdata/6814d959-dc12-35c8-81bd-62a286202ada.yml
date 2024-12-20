@@ -2,31 +2,31 @@ uuid: 6814d959-dc12-35c8-81bd-62a286202ada
 skills:
   auraskills/mining:
     level: 12
-    xp: 468.15000000016005
+    xp: 1850.0500000001537
   auraskills/defense:
     level: 8
-    xp: 1657.7384990341864
+    xp: 1688.290497935554
   auraskills/fishing:
     level: 0
     xp: 0.0
   auraskills/agility:
     level: 8
-    xp: 4165.140200000011
+    xp: 4856.4292000000105
   auraskills/farming:
     level: 2
-    xp: 200.70999999999972
+    xp: 240.30999999999977
   auraskills/alchemy:
     level: 2
-    xp: 15.0
+    xp: 37.0
   auraskills/enchanting:
     level: 2
     xp: 0.0
   auraskills/foraging:
     level: 1
-    xp: 61.6
+    xp: 74.4
   auraskills/excavation:
     level: 2
-    xp: 174.12000000000018
+    xp: 186.77000000000046
   auraskills/archery:
     level: 0
     xp: 89.35000000000001
@@ -36,11 +36,6 @@ skills:
 mana: 36.0
 action_bar:
   idle: true
-stat_modifiers:
-  '0':
-    name: mining-stamina
-    stat: auraskills/toughness
-    value: 2.0
 trait_modifiers:
   '0':
     name: mining_luck_ability
@@ -60,4 +55,4 @@ trait_modifiers:
     value: 10.0
 ability_data:
   auraskills/xp_convert:
-    xp: 13.033600216652744
+    xp: 13.824599118019993

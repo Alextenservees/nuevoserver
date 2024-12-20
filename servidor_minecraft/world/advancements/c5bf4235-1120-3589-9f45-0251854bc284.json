@@ -18082,6 +18082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-20 06:02:55 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/sanctum/lesion": {
     "criteria": {
       "has_item": "2024-12-20 02:31:53 +0000"
@@ -18091,6 +18097,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2024-12-20 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-20 06:02:55 +0000"
     },
     "done": true
   },
