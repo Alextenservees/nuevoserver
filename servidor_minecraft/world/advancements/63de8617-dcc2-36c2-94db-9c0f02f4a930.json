@@ -810,6 +810,7 @@
       "glow_berries": "2024-11-06 07:11:21 +0000",
       "melon_slice": "2024-10-31 21:56:06 +0000",
       "beetroot": "2024-11-09 03:14:32 +0000",
+      "golden_carrot": "2024-12-20 02:31:17 +0000",
       "cooked_chicken": "2024-11-13 22:37:20 +0000",
       "carrot": "2024-11-16 07:41:05 +0000"
     },
@@ -11371,33 +11372,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
-    "criteria": {
-      "has_item": "2024-12-18 03:07:53 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 03:01:37 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/transportation/bloom_boat": {
-    "criteria": {
-      "in_water": "2024-12-18 03:17:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-18 03:06:12 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_ancient_stronghold": {
-    "criteria": {
-      "ancient_stronghold": "2024-12-18 03:51:42 +0000"
     },
     "done": true
   },
@@ -11410,18 +11387,6 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 03:01:37 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/campfire_toast": {
-    "criteria": {
-      "has_bread": "2024-12-18 03:05:55 +0000"
-    },
-    "done": true
-  },
-  "farmerscroptopia:recipes/farmersdelight_crafting/beef_stew": {
-    "criteria": {
-      "has_the_recipe": "2024-12-18 03:06:12 +0000"
     },
     "done": true
   },
@@ -11491,18 +11456,6 @@
     },
     "done": true
   },
-  "galosphere:recipes/tools/glow_flare": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-18 03:07:13 +0000"
-    },
-    "done": true
-  },
-  "farmerscroptopia:recipes/farmersdelight_crafting/rabbit_stew": {
-    "criteria": {
-      "has_the_recipe": "2024-12-18 03:06:12 +0000"
-    },
-    "done": true
-  },
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2024-12-18 03:01:37 +0000"
@@ -11515,30 +11468,6 @@
     },
     "done": true
   },
-  "farmerscroptopia:recipes/farmersdelight_crafting/chicken_soup": {
-    "criteria": {
-      "has_the_recipe": "2024-12-18 03:06:12 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/cheeseburger": {
-    "criteria": {
-      "has_bread": "2024-12-18 03:05:55 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-18 03:07:13 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/toast_from_smoking_bread": {
-    "criteria": {
-      "has_bread": "2024-12-18 03:05:55 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/decorations/gilded_beads": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 03:01:37 +0000"
@@ -11548,12 +11477,6 @@
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-12-18 03:01:37 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_spiky_bug": {
-    "criteria": {
-      "spiky_bug": "2024-12-18 03:51:59 +0000"
     },
     "done": true
   },
@@ -11575,33 +11498,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-18 03:06:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-18 03:06:12 +0000"
-    },
-    "done": true
-  },
-  "terramity:lucky_cherries_advancement": {
-    "criteria": {
-      "lucky_cherries_advancement_0": "2024-12-18 03:45:46 +0000"
-    },
-    "done": true
-  },
   "goety:goety/root": {
     "criteria": {
       "tick": "2024-12-18 03:01:37 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-18 03:07:13 +0000"
     },
     "done": true
   },
@@ -11617,51 +11516,9 @@
     },
     "done": true
   },
-  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-18 03:07:53 +0000"
-    },
-    "done": true
-  },
-  "terramity:lucky_sevens_advancement": {
-    "criteria": {
-      "lucky_sevens_advancement_0": "2024-12-18 03:22:53 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_shrub": {
-    "criteria": {
-      "has_pine_sapling": "2024-12-18 03:50:11 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 03:01:37 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/toast_from_bread": {
-    "criteria": {
-      "has_bread": "2024-12-18 03:05:55 +0000"
-    },
-    "done": true
-  },
-  "terramity:most_gamblers_quit_advancement": {
-    "criteria": {
-      "most_gamblers_quit_advancement_0": "2024-12-18 03:25:22 +0000"
-    },
-    "done": true
-  },
-  "farmerscroptopia:recipes/farmersdelight_crafting/vegetable_noodles": {
-    "criteria": {
-      "has_the_recipe": "2024-12-18 03:06:12 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/combat/silver_bomb": {
-    "criteria": {
-      "has_gunpowder": "2024-12-18 03:07:34 +0000"
     },
     "done": true
   },
@@ -11671,15 +11528,105 @@
     },
     "done": true
   },
-  "farmerscroptopia:recipes/farmersdelight_crafting/vegetable_soup": {
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2024-12-18 03:01:37 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:root": {
+    "criteria": {
+      "sample_trigger": "2024-12-18 03:01:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-18 03:01:37 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-18 03:01:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cooking_pot": {
+    "criteria": {
+      "has_iron": "2024-12-18 03:01:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-12-18 03:05:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2024-12-18 03:05:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-12-18 03:05:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-18 03:05:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 03:06:12 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/beef_stew": {
     "criteria": {
       "has_the_recipe": "2024-12-18 03:06:12 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/combat/flint_knife": {
+  "farmerscroptopia:recipes/farmersdelight_crafting/rabbit_stew": {
     "criteria": {
-      "has_stick": "2024-12-18 03:12:44 +0000"
+      "has_the_recipe": "2024-12-18 03:06:12 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/chicken_soup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 03:06:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 03:06:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 03:06:12 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/vegetable_noodles": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 03:06:12 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/vegetable_soup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 03:06:12 +0000"
     },
     "done": true
   },
@@ -11695,21 +11642,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/bone_blocks/bone_fence": {
-    "criteria": {
-      "has_item": "2024-12-18 03:01:37 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-18 03:06:12 +0000"
-    },
-    "done": true
-  },
-  "totw_modded:root": {
-    "criteria": {
-      "sample_trigger": "2024-12-18 03:01:37 +0000"
     },
     "done": true
   },
@@ -11719,21 +11654,45 @@
     },
     "done": true
   },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-12-18 03:01:37 +0000"
-    },
-    "done": true
-  },
-  "terramity:when_life_gives_you_lemons": {
-    "criteria": {
-      "when_life_gives_you_lemons_0": "2024-12-18 03:26:55 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/documentation": {
     "criteria": {
       "has_crop": "2024-12-18 03:06:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/glow_flare": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 03:07:13 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 03:07:13 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 03:07:13 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 03:07:34 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2024-12-18 03:07:53 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-18 03:07:53 +0000"
     },
     "done": true
   },
@@ -11743,9 +11702,9 @@
     },
     "done": true
   },
-  "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
+  "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
-      "has_iron_ingot": "2024-12-18 03:01:37 +0000"
+      "has_stick": "2024-12-18 03:12:44 +0000"
     },
     "done": true
   },
@@ -11755,15 +11714,63 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 03:17:05 +0000"
+    },
+    "done": true
+  },
+  "terramity:lucky_sevens_advancement": {
+    "criteria": {
+      "lucky_sevens_advancement_0": "2024-12-18 03:22:53 +0000"
+    },
+    "done": true
+  },
+  "terramity:most_gamblers_quit_advancement": {
+    "criteria": {
+      "most_gamblers_quit_advancement_0": "2024-12-18 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "terramity:when_life_gives_you_lemons": {
+    "criteria": {
+      "when_life_gives_you_lemons_0": "2024-12-18 03:26:55 +0000"
+    },
+    "done": true
+  },
+  "terramity:lucky_cherries_advancement": {
+    "criteria": {
+      "lucky_cherries_advancement_0": "2024-12-18 03:45:46 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_ingot_from_nuggets": {
     "criteria": {
       "has_silver_nugget": "2024-12-18 03:48:35 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/cooking_pot": {
+  "regions_unexplored:recipes/decorations/pine_shrub": {
     "criteria": {
-      "has_iron": "2024-12-18 03:01:37 +0000"
+      "has_pine_sapling": "2024-12-18 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2024-12-18 03:51:42 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2024-12-18 03:51:59 +0000"
+    },
+    "done": true
+  },
+  "goety_spillage:root": {
+    "criteria": {
+      "tick": "2024-12-20 02:25:24 +0000"
     },
     "done": true
   },

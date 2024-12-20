@@ -5795,7 +5795,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "tomato": "2024-12-14 01:09:44 +0000"
+      "tomato": "2024-12-14 01:09:44 +0000",
+      "potato": "2024-12-20 02:33:14 +0000"
     },
     "done": false
   },
@@ -6611,15 +6612,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "goety_spillage:root": {
     "criteria": {
-      "has_leather": "2024-12-20 01:51:16 +0000"
+      "tick": "2024-12-20 01:19:05 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/leather_stick_conditional_shaped": {
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
-      "has_item": "2024-12-20 01:51:16 +0000"
+      "has_diamond_pickaxe": "2024-12-20 01:31:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-20 01:31:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-12-20 01:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 01:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 01:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 01:34:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_ceiling_fan": "2024-12-20 01:34:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dark_oak_light_ceiling_fan": "2024-12-20 01:34:53 +0000"
     },
     "done": true
   },
@@ -6635,33 +6678,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2024-12-20 01:51:16 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
-    "criteria": {
-      "has_ceiling_fan": "2024-12-20 01:34:53 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/aether_saddle": {
-    "criteria": {
-      "has_leather": "2024-12-20 01:51:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2024-12-20 01:51:16 +0000"
     },
     "done": true
   },
@@ -6695,21 +6714,9 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/leather_quiver_conditional_shaped": {
-    "criteria": {
-      "has_item": "2024-12-20 01:51:16 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/white_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 01:43:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2024-12-20 01:51:16 +0000"
     },
     "done": true
   },
@@ -6725,27 +6732,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/leather_gloves": {
-    "criteria": {
-      "has_leather": "2024-12-20 01:51:16 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_pickaxe_repairing": {
-    "criteria": {
-      "has_diamond_pickaxe": "2024-12-20 01:31:17 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_helmet_repairing": {
-    "criteria": {
-      "has_diamond_helmet": "2024-12-20 01:31:52 +0000"
     },
     "done": true
   },
@@ -6761,27 +6750,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-20 01:34:48 +0000"
-    },
-    "done": true
-  },
-  "goety_spillage:root": {
-    "criteria": {
-      "tick": "2024-12-20 01:19:05 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_dark_ceiling_fan": {
-    "criteria": {
-      "has_dark_oak_light_ceiling_fan": "2024-12-20 01:34:53 +0000"
     },
     "done": true
   },
@@ -6806,12 +6777,6 @@
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2024-12-20 01:51:16 +0000"
     },
     "done": true
   },
@@ -6851,12 +6816,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-20 01:34:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
@@ -6875,12 +6834,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2024-12-20 01:53:38 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
@@ -6896,12 +6849,6 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2024-12-20 01:51:16 +0000"
     },
     "done": true
   },
@@ -6932,12 +6879,6 @@
   "refurbished_furniture:recipes/decorations/white_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 01:43:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2024-12-20 01:51:16 +0000"
     },
     "done": true
   },
@@ -6995,24 +6936,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2024-12-20 01:51:16 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/leather_gauntlet_conditional_shaped": {
-    "criteria": {
-      "has_item": "2024-12-20 01:51:16 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_leggings_repairing": {
-    "criteria": {
-      "has_diamond_leggings": "2024-12-20 01:31:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
@@ -7025,21 +6948,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-20 01:34:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2024-12-20 01:53:28 +0000"
     },
     "done": true
   },
@@ -7070,6 +6981,438 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/leather_stick_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/leather_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/leather_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2024-12-20 01:53:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-12-20 01:53:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_toaster": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_light_stove": "2024-12-20 02:17:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_microwave": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_black_industrial_lamp": {
+    "criteria": {
+      "has_small_black_industrial_lamp": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_bath": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_industrial_lamp": {
+    "criteria": {
+      "has_black_industrial_lamp": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_fridge": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_basin": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_toilet": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_stove": "2024-12-20 02:17:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
+    "criteria": {
+      "has_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 02:21:42 +0000"
     },
     "done": true
   },

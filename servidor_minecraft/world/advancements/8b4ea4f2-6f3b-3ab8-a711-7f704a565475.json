@@ -599,6 +599,7 @@
       "golden_apple": "2024-12-14 01:28:43 +0000",
       "rotten_flesh": "2024-12-13 22:06:48 +0000",
       "glow_berries": "2024-12-14 22:07:30 +0000",
+      "melon_slice": "2024-12-20 02:30:44 +0000",
       "golden_carrot": "2024-12-14 19:32:55 +0000",
       "beetroot": "2024-12-18 01:55:46 +0000",
       "carrot": "2024-12-13 00:39:53 +0000"
@@ -3314,7 +3315,8 @@
       "minecraft:vindicator": "2024-12-14 01:25:38 +0000",
       "minecraft:spider": "2024-12-13 01:04:51 +0000",
       "minecraft:cave_spider": "2024-12-14 00:58:44 +0000",
-      "minecraft:zombie": "2024-12-13 01:08:22 +0000"
+      "minecraft:zombie": "2024-12-13 01:08:22 +0000",
+      "minecraft:zombie_villager": "2024-12-20 02:26:31 +0000"
     },
     "done": false
   },
@@ -10180,6 +10182,19 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_3": "2024-12-20 02:28:39 +0000",
+      "charm_collector_2": "2024-12-20 02:28:39 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2024-12-20 02:12:00 +0000"
@@ -10192,15 +10207,153 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_beef_wellington": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cinnamon_roll": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2024-12-20 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_fish_and_chips": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sunny_side_eggs": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2024-12-20 02:12:00 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/misc/baked_crepes": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tortilla": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pizza": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sweet_crepes": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/dauphine_potatoes": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/croque_madame": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2024-12-20 02:20:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/croque_monsieur": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/quiche": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/grilled_cheese": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-12-20 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-20 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:frying_pan": {
+    "criteria": {
+      "frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cherry_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-20 02:12:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-20 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/hashed_brown": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/the_big_breakfast": {
+    "criteria": {
+      "has_frying_pan": "2024-12-20 02:19:48 +0000"
     },
     "done": true
   },
