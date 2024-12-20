@@ -9400,6 +9400,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/arachne": {
+    "criteria": {
+      "kill": "2024-12-20 00:58:00 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/pumpkin_bars": {
     "criteria": {
       "has_pumpkin": "2024-12-20 00:52:01 +0000"
@@ -9445,6 +9451,12 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-20 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/stone_coal_to_coal_block": {
+    "criteria": {
+      "has_stone_coal": "2024-12-20 00:58:01 +0000"
     },
     "done": true
   },
