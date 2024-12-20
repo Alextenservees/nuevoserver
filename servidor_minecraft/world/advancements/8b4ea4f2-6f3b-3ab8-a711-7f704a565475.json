@@ -6504,7 +6504,9 @@
   },
   "croptopia:gather_all": {
     "criteria": {
-      "onion_seed": "2024-12-14 02:03:52 +0000"
+      "onion_seed": "2024-12-14 02:03:52 +0000",
+      "blueberry_seed": "2024-12-20 05:27:59 +0000",
+      "grape_seed": "2024-12-20 05:23:59 +0000"
     },
     "done": false
   },
@@ -10536,15 +10538,15 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_tavern": {
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
-      "nova_structures:tavern_dark_oak": "2024-12-20 05:09:27 +0000"
+      "has_item": "2024-12-20 04:54:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
+  "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {
-      "has_sea_pickle": "2024-12-20 05:03:46 +0000"
+      "has_item": "2024-12-20 04:54:15 +0000"
     },
     "done": true
   },
@@ -10560,15 +10562,172 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
-      "has_item": "2024-12-20 04:54:15 +0000"
+      "has_sea_pickle": "2024-12-20 05:03:46 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
+  "nova_structures:adventure/find_tavern": {
     "criteria": {
-      "has_item": "2024-12-20 04:54:15 +0000"
+      "nova_structures:tavern_dark_oak": "2024-12-20 05:09:27 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2024-12-20 05:25:11 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-20 05:25:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/raisins_from_grape": {
+    "criteria": {
+      "has_grape": "2024-12-20 05:23:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/grape_seed": {
+    "criteria": {
+      "has_grape": "2024-12-20 05:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-20 05:25:04 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-20 05:25:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/blueberry_jam": {
+    "criteria": {
+      "has_blueberry": "2024-12-20 05:27:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-20 05:25:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/grape_juice": {
+    "criteria": {
+      "has_grape": "2024-12-20 05:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-20 05:25:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/raisins_from_smoking_grape": {
+    "criteria": {
+      "has_grape": "2024-12-20 05:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-20 05:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-20 05:25:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/grape_jam": {
+    "criteria": {
+      "has_grape": "2024-12-20 05:23:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-20 05:44:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "blueberry_seed": "2024-12-20 05:27:59 +0000",
+      "grape_seed": "2024-12-20 05:23:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-20 05:25:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/wine": {
+    "criteria": {
+      "has_grapes": "2024-12-20 05:23:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-20 05:25:07 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
+    "criteria": {
+      "has_item1": "2024-12-20 05:25:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_raisins": {
+    "criteria": {
+      "has_grapes": "2024-12-20 05:23:58 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/grape_jam": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 05:23:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/blueberry_seed": {
+    "criteria": {
+      "has_blueberry": "2024-12-20 05:27:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2024-12-20 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-20 05:25:11 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/blueberry_jam": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 05:27:59 +0000"
     },
     "done": true
   },
