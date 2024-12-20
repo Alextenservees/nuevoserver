@@ -571,7 +571,8 @@
       "cooked_beef": "2024-12-14 01:39:49 +0000",
       "baked_potato": "2024-12-13 01:18:58 +0000",
       "pumpkin_pie": "2024-12-14 00:54:11 +0000",
-      "bread": "2024-12-11 03:35:39 +0000"
+      "bread": "2024-12-11 03:35:39 +0000",
+      "golden_carrot": "2024-12-20 01:30:47 +0000"
     },
     "done": false
   },
@@ -6584,15 +6585,21 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_stick_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-14 02:53:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-12-14 03:07:53 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/gold_stick_conditional_shaped": {
+  "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
-      "has_item": "2024-12-14 02:53:55 +0000"
+      "has_diamond_chestplate": "2024-12-14 03:07:53 +0000"
     },
     "done": true
   },
@@ -6602,9 +6609,57 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
+  "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
     "criteria": {
-      "has_diamond_chestplate": "2024-12-14 03:07:53 +0000"
+      "has_ceiling_fan": "2024-12-20 01:34:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-20 01:31:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-12-20 01:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 01:34:48 +0000"
+    },
+    "done": true
+  },
+  "goety_spillage:root": {
+    "criteria": {
+      "tick": "2024-12-20 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dark_oak_light_ceiling_fan": "2024-12-20 01:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 01:34:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-20 01:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 01:34:48 +0000"
     },
     "done": true
   },
