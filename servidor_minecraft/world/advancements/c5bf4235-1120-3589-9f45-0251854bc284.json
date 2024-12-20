@@ -122,6 +122,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-10-29 15:52:10 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-20 03:29:56 +0000",
       "minecraft:taiga": "2024-10-31 17:23:46 +0000",
       "minecraft:deep_ocean": "2024-12-02 07:02:00 +0000",
       "minecraft:frozen_river": "2024-10-29 15:50:09 +0000",
@@ -1053,6 +1054,7 @@
       "golden_apple": "2024-10-31 17:17:25 +0000",
       "rotten_flesh": "2024-11-13 22:01:49 +0000",
       "glow_berries": "2024-11-06 07:22:41 +0000",
+      "melon_slice": "2024-12-20 03:06:38 +0000",
       "golden_carrot": "2024-10-31 16:57:10 +0000",
       "cooked_chicken": "2024-11-10 06:11:28 +0000",
       "mushroom_stew": "2024-10-27 07:07:33 +0000",
@@ -16669,14 +16671,16 @@
   },
   "croptopia:gather_tree_dark_forest": {
     "criteria": {
-      "pecan_sapling": "2024-12-14 02:45:48 +0000"
+      "pecan_sapling": "2024-12-14 02:45:48 +0000",
+      "cashew_sapling": "2024-12-20 03:10:51 +0000"
     },
     "done": false
   },
   "croptopia:gather_tree_all": {
     "criteria": {
       "avocado_sapling": "2024-12-14 19:03:04 +0000",
-      "pecan_sapling": "2024-12-14 02:45:48 +0000"
+      "pecan_sapling": "2024-12-14 02:45:48 +0000",
+      "cashew_sapling": "2024-12-20 03:10:51 +0000"
     },
     "done": false
   },
@@ -17976,9 +17980,27 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/toad": {
+    "criteria": {
+      "kill": "2024-12-20 03:37:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_toilet": {
     "criteria": {
       "has_toilets": "2024-12-20 02:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2024-12-20 03:31:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-20 03:32:01 +0000"
     },
     "done": true
   },
@@ -17988,9 +18010,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2024-12-20 03:31:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/gray_toilet": {
     "criteria": {
       "has_ceiling_fan": "2024-12-20 02:37:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2024-12-20 03:25:45 +0000"
     },
     "done": true
   },
@@ -18006,6 +18040,12 @@
     },
     "done": true
   },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2024-12-20 03:54:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_toilet": {
     "criteria": {
       "has_toilets": "2024-12-20 02:37:46 +0000"
@@ -18015,6 +18055,12 @@
   "netherexp:recipes/sanctum/lesion": {
     "criteria": {
       "has_item": "2024-12-20 02:31:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-20 03:32:01 +0000"
     },
     "done": true
   },
@@ -18054,9 +18100,21 @@
     },
     "done": true
   },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-12-20 03:54:01 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/cashew_sapling": {
     "criteria": {
       "has_cashew": "2024-12-20 02:59:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-20 03:32:01 +0000"
     },
     "done": true
   },
@@ -18084,9 +18142,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/rope_from_safety_net": {
+    "criteria": {
+      "has_safety_net": "2024-12-20 03:41:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_toilet": {
     "criteria": {
       "has_toilets": "2024-12-20 02:37:46 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_warlock": {
+    "criteria": {
+      "kill_a_warlock": "2024-12-20 03:18:36 +0000"
     },
     "done": true
   },
@@ -18117,6 +18187,12 @@
   "refurbished_furniture:recipes/decorations/yellow_toilet": {
     "criteria": {
       "has_ceiling_fan": "2024-12-20 02:37:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2024-12-20 03:25:45 +0000"
     },
     "done": true
   },

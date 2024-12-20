@@ -7166,6 +7166,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-20 03:08:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-20 02:21:42 +0000"
@@ -7274,6 +7280,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-20 03:08:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 02:21:42 +0000"
@@ -7373,6 +7385,12 @@
   "croptopia:recipes/misc/cashew_sapling": {
     "criteria": {
       "has_cashew": "2024-12-20 02:59:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-20 03:08:12 +0000"
     },
     "done": true
   },

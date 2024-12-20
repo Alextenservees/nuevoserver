@@ -19876,6 +19876,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:17:44 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2024-12-20 02:55:59 +0000"
