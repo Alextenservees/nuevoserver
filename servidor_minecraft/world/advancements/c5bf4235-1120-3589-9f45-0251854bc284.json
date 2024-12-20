@@ -18268,5 +18268,17 @@
     },
     "done": true
   },
+  "ad_astra:ad_astra": {
+    "criteria": {
+      "has_coal_generator": "2024-12-20 07:10:13 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:carbon_footprint": {
+    "criteria": {
+      "has_coal_generator": "2024-12-20 07:10:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
