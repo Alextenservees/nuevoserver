@@ -570,8 +570,10 @@
       "cooked_porkchop": "2024-12-11 04:49:34 +0000",
       "cooked_beef": "2024-12-14 01:39:49 +0000",
       "baked_potato": "2024-12-13 01:18:58 +0000",
+      "potato": "2024-12-20 01:48:23 +0000",
       "pumpkin_pie": "2024-12-14 00:54:11 +0000",
       "bread": "2024-12-11 03:35:39 +0000",
+      "salmon": "2024-12-20 01:59:37 +0000",
       "golden_carrot": "2024-12-20 01:30:47 +0000"
     },
     "done": false
@@ -6609,6 +6611,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/leather_stick_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
@@ -6621,6 +6635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
@@ -6630,6 +6650,18 @@
   "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
     "criteria": {
       "has_ceiling_fan": "2024-12-20 01:34:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
     },
     "done": true
   },
@@ -6663,9 +6695,21 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/leather_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/white_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 01:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
     },
     "done": true
   },
@@ -6678,6 +6722,12 @@
   "refurbished_furniture:recipes/decorations/white_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 01:43:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
     },
     "done": true
   },
@@ -6759,6 +6809,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
@@ -6819,6 +6875,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-12-20 01:53:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
@@ -6834,6 +6896,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
     },
     "done": true
   },
@@ -6864,6 +6932,12 @@
   "refurbished_furniture:recipes/decorations/white_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 01:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
     },
     "done": true
   },
@@ -6921,6 +6995,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/leather_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-20 01:51:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
       "has_diamond_leggings": "2024-12-20 01:31:45 +0000"
@@ -6948,6 +7034,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2024-12-20 01:43:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2024-12-20 01:53:28 +0000"
     },
     "done": true
   },
