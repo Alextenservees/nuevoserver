@@ -9250,6 +9250,54 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/beetroot_salad": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/beetroot_soup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_wraith": {
+    "criteria": {
+      "kill_a_wraith": "2024-12-18 02:32:12 +0000"
+    },
+    "done": true
+  },
+  "terramity:most_gamblers_quit_advancement": {
+    "criteria": {
+      "most_gamblers_quit_advancement_0": "2024-12-18 02:38:32 +0000"
+    },
+    "done": true
+  },
+  "terramity:lucky_sevens_advancement": {
+    "criteria": {
+      "lucky_sevens_advancement_0": "2024-12-18 02:39:39 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/stone_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-18 02:49:59 +0000"
@@ -9259,18 +9307,6 @@
   "expanded_combat:recipes/combat/stone_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-18 02:49:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-12-18 01:55:13 +0000"
-    },
-    "done": true
-  },
-  "goety:goety/kill_a_wraith": {
-    "criteria": {
-      "kill_a_wraith": "2024-12-18 02:32:12 +0000"
     },
     "done": true
   },
@@ -9298,18 +9334,6 @@
     },
     "done": true
   },
-  "farmerscroptopia:recipes/croptopia_cooking/beetroot_salad": {
-    "criteria": {
-      "has_the_recipe": "2024-12-18 01:55:13 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/beetroot_salad": {
-    "criteria": {
-      "has_beetroot": "2024-12-18 01:55:13 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/stone_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-18 02:49:59 +0000"
@@ -9328,33 +9352,9 @@
     },
     "done": true
   },
-  "terramity:lucky_sevens_advancement": {
-    "criteria": {
-      "lucky_sevens_advancement_0": "2024-12-18 02:39:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2024-12-18 01:55:13 +0000"
-    },
-    "done": true
-  },
-  "farmerscroptopia:recipes/farmersdelight_crafting/beetroot_soup": {
-    "criteria": {
-      "has_the_recipe": "2024-12-18 01:55:13 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/stone_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-18 02:49:59 +0000"
-    },
-    "done": true
-  },
-  "terramity:most_gamblers_quit_advancement": {
-    "criteria": {
-      "most_gamblers_quit_advancement_0": "2024-12-18 02:38:32 +0000"
     },
     "done": true
   },
@@ -9379,6 +9379,78 @@
   "expanded_combat:recipes/combat/stone_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-18 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2024-12-20 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-20 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2024-12-20 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "goety_spillage:root": {
+    "criteria": {
+      "tick": "2024-12-20 00:50:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-20 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-12-20 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/pumpkin_soup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/pumpkin_soup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-20 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-20 00:52:01 +0000"
     },
     "done": true
   },
