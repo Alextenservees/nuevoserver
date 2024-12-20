@@ -157,6 +157,7 @@
       "minecraft:old_growth_birch_forest": "2024-11-09 04:16:25 +0000",
       "minecraft:deep_dark": "2024-11-10 04:37:10 +0000",
       "minecraft:meadow": "2024-11-10 23:28:03 +0000",
+      "minecraft:savanna": "2024-12-19 06:05:15 +0000",
       "minecraft:plains": "2024-10-27 06:00:56 +0000"
     },
     "done": false
@@ -191,6 +192,7 @@
       "redstone_caves": "2024-10-27 07:47:21 +0000",
       "poppy_fields": "2024-11-01 00:27:24 +0000",
       "scorching_caves": "2024-11-06 04:14:30 +0000",
+      "grassy_beach": "2024-12-19 06:06:42 +0000",
       "blackwood_taiga": "2024-10-27 07:06:59 +0000",
       "rocky_meadow": "2024-10-27 22:04:09 +0000",
       "mycotoxic_undergrowth": "2024-10-27 06:25:28 +0000",
@@ -241,6 +243,7 @@
       "frozen_tundra": "2024-10-31 16:10:41 +0000",
       "rocky_reef": "2024-11-10 01:43:55 +0000",
       "poppy_fields": "2024-11-01 00:27:24 +0000",
+      "grassy_beach": "2024-12-19 06:06:42 +0000",
       "blackwood_taiga": "2024-10-27 07:06:59 +0000",
       "rocky_meadow": "2024-10-27 22:04:09 +0000",
       "ochard": "2024-11-29 05:51:59 +0000",
@@ -17946,6 +17949,12 @@
       "locate_ruin_cold": "2024-12-18 03:57:07 +0000"
     },
     "done": false
+  },
+  "goety_spillage:root": {
+    "criteria": {
+      "tick": "2024-12-19 06:00:25 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
