@@ -11,7 +11,7 @@ skills:
     xp: 0.0
   auraskills/agility:
     level: 8
-    xp: 2881.6828000000082
+    xp: 2996.1538000000087
   auraskills/farming:
     level: 2
     xp: 200.70999999999972
@@ -55,4 +55,4 @@ trait_modifiers:
     value: 10.0
 ability_data:
   auraskills/xp_convert:
-    xp: 29.018202597023404
+    xp: 23.48920259702341

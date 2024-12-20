@@ -19882,6 +19882,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2024-12-20 04:25:08 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2024-12-20 02:55:59 +0000"
