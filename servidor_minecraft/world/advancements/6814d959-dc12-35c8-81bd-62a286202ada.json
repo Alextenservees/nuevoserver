@@ -19804,6 +19804,30 @@
     },
     "done": true
   },
+  "goety_spillage:root": {
+    "criteria": {
+      "tick": "2024-12-20 01:22:27 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2024-12-20 01:23:35 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2024-12-20 01:23:35 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/rattling_remnants": {
+    "criteria": {
+      "structure": "2024-12-20 01:24:47 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/pale": {
     "criteria": {
       "has_planks": "2024-12-20 01:28:06 +0000"
@@ -19828,12 +19852,6 @@
     },
     "done": true
   },
-  "goety_spillage:root": {
-    "criteria": {
-      "tick": "2024-12-20 01:22:27 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/soul_slate/jagged": {
     "criteria": {
       "has_planks": "2024-12-20 01:28:06 +0000"
@@ -19846,27 +19864,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/sanctum/gargoyle_statue": {
-    "criteria": {
-      "has_item": "2024-12-20 01:23:35 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/soul_slate/wall": {
     "criteria": {
       "has_planks": "2024-12-20 01:28:06 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/rattling_remnants": {
-    "criteria": {
-      "structure": "2024-12-20 01:24:47 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/ecto_soul_sand": {
-    "criteria": {
-      "has_item": "2024-12-20 01:23:35 +0000"
     },
     "done": true
   },
