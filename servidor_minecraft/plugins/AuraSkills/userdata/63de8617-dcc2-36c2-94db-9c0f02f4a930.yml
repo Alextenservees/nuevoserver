@@ -11,10 +11,10 @@ skills:
     xp: 11.099999999999973
   auraskills/defense:
     level: 3
-    xp: 205.7999999999999
+    xp: 393.28289070129375
   auraskills/mining:
     level: 0
-    xp: 1.6000000000000005
+    xp: 43.200000000000024
   auraskills/archery:
     level: 0
     xp: 8.08
@@ -28,11 +28,11 @@ skills:
     level: 0
     xp: 0.0
   auraskills/agility:
-    level: 2
-    xp: 483.45959999999997
+    level: 3
+    xp: 152.5202
   auraskills/alchemy:
     level: 0
     xp: 0.0
-mana: 22.0
+mana: 24.0
 action_bar:
   idle: true

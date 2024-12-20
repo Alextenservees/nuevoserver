@@ -10207,6 +10207,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/enchilada": {
+    "criteria": {
+      "has_tortilla": "2024-12-20 02:43:08 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_beef_wellington": {
     "criteria": {
       "has_frying_pan": "2024-12-20 02:19:48 +0000"
@@ -10249,9 +10255,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-20 02:42:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 02:42:55 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/tortilla": {
     "criteria": {
       "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/matango": {
+    "criteria": {
+      "kill": "2024-12-20 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-20 02:42:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-20 02:36:22 +0000"
     },
     "done": true
   },
@@ -10264,6 +10300,12 @@
   "croptopia:recipes/misc/sweet_crepes": {
     "criteria": {
       "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 02:42:55 +0000"
     },
     "done": true
   },
@@ -10291,6 +10333,12 @@
     },
     "done": true
   },
+  "croptopia:gather_food": {
+    "criteria": {
+      "tortilla": "2024-12-20 02:43:08 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/misc/quiche": {
     "criteria": {
       "has_frying_pan": "2024-12-20 02:19:48 +0000"
@@ -10300,6 +10348,12 @@
   "croptopia:recipes/scrambled_eggs": {
     "criteria": {
       "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/taco": {
+    "criteria": {
+      "has_tortilla": "2024-12-20 02:43:08 +0000"
     },
     "done": true
   },
@@ -10345,15 +10399,39 @@
     },
     "done": true
   },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_tortilla": "2024-12-20 02:43:08 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/hashed_brown": {
     "criteria": {
       "has_frying_pan": "2024-12-20 02:19:48 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/tostada": {
+    "criteria": {
+      "has_tortilla": "2024-12-20 02:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-20 02:42:55 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/the_big_breakfast": {
     "criteria": {
       "has_frying_pan": "2024-12-20 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-20 02:36:22 +0000"
     },
     "done": true
   },
