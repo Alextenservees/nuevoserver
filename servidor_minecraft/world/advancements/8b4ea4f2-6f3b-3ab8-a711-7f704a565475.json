@@ -175,6 +175,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-20 05:03:10 +0000",
       "minecraft:frozen_river": "2024-12-14 20:07:22 +0000",
       "minecraft:birch_forest": "2024-12-13 00:56:10 +0000",
       "minecraft:beach": "2024-12-14 00:52:46 +0000",
@@ -3314,6 +3315,7 @@
       "minecraft:skeleton": "2024-12-13 01:07:47 +0000",
       "minecraft:vindicator": "2024-12-14 01:25:38 +0000",
       "minecraft:spider": "2024-12-13 01:04:51 +0000",
+      "minecraft:witch": "2024-12-20 05:10:14 +0000",
       "minecraft:cave_spider": "2024-12-14 00:58:44 +0000",
       "minecraft:zombie": "2024-12-13 01:08:22 +0000",
       "minecraft:zombie_villager": "2024-12-20 02:26:31 +0000"
@@ -5753,7 +5755,8 @@
       "potato": "2024-12-18 01:52:33 +0000",
       "wheat": "2024-12-18 02:06:05 +0000",
       "melon": "2024-12-18 02:00:26 +0000",
-      "pumpkin": "2024-12-18 02:00:39 +0000"
+      "pumpkin": "2024-12-18 02:00:39 +0000",
+      "carrot": "2024-12-20 04:38:44 +0000"
     },
     "done": false
   },
@@ -6319,7 +6322,9 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_manor": "2024-12-14 01:24:52 +0000"
+      "tavern_dark_oak": "2024-12-20 05:09:27 +0000",
+      "illager_manor": "2024-12-14 01:24:52 +0000",
+      "illager_camp": "2024-12-20 04:43:48 +0000"
     },
     "done": false
   },
@@ -10438,6 +10443,132 @@
   "undead_revamp2:nowyouknow": {
     "criteria": {
       "nowyouknow_0": "2024-12-20 03:06:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/horchata": {
+    "criteria": {
+      "has_almond": "2024-12-20 04:41:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_nuts_from_campfire": {
+    "criteria": {
+      "has_nut": "2024-12-20 04:41:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/trail_mix": {
+    "criteria": {
+      "has_nuts": "2024-12-20 04:41:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/almond_sapling": {
+    "criteria": {
+      "has_almond": "2024-12-20 04:41:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_nuts": {
+    "criteria": {
+      "has_nut": "2024-12-20 04:41:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/almond_brittle": {
+    "criteria": {
+      "has_almond": "2024-12-20 04:41:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_smoking": {
+    "criteria": {
+      "has_nut": "2024-12-20 04:41:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/walnut_sapling": {
+    "criteria": {
+      "has_walnut": "2024-12-20 04:41:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2024-12-20 04:44:41 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2024-12-20 04:48:03 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2024-12-20 04:49:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-20 04:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-20 04:49:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-12-20 04:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-20 04:49:40 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_dark_oak": "2024-12-20 05:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-20 05:03:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-20 04:58:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2024-12-20 04:58:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-20 04:54:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-20 04:54:15 +0000"
     },
     "done": true
   },

@@ -15228,7 +15228,9 @@
   },
   "ancient_aether:aether_biomes": {
     "criteria": {
-      "skyroot_woodland": "2024-12-01 23:58:08 +0000"
+      "skyroot_meadow": "2024-12-20 04:55:58 +0000",
+      "skyroot_woodland": "2024-12-01 23:58:08 +0000",
+      "holystone_caverns": "2024-12-20 04:57:03 +0000"
     },
     "done": false
   },
@@ -19870,21 +19872,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+  "alexsmobs:alexsmobs/murmur": {
     "criteria": {
-      "has_nether_gold_ore": "2024-12-20 04:30:42 +0000"
+      "killed_by": "2024-12-20 02:55:59 +0000"
     },
     "done": true
   },
   "goety:goety/kill_a_wraith": {
     "criteria": {
       "kill_a_wraith": "2024-12-20 02:58:41 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate_tiles/tiles_from_etched": {
-    "criteria": {
-      "has_planks": "2024-12-20 04:28:35 +0000"
     },
     "done": true
   },
@@ -19900,21 +19896,460 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/tiles_from_etched": {
+    "criteria": {
+      "has_planks": "2024-12-20 04:28:35 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_tiles/tiles": {
     "criteria": {
       "has_planks": "2024-12-20 04:28:35 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/murmur": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
-      "killed_by": "2024-12-20 02:55:59 +0000"
+      "has_nether_gold_ore": "2024-12-20 04:30:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2024-12-20 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/misc/smelt_raw_veridium": {
+    "criteria": {
+      "has_raw_veridium": "2024-12-20 04:41:12 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/raw_veridium_block": {
+    "criteria": {
+      "has_raw_veridium": "2024-12-20 04:41:12 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/misc/blast_raw_veridium": {
+    "criteria": {
+      "has_raw_veridium": "2024-12-20 04:41:12 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/misc/sunset_rose_to_red_dye": {
+    "criteria": {
+      "has_sunset_rose": "2024-12-20 04:42:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2024-12-20 04:42:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_aercloud_freezing": {
+    "criteria": {
+      "has_cold_aercloud": "2024-12-20 04:42:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
+    "criteria": {
+      "has_cold_aercloud": "2024-12-20 04:42:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 04:49:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 04:49:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/crystal_leaves_freezing": {
+    "criteria": {
+      "has_skyroot_leaves": "2024-12-20 04:49:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fence": {
+    "criteria": {
+      "has_skyroot_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_fence_gate": {
+    "criteria": {
+      "has_skyroot_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/skyroot_stick": {
+    "criteria": {
+      "has_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_axe": {
+    "criteria": {
+      "has_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/skyroot_bucket": {
+    "criteria": {
+      "has_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_trapdoor": {
+    "criteria": {
+      "has_skyroot_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_shovel": {
+    "criteria": {
+      "has_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_pickaxe": {
+    "criteria": {
+      "has_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart_shooter": {
+    "criteria": {
+      "has_skyroot_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_hoe": {
+    "criteria": {
+      "has_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_pressure_plate": {
+    "criteria": {
+      "has_skyroot_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_sword": {
+    "criteria": {
+      "has_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_sign": {
+    "criteria": {
+      "has_skyroot_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_stairs": {
+    "criteria": {
+      "has_skyroot_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_button": {
+    "criteria": {
+      "has_skyroot_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_door": {
+    "criteria": {
+      "has_skyroot_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_slab": {
+    "criteria": {
+      "has_skyroot_planks": "2024-12-20 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/aerogel_stairs_from_aerogel_stonecutting": {
+    "criteria": {
+      "has_aerogel": "2024-12-20 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/aerogel_stairs": {
+    "criteria": {
+      "has_aerogel": "2024-12-20 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/aerogel_wall_from_aerogel_stonecutting": {
+    "criteria": {
+      "has_aerogel": "2024-12-20 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/aerogel_slab_from_aerogel_stonecutting": {
+    "criteria": {
+      "has_aerogel": "2024-12-20 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/aerogel_wall": {
+    "criteria": {
+      "has_aerogel": "2024-12-20 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/building_blocks/aerogel_glass": {
+    "criteria": {
+      "has_aerogel": "2024-12-20 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/aerogel_slab": {
+    "criteria": {
+      "has_aerogel": "2024-12-20 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/misc/paper_from_aechor_petals": {
+    "criteria": {
+      "has_aechor_petal": "2024-12-20 04:53:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2024-12-20 04:53:09 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2024-12-20 04:53:09 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/blue_swet_jelly": {
+    "criteria": {
+      "has_swet_ball": "2024-12-20 04:53:37 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/blue_gummy_swet": {
+    "criteria": {
+      "has_swet_ball": "2024-12-20 04:53:37 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/building_blocks/sakura_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 04:54:11 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/building_blocks/sakura_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 04:54:11 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/redstone/sakura_button": {
+    "criteria": {
+      "has_sakura_planks": "2024-12-20 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/building_blocks/sakura_slab": {
+    "criteria": {
+      "has_sakura_planks": "2024-12-20 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/redstone/sakura_fence_gate": {
+    "criteria": {
+      "has_sakura_planks": "2024-12-20 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/decorations/sakura_sign": {
+    "criteria": {
+      "has_sakura_planks": "2024-12-20 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/redstone/sakura_pressure_plate": {
+    "criteria": {
+      "has_sakura_planks": "2024-12-20 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/building_blocks/sakura_stairs": {
+    "criteria": {
+      "has_sakura_planks": "2024-12-20 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/redstone/sakura_trapdoor": {
+    "criteria": {
+      "has_sakura_planks": "2024-12-20 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/redstone/sakura_door": {
+    "criteria": {
+      "has_sakura_planks": "2024-12-20 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/decorations/sakura_fence": {
+    "criteria": {
+      "has_sakura_planks": "2024-12-20 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/enchanted_dart_enchanting": {
+    "criteria": {
+      "has_golden_dart": "2024-12-20 05:01:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart": {
+    "criteria": {
+      "has_golden_dart": "2024-12-20 05:01:17 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/misc/wynd_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "smithing_templates": "2024-12-20 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant_repairing": {
+    "criteria": {
+      "has_zanite_pendant": "2024-12-20 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/misc/wynd_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wynd_armor_trim_smithing_template": "2024-12-20 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/decorations/ambrosium_lantern": {
+    "criteria": {
+      "has_ambrosium_torch": "2024-12-20 05:02:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword_repairing": {
+    "criteria": {
+      "has_zanite_sword": "2024-12-20 05:02:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2024-12-20 05:02:52 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:moa_eggs": {
+    "criteria": {
+      "blue_moa_egg": "2024-12-20 05:02:52 +0000",
+      "white_moa_egg": "2024-12-20 05:04:12 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/incubation/blue_moa_incubation": {
+    "criteria": {
+      "has_blue_moa_egg": "2024-12-20 05:02:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2024-12-20 05:02:52 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2024-12-20 05:02:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2024-12-20 05:02:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2024-12-20 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/white_moa_incubation": {
+    "criteria": {
+      "has_white_moa_egg": "2024-12-20 05:04:12 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2024-12-20 05:06:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_helmet_repairing": {
+    "criteria": {
+      "has_gravitite_helmet": "2024-12-20 05:06:24 +0000"
+    },
+    "done": true
+  },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_helmet": "2024-12-20 05:06:24 +0000"
+    },
+    "done": false
+  },
+  "aether_redux:recipes/building_blocks/driftshale": {
+    "criteria": {
+      "has_quicksoil": "2024-12-20 05:10:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/quicksoil_glass_enchanting": {
+    "criteria": {
+      "has_quicksoil": "2024-12-20 05:10:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/flower_to_white_dye": {
+    "criteria": {
+      "has_white_flower": "2024-12-20 05:10:19 +0000"
     },
     "done": true
   },
