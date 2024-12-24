@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "infinity_cave:mechanics/altar/tick": {
+    "criteria": {
+      "requirement": "2024-12-20 06:33:28 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2024-10-27 05:58:04 +0000"
@@ -20348,9 +20354,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
+  "croptopia:recipes/sushi": {
     "criteria": {
-      "has_oak_trapdoor": "2024-12-20 05:18:57 +0000"
+      "has_rice": "2024-12-20 05:57:36 +0000"
     },
     "done": true
   },
@@ -20360,99 +20366,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-20 06:28:39 +0000"
+    },
+    "done": true
+  },
   "farmerscroptopia:recipes/farmersdelight_crafting/stuffed_pumpkin_block": {
     "criteria": {
       "has_the_recipe": "2024-12-20 05:53:35 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/pumpkin_bars": {
+  "infinity_cave:display/structure/amethyst_altar": {
     "criteria": {
-      "has_pumpkin": "2024-12-20 05:53:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2024-12-20 05:53:35 +0000"
-    },
-    "done": true
-  },
-  "farmerscroptopia:recipes/croptopia_cooking/pumpkin_soup": {
-    "criteria": {
-      "has_the_recipe": "2024-12-20 05:53:35 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/sushi": {
-    "criteria": {
-      "has_rice": "2024-12-20 05:57:36 +0000"
-    },
-    "done": true
-  },
-  "farmerscroptopia:recipes/croptopia_cooking/steamed_rice": {
-    "criteria": {
-      "has_the_recipe": "2024-12-20 05:57:36 +0000"
-    },
-    "done": true
-  },
-  "farmerscroptopia:recipes/farmersdelight_crafting/cooked_rice": {
-    "criteria": {
-      "has_the_recipe": "2024-12-20 05:57:36 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/steamed_rice": {
-    "criteria": {
-      "has_rice": "2024-12-20 05:57:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2024-12-20 05:57:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
-    "criteria": {
-      "has_rice": "2024-12-20 05:57:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2024-12-20 06:04:25 +0000"
-    },
-    "done": true
-  },
-  "stellarity:nether/imbuements": {
-    "criteria": {
-      "criteria": "2024-12-20 06:05:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2024-12-20 06:09:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2024-12-20 06:09:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2024-12-20 06:09:47 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_slab": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-20 06:28:39 +0000"
+      "requirement": "2024-12-20 06:32:57 +0000"
     },
     "done": true
   },
@@ -20462,9 +20390,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-20 06:09:47 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-20 06:28:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/imbuements": {
+    "criteria": {
+      "criteria": "2024-12-20 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/alloying/alloying/steel_ingot_from_alloying_iron_ingot_and_coals": {
+    "criteria": {
+      "has_item": "2024-12-20 06:47:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2024-12-20 05:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-20 06:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-20 06:04:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-20 05:18:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2024-12-20 06:55:01 +0000"
     },
     "done": true
   },
@@ -20474,9 +20450,51 @@
     },
     "done": true
   },
+  "ad_astra:smart_blasting": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2024-12-20 06:47:24 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-20 06:28:39 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:ad_astra": {
+    "criteria": {
+      "has_coal_generator": "2024-12-20 06:46:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/ghost_mucus": {
+    "criteria": {
+      "has_item": "2024-12-20 06:57:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-12-20 05:53:35 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/steel_tower_shield": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-20 06:49:32 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/steamed_rice": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2024-12-20 06:49:32 +0000"
     },
     "done": true
   },
@@ -20486,15 +20504,87 @@
     },
     "done": true
   },
+  "farmerscroptopia:recipes/croptopia_cooking/pumpkin_soup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 05:53:35 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/cooked_rice": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-20 06:09:47 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:under_pressure": {
+    "criteria": {
+      "has_compressor": "2024-12-20 06:42:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2024-12-20 06:49:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/steamed_rice": {
+    "criteria": {
+      "has_rice": "2024-12-20 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/geysers/souled": {
+    "criteria": {
+      "has_item": "2024-12-20 06:55:51 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-20 06:28:39 +0000"
     },
     "done": true
   },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2024-12-20 06:55:55 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:carbon_footprint": {
+    "criteria": {
+      "has_coal_generator": "2024-12-20 06:46:59 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_nugget": {
+    "criteria": {
+      "has_steel_nugget": "2024-12-20 06:49:32 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-20 06:28:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-20 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/steel_basic_shield": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-20 06:49:32 +0000"
     },
     "done": true
   },
@@ -20510,6 +20600,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-12-20 05:57:36 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-20 06:28:39 +0000"
@@ -20519,108 +20615,6 @@
   "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-20 06:28:39 +0000"
-    },
-    "done": true
-  },
-  "infinity_cave:display/structure/amethyst_altar": {
-    "criteria": {
-      "requirement": "2024-12-20 06:32:57 +0000"
-    },
-    "done": true
-  },
-  "infinity_cave:mechanics/altar/tick": {
-    "criteria": {
-      "requirement": "2024-12-20 06:33:28 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:under_pressure": {
-    "criteria": {
-      "has_compressor": "2024-12-20 06:42:11 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:ad_astra": {
-    "criteria": {
-      "has_coal_generator": "2024-12-20 06:46:59 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:carbon_footprint": {
-    "criteria": {
-      "has_coal_generator": "2024-12-20 06:46:59 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/alloying/alloying/steel_ingot_from_alloying_iron_ingot_and_coals": {
-    "criteria": {
-      "has_item": "2024-12-20 06:47:24 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:smart_blasting": {
-    "criteria": {
-      "has_etrionic_blast_furnace": "2024-12-20 06:47:24 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/steel_tower_shield": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-20 06:49:32 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/steel_block": {
-    "criteria": {
-      "has_steel_block": "2024-12-20 06:49:32 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
-    "criteria": {
-      "has_item": "2024-12-20 06:49:32 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/steel_nugget": {
-    "criteria": {
-      "has_steel_nugget": "2024-12-20 06:49:32 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/steel_basic_shield": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-20 06:49:32 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/frightening_rush": {
-    "criteria": {
-      "condition": "2024-12-20 06:55:01 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/geysers/souled": {
-    "criteria": {
-      "has_item": "2024-12-20 06:55:51 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/non_renewable_yeah_right": {
-    "criteria": {
-      "killed_entity": "2024-12-20 06:55:55 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/ghost_mucus": {
-    "criteria": {
-      "has_item": "2024-12-20 06:57:07 +0000"
-    },
-    "done": true
-  },
-  "memory_of_the_past:first_level_up": {
-    "criteria": {
-      "first_level_up_0": "2024-12-21 01:54:21 +0000"
     },
     "done": true
   },
