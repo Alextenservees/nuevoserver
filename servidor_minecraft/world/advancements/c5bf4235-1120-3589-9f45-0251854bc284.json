@@ -2480,5 +2480,23 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/spellbooks/updraft": {
+    "criteria": {
+      "requirement": "2025-02-10 03:54:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/natures_wrath": {
+    "criteria": {
+      "requirement": "2025-02-10 03:54:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement": "2025-02-10 03:54:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
