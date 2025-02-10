@@ -2187,7 +2187,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:quartz_flats": "2025-01-11 01:47:29 +0000"
+      "incendium:quartz_flats": "2025-01-11 01:47:29 +0000",
+      "incendium:withered_forest": "2025-02-10 05:27:56 +0000"
     },
     "done": false
   },
@@ -2495,6 +2496,30 @@
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
     "criteria": {
       "requirement": "2025-02-10 03:54:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-02-10 05:27:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-02-10 05:37:50 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:sheep": "2025-02-10 06:47:08 +0000"
+    },
+    "done": false
+  },
+  "goety:goety/get_withered_manuscript": {
+    "criteria": {
+      "withered_manuscript": "2025-02-10 06:54:51 +0000"
     },
     "done": true
   },
