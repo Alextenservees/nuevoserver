@@ -4020,3 +4020,24 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [10Feb2025 23:39:45.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
 [10Feb2025 23:39:57.585] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [10Feb2025 23:39:57.585] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Feb2025 23:44:57.589] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Feb2025 23:44:57.589] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Feb2025 23:46:52.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[10Feb2025 23:47:39.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[10Feb2025 23:49:28.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[10Feb2025 23:49:43.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[10Feb2025 23:49:57.590] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Feb2025 23:49:57.590] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Feb2025 23:50:51.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[10Feb2025 23:51:47.072] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2, y=107, z=-81}
+[10Feb2025 23:52:06.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[10Feb2025 23:52:09.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[10Feb2025 23:52:40.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 lost connection: Timed out
+[10Feb2025 23:52:40.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 left the game
+[10Feb2025 23:52:40.228] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Feb2025 23:52:56.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexten22[/127.223.213.102:52995] logged in with entity id 10677 at (-6.874471554028986, 108.0, 3.530845196166435)
+[10Feb2025 23:52:58.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
+[10Feb2025 23:52:58.661] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
+[10Feb2025 23:52:58.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
+[10Feb2025 23:53:26.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 lost connection: Disconnected
+[10Feb2025 23:53:26.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 left the game
