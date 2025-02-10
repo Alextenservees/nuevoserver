@@ -1,6 +1,6 @@
 #Enables auto-reloading of guns
 #Allowed Values: CREATIVE, SURVIVAL, ENABLED, DISABLED
-autoReloadEnabled = "SURVIVAL"
+autoReloadEnabled = "CREATIVE"
 #Adjusts mouse sensitivity when using scopes
 #Range: 0.01 ~ 0.9
 scopeAimingMouseSensitivity = 0.4
@@ -44,7 +44,7 @@ itemDropChance = 0.35
 #Range: 2 ~ 64
 maxItemDropCount = 7
 #Enables bullets breaking glass
-bulletsBreakGlassEnabled = false
+bulletsBreakGlassEnabled = true
 #Modifier to adjust damage dealt by hitscan weapons.
 #Range: 0.1 ~ 10.0
 hitscanDamageModifier = 1.0
@@ -58,4 +58,8 @@ crosshair = "DEFAULT"
 goreEnabled = true
 #Enables advanced integraiton with Iris shaders
 advancedIrisIntegrationEnabled = true
+#Enables advanced first person animations
+firstPersonAnimationsEnabled = true
+#Enables advanced third person animations
+thirdPersonAnimationsEnabled = true
 

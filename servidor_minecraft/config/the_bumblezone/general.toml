@@ -159,6 +159,12 @@
 	# 
 	#-----------------------------------------------------
 	#
+	# Allow Bee Queen to pick up items off ground to do trading.
+	#
+	beeQueenGroundPickup = true
+	# 
+	#-----------------------------------------------------
+	#
 	# Whether the Crystalline Flower block will eat any item entity that touches the block's collision box in the world
 	#
 	crystallineFlowerConsumeItemEntities = true
@@ -316,6 +322,12 @@
 	# Whether the Essence events in Sempiternal Sanctums can be repeated after beating it once.
 	#
 	repeatableEssenceEvents = true
+	# 
+	#-----------------------------------------------------
+	#
+	# Whether the Blue Arena in Sempiternal Sanctum has the moving bubble block mechanic.
+	#
+	blueArenaBubblesMechanic = true
 	# 
 	#-----------------------------------------------------
 	#
