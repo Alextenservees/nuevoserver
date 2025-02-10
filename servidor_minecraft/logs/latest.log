@@ -3987,3 +3987,26 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [10Feb2025 23:19:20.940] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
 [10Feb2025 23:19:57.592] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [10Feb2025 23:19:57.592] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Feb2025 23:23:46.973] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-43, y=104, z=-16}
+[10Feb2025 23:24:57.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Feb2025 23:24:57.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Feb2025 23:29:55.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[10Feb2025 23:29:57.593] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Feb2025 23:29:57.593] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Feb2025 23:30:52.741] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/38, l='ServerLevel[world]', x=-5.44, y=108.86, z=5.70] died, message: 'Armorer was slain by Zombie Villager'
+[10Feb2025 23:30:54.891] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/6300, l='ServerLevel[world]', x=-5.80, y=108.56, z=4.98] died, message: 'Possessed Villager was slain by Zombie Villager'
+[10Feb2025 23:31:04.643] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/6341, l='ServerLevel[world]', x=-6.50, y=109.18, z=1.32] died, message: 'Possessed Villager was slain by Zombie Villager'
+[10Feb2025 23:31:07.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/6358, l='ServerLevel[world]', x=-6.60, y=108.00, z=2.59] died, message: 'Possessed Villager was slain by Zombie Villager'
+[10Feb2025 23:31:14.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: The difficulty has been set to Hard]
+[10Feb2025 23:31:34.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['[Lv.75] Mason'/6397, l='ServerLevel[world]', x=-6.57, y=108.00, z=4.46] died, message: '[Lv.75] Mason was slain by Zombie Villager'
+[10Feb2025 23:31:34.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PosVillager['[Lv.75] Mason'/6397, l='ServerLevel[world]', x=-6.57, y=108.00, z=4.46] died: [Lv.75] Mason was slain by Zombie Villager
+[10Feb2025 23:31:55.243] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['[Lv.75] Lvl 1 | Zombie Villager | ❤ 23/23'/6455, l='ServerLevel[world]', x=-6.32, y=108.75, z=-2.66] died, message: '[Lv.75] Lvl 1 | Zombie Villager | ❤ 23/23 was slain by [Lv.75] Mason'
+[10Feb2025 23:31:55.245] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PosVillager['[Lv.75] Lvl 1 | Zombie Villager | ❤ 23/23'/6455, l='ServerLevel[world]', x=-6.32, y=108.75, z=-2.66] died: [Lv.75] Lvl 1 | Zombie Villager | ❤ 23/23 was slain by [Lv.75] Mason
+[10Feb2025 23:32:03.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/6460, l='ServerLevel[world]', x=-6.62, y=108.00, z=-1.06] died, message: 'Possessed Villager was slain by Zombie Villager'
+[10Feb2025 23:32:09.642] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['[Lv.75] Librarian'/6492, l='ServerLevel[world]', x=-6.70, y=108.00, z=5.70] died, message: '[Lv.75] Librarian was slain by Zombie Villager'
+[10Feb2025 23:32:09.643] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PosVillager['[Lv.75] Librarian'/6492, l='ServerLevel[world]', x=-6.70, y=108.00, z=5.70] died: [Lv.75] Librarian was slain by Zombie Villager
+[10Feb2025 23:32:19.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[10Feb2025 23:32:41.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[10Feb2025 23:32:45.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[10Feb2025 23:32:54.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[10Feb2025 23:33:12.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
