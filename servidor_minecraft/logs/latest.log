@@ -75,3 +75,39 @@
 [11Feb2025 00:20:16.359] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / stellarity:village], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / atmospheric:village_scrubland], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red]] from pos BlockPos{x=-571, y=99, z=-229}
 [11Feb2025 00:20:20.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
 [11Feb2025 00:22:25.873] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-35, y=99, z=5}
+[11Feb2025 00:24:15.646] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:24:15.647] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:24:15.648] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:24:15.649] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:24:15.649] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:24:15.701] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:24:15.702] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:24:20.204] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:24:20.205] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:24:20.205] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:24:20.205] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:25:03.941] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Feb2025 00:25:03.942] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Feb2025 00:25:15.340] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:25:15.341] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:25:15.468] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:25:15.469] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:25:16.351] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:25:16.363] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:25:16.363] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:25:16.364] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:25:16.364] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:28:15.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Scout'/25147, l='ServerLevel[world]', x=-510.72, y=200.01, z=-252.62] died: Scout was slain by Alexten22
+[11Feb2025 00:28:26.172] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-479, y=118, z=-299}
+[11Feb2025 00:28:44.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [First Steps]
+[11Feb2025 00:28:44.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [Zymurgist]
+[11Feb2025 00:28:53.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Fred'/25313, l='ServerLevel[world]', x=-508.05, y=201.00, z=-253.16] died: Fred was slain by Alexten22
+[11Feb2025 00:29:24.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Ragnorok'/25385, l='ServerLevel[world]', x=-508.00, y=201.81, z=-252.00] died: Ragnorok was slain by Alexten22
+[11Feb2025 00:30:03.947] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Feb2025 00:30:03.947] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Feb2025 00:30:05.551] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Filibuster'/25503, l='ServerLevel[world]', x=-505.66, y=201.00, z=-247.92] died: Filibuster was slain by Alexten22
+[11Feb2025 00:30:15.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Great Scott'/25513, l='ServerLevel[world]', x=-512.08, y=197.88, z=-253.57] died: Great Scott was slain by Alexten22
+[11Feb2025 00:30:29.130] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Smokey'/25566, l='ServerLevel[world]', x=-505.01, y=201.47, z=-250.03] died: Smokey was slain by Alexten22
+[11Feb2025 00:32:16.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-503, y=117, z=-281} BlockPos{x=-501, y=117, z=-281}
+[11Feb2025 00:32:50.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[11Feb2025 00:33:01.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
