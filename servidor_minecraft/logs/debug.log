@@ -20903,3 +20903,178 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [11Feb2025 00:10:23.636] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
 [11Feb2025 00:10:34.219] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/hunter_base
 [11Feb2025 00:13:22.455] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 83975447 to 6
+[11Feb2025 00:15:01.906] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[11Feb2025 00:15:01.906] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Feb2025 00:15:01.906] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Feb2025 00:15:02.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Feb2025 00:15:02.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Feb2025 00:15:02.317] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[11Feb2025 00:18:58.543] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pool_small1 is being run through DFU (hash 87d50ce9873950a4699aa3cbfd218776deeaebf21900f451d51ce9639c457bf5), this will cause launch time delays
+[11Feb2025 00:19:01.794] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:19:01.795] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:19:01.797] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:19:01.798] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:19:01.799] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:19:01.856] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:19:01.857] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:19:03.312] [Worker-Main-2/DEBUG] [ModernFix/]: Structure awesomedungeonocean:brigantine is being run through DFU (hash 53c32f57871d2256e1e3389ce92aa259ef34064c6296e6d15fac9281972c909e), this will cause launch time delays
+[11Feb2025 00:19:04.007] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_cac
+[11Feb2025 00:19:04.008] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_axe
+[11Feb2025 00:19:04.008] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_bow
+[11Feb2025 00:19:04.009] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_axe
+[11Feb2025 00:19:04.009] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_cac
+[11Feb2025 00:19:04.009] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_bow
+[11Feb2025 00:19:04.128] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_quad
+[11Feb2025 00:19:04.161] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:underwater_ruin/brick_1 is being run through DFU (hash 70b30d75cd744bd3288d47cbcf212d5ba0b85570133ae84f8a75af6d831efcef), this will cause launch time delays
+[11Feb2025 00:19:04.177] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:underwater_ruin/cracked_1 is being run through DFU (hash 5ca841302ae4bb736b26bb832912ba8b391efcba8078289d0092e883fdeaefa1), this will cause launch time delays
+[11Feb2025 00:19:04.187] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:underwater_ruin/mossy_1 is being run through DFU (hash 70b30d75cd744bd3288d47cbcf212d5ba0b85570133ae84f8a75af6d831efcef), this will cause launch time delays
+[11Feb2025 00:19:04.669] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house1
+[11Feb2025 00:19:04.682] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/ruin1 is being run through DFU (hash 4baf7dd29860dc76efe3215ced74155e4ba2923468f2edf7a620a422cb4d2c81), this will cause launch time delays
+[11Feb2025 00:19:04.713] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/settlement_large is being run through DFU (hash 3e976dfd920477900ab9db8bc43cf15421f7540811822d050f285d89755c60c3), this will cause launch time delays
+[11Feb2025 00:19:04.801] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard2
+[11Feb2025 00:19:04.811] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[11Feb2025 00:19:04.818] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/scarecrow
+[11Feb2025 00:19:04.836] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/3/top is being run through DFU (hash 650d40991420c09b2cfdf15565ad6237acbc8c2ad7b0687eab982f4304271535), this will cause launch time delays
+[11Feb2025 00:19:04.845] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/villagers/unemployed_plains
+[11Feb2025 00:19:06.271] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:19:06.272] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:19:06.354] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:19:06.354] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:19:27.380] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_01 is being run through DFU (hash d938264cbdbe6c3fbc712b9138dad69981ed85b1cb37cdd3c3ddbac6d821b63b), this will cause launch time delays
+[11Feb2025 00:19:35.536] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[11Feb2025 00:19:39.233] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[11Feb2025 00:19:44.063] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_3b is being run through DFU (hash 03aecb277235d6af8e2e116f1a999dfaf2bc283da61fa36995ff103307a3c105), this will cause launch time delays
+[11Feb2025 00:19:45.370] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_19 is being run through DFU (hash 1894407e8c4bcdd839c99bab5dc51283c5e5083d1e58eb277b6697500cc3136b), this will cause launch time delays
+[11Feb2025 00:19:45.378] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_19b is being run through DFU (hash d2635e0cda896f59b2f015663e11173f6367a06165e0cf5c3766589be6efc4f0), this will cause launch time delays
+[11Feb2025 00:19:48.213] [Worker-Main-2/DEBUG] [ModernFix/]: Structure idas:nexus/nexus_red is being run through DFU (hash e1f89c6305b6778ec0fdb996434945d5114980a4658252087bd92f00f10edfcc), this will cause launch time delays
+[11Feb2025 00:19:51.802] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of idas:lumber_camp/lumber_camp_spruce
+[11Feb2025 00:19:54.553] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:19:56.102] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_enterance_2 is being run through DFU (hash 0530d942791e0ede6323db972cf0ec63f4ca40401c257284c12b1d7edacca85d), this will cause launch time delays
+[11Feb2025 00:20:00.897] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:20:00.898] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:20:00.898] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:20:00.899] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:20:01.670] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_13 is being run through DFU (hash be147b02042888c3ee04f32b1ec22eba46a28181be72f3defe68bcfa98203d41), this will cause launch time delays
+[11Feb2025 00:20:02.005] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[11Feb2025 00:20:02.005] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Feb2025 00:20:02.006] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Feb2025 00:20:02.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Feb2025 00:20:02.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Feb2025 00:20:02.434] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[11Feb2025 00:20:02.442] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:20:02.442] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:20:02.443] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:20:02.443] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Feb2025 00:20:11.402] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[11Feb2025 00:20:11.485] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_14 is being run through DFU (hash 58a4daf5012dfddd6e5e85ab6d10ab88c034ee55661502a4e92bda8c67a48a49), this will cause launch time delays
+[11Feb2025 00:20:11.566] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_10 is being run through DFU (hash c7974966b3cacec8f613dc29c7de8da5876a080944286a022e569a6cf4e769ea), this will cause launch time delays
+[11Feb2025 00:20:15.319] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hunters_return:hunter_house/watch_tower is being run through DFU (hash c5d428f99aca5a73c2f8454e2eb015a7267a2308202eb51c939adb4c569f43a3), this will cause launch time delays
+[11Feb2025 00:20:15.330] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hunters_return:hunter_house/mob/hunter_guard is being run through DFU (hash ae5829ad660fc2b59091d9a6ac4d0420705aeaf2454073e36ee7499639ad5bc5), this will cause launch time delays
+[11Feb2025 00:20:16.359] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / stellarity:village], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / atmospheric:village_scrubland], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red]] from pos BlockPos{x=-571, y=99, z=-229}
+[11Feb2025 00:20:18.211] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_06 is being run through DFU (hash 6c1da2b21280ecf0012a28b5a48c1e2abe843922cfeb1f252f2f5741af6ca9b4), this will cause launch time delays
+[11Feb2025 00:20:19.079] [pool-7-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_meeting_point_2
+[11Feb2025 00:20:19.385] [pool-7-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_meeting_point_1
+[11Feb2025 00:20:19.469] [pool-7-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_2
+[11Feb2025 00:20:20.053] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/plains_curve
+[11Feb2025 00:20:20.068] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/plains_straight2
+[11Feb2025 00:20:20.074] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[11Feb2025 00:20:20.075] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/plains_straight
+[11Feb2025 00:20:20.081] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/plains_deadend
+[11Feb2025 00:20:20.088] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/plains_crossroad_2
+[11Feb2025 00:20:20.089] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/plains_straight3
+[11Feb2025 00:20:20.089] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/plains_straight4
+[11Feb2025 00:20:20.090] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/plains_crossroad_1
+[11Feb2025 00:20:20.091] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/plains_crossroad_3
+[11Feb2025 00:20:20.155] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_big_house
+[11Feb2025 00:20:20.252] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[11Feb2025 00:20:20.259] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_02
+[11Feb2025 00:20:20.284] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/decor/plains_decor_4
+[11Feb2025 00:20:20.292] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/decor/plains_decor_1
+[11Feb2025 00:20:20.293] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/decor/plains_decor_2
+[11Feb2025 00:20:20.293] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/decor/plains_decor_3
+[11Feb2025 00:20:20.384] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_04
+[11Feb2025 00:20:20.391] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_03
+[11Feb2025 00:20:20.391] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_01
+[11Feb2025 00:20:20.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[11Feb2025 00:20:50.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[11Feb2025 00:20:50.016] [Server thread/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_underground/quarters1 is being run through DFU (hash 1a86f31622546f855e57e366d81a114a3f5d13a7d93176f1fcf60460deb6b5f8), this will cause launch time delays
+[11Feb2025 00:20:50.019] [Server thread/DEBUG] [ModernFix/]: Structure structory:entities/pillager is being run through DFU (hash 2a4094aa70ef7539db642c248665cec351ef49d1efab8aaca905046cc7db2048), this will cause launch time delays
+[11Feb2025 00:20:50.024] [Server thread/DEBUG] [ModernFix/]: Structure structory:entities/evoker is being run through DFU (hash 93f91f4927d6f37c9c0df8041f9ebd84a65c7e194017d09899e9bd0be7e70376), this will cause launch time delays
+[11Feb2025 00:20:50.027] [Server thread/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_underground/treasure2 is being run through DFU (hash 0f72348417410630445a08d013d02afebbe21646a01c50915c62f617ebdc015b), this will cause launch time delays
+[11Feb2025 00:20:50.029] [Server thread/DEBUG] [ModernFix/]: Structure structory:entities/vindicator is being run through DFU (hash 5dd6855f36d88b29c351f5e2b8fa10a2f2de7bf2038af87e3447547776df5d69), this will cause launch time delays
+[11Feb2025 00:20:50.033] [Server thread/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_underground/quarters_ladder is being run through DFU (hash 1837628f447573c20dd71368c75ca24ccd346b1f21e92d2ea06fac435c701524), this will cause launch time delays
+[11Feb2025 00:20:50.034] [Server thread/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_underground/quarters_entrance is being run through DFU (hash 7449d232a0f73dedb60a4ffc18efcafd259f7efa62b52ff09cb5cecae29e696d), this will cause launch time delays
+[11Feb2025 00:20:50.036] [Server thread/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_underground/quarters_hall3 is being run through DFU (hash d429ce3cc59e949938a54a13cf8697dfcc4b9fccd446ddf7fb037432421687fe), this will cause launch time delays
+[11Feb2025 00:20:50.039] [Server thread/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_underground/quarters_hall3_enchanting is being run through DFU (hash 63d32d1ae50bc800b388684692a8c1df756ba5b822ba226a0e96b537ef662b2a), this will cause launch time delays
+[11Feb2025 00:20:50.041] [Server thread/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_underground/quarters_hall_bedroom2 is being run through DFU (hash 4549df12a9349c05148d6aba2fa64a28de7ab2818df2e97e7feb01b5de878474), this will cause launch time delays
+[11Feb2025 00:20:50.043] [Server thread/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_underground/quarters_hall_library is being run through DFU (hash 03e532c83112ebf9f9d36cd6d166ca9205de3d56f8b7ef3c17ba1918bfc8f155), this will cause launch time delays
+[11Feb2025 00:20:50.045] [Server thread/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_underground/quarters_hall_books is being run through DFU (hash 0e18af635089cf2d80d881674d297a54b2cf4bea6d773a72d0d417192c91ab9b), this will cause launch time delays
+[11Feb2025 00:20:50.047] [Server thread/DEBUG] [ModernFix/]: Structure structory:entities/witch is being run through DFU (hash 53c2202f5d8550846c1ef8398d4629d417e2fd9b7738084cbe286cc28841c4bd), this will cause launch time delays
+[11Feb2025 00:22:09.550] [Server thread/DEBUG] [pointblank/]: 29550 handling client fire request
+[11Feb2025 00:22:09.550] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 83975447 to 5
+[11Feb2025 00:22:09.550] [Server thread/DEBUG] [pointblank/]: 29550 - obtained hit result in 0ms
+[11Feb2025 00:22:09.550] [Server thread/DEBUG] [pointblank/]: 29550 - obtained hit result in 0ms
+[11Feb2025 00:22:09.550] [Server thread/DEBUG] [pointblank/]: 29550 - obtained hit result in 0ms
+[11Feb2025 00:22:09.550] [Server thread/DEBUG] [pointblank/]: 29550 - obtained hit result in 0ms
+[11Feb2025 00:22:09.550] [Server thread/DEBUG] [pointblank/]: 29550 - obtained hit result in 0ms
+[11Feb2025 00:22:09.550] [Server thread/DEBUG] [pointblank/]: 29550 - obtained hit result in 0ms
+[11Feb2025 00:22:09.550] [Server thread/DEBUG] [pointblank/]: 29550 - obtained hit result in 0ms
+[11Feb2025 00:22:09.550] [Server thread/DEBUG] [pointblank/]: 29550 - obtained hit result in 0ms
+[11Feb2025 00:22:09.550] [Server thread/DEBUG] [pointblank/]: 29550 - obtained hit result in 0ms
+[11Feb2025 00:22:09.550] [Server thread/DEBUG] [pointblank/]: 29550 - obtained hit result in 0ms
+[11Feb2025 00:22:09.551] [Server thread/DEBUG] [pointblank/]: 29551 - obtained hit result in 1ms
+[11Feb2025 00:22:09.551] [Server thread/DEBUG] [pointblank/]: 29551 - obtained hit result in 0ms
+[11Feb2025 00:22:09.551] [Server thread/DEBUG] [pointblank/]: 29551 - obtained hit result in 0ms
+[11Feb2025 00:22:09.551] [Server thread/DEBUG] [pointblank/]: 29551 - obtained hit result in 0ms
+[11Feb2025 00:22:09.551] [Server thread/DEBUG] [pointblank/]: 29551 - obtained hit result in 0ms
+[11Feb2025 00:22:09.551] [Server thread/DEBUG] [pointblank/]: 29551 - obtained hit result in 0ms
+[11Feb2025 00:22:09.551] [Server thread/DEBUG] [pointblank/]: 29551 - obtained hit result in 0ms
+[11Feb2025 00:22:09.551] [Server thread/DEBUG] [pointblank/]: 29551 - obtained hit result in 0ms
+[11Feb2025 00:22:09.551] [Server thread/DEBUG] [pointblank/]: 29551 - obtained hit result in 0ms
+[11Feb2025 00:22:09.551] [Server thread/DEBUG] [pointblank/]: 29551 - obtained hit result in 0ms
+[11Feb2025 00:22:09.551] [Server thread/DEBUG] [pointblank/]: 29551 obtained hit results
+[11Feb2025 00:22:09.551] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7bdf8601
+[11Feb2025 00:22:09.558] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.558] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2211325b
+[11Feb2025 00:22:09.562] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.562] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7f12a4dd
+[11Feb2025 00:22:09.562] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.562] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4d05a516
+[11Feb2025 00:22:09.566] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.566] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@255dbb50
+[11Feb2025 00:22:09.566] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.566] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2531da3b
+[11Feb2025 00:22:09.567] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.567] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f6fa60c
+[11Feb2025 00:22:09.567] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.567] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2fa297e2
+[11Feb2025 00:22:09.567] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.567] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@67ed3e7d
+[11Feb2025 00:22:09.570] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.570] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4ca6d0b9
+[11Feb2025 00:22:09.571] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.571] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7ecb50e7
+[11Feb2025 00:22:09.577] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.577] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@456dd55b
+[11Feb2025 00:22:09.577] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.577] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4b7d155d
+[11Feb2025 00:22:09.577] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.577] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@31a42793
+[11Feb2025 00:22:09.577] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.578] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@154c1528
+[11Feb2025 00:22:09.578] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.578] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3ea0ddd7
+[11Feb2025 00:22:09.578] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.578] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1dd4f0a3
+[11Feb2025 00:22:09.578] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.579] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@ddcc435
+[11Feb2025 00:22:09.579] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.579] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@784c75f3
+[11Feb2025 00:22:09.579] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:09.579] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@403a5148
+[11Feb2025 00:22:09.579] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01] sends hit scan notification to ServerPlayer['Alexten22'/10808, l='ServerLevel[world]', x=-373.05, y=72.00, z=-279.01]
+[11Feb2025 00:22:25.873] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-35, y=99, z=5}
+[11Feb2025 00:23:10.960] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/illusioner_normal_0 is being run through DFU (hash 6f23502f1c946861055d5d38e3de8e783681f1bc18b8a4d6bac34080fd1ef525), this will cause launch time delays
+[11Feb2025 00:23:10.966] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/skeleton_armored_0 is being run through DFU (hash 0b114af481df7368765dfcb485fd7685ad7c029bd69ef06a87e635e2b056efcd), this will cause launch time delays
+[11Feb2025 00:23:10.970] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_road_entrance is being run through DFU (hash 05f8cd9492c5bbdbec92626c83fcaea8444e57e04ec5360ee8bfeda3ee24e5a7), this will cause launch time delays
+[11Feb2025 00:23:12.747] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
