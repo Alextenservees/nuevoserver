@@ -2963,89 +2963,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "croptopia:gather_forest": {
     "criteria": {
-      "log_spam_fixer": "2025-02-10 06:53:56 +0000"
+      "grape_seed": "2025-02-10 06:28:17 +0000"
     },
     "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 06:53:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 06:53:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 06:53:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 06:53:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 06:53:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 06:53:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 06:53:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 06:53:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 06:53:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 06:53:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 06:53:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:withered_forest/root": {
-    "criteria": {
-      "requirement": "2025-02-10 06:33:01 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/ruined_lab": {
-    "criteria": {
-      "requirement": "2025-02-10 06:38:38 +0000"
-    },
-    "done": true
   },
   "goety:goety/get_totem": {
     "criteria": {
@@ -3053,33 +2975,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "incendium:withered_forest/root": {
     "criteria": {
-      "tamed_animal": "2025-02-10 06:48:12 +0000"
+      "requirement": "2025-02-10 06:33:01 +0000"
     },
     "done": true
-  },
-  "croptopia:gather_forest": {
-    "criteria": {
-      "grape_seed": "2025-02-10 06:28:17 +0000"
-    },
-    "done": false
   },
   "incendium:misc/root": {
     "criteria": {
       "incendium:withered_forest": "2025-02-10 06:33:01 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/root": {
-    "criteria": {
-      "requirement": "2025-02-10 06:35:57 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-02-10 06:35:08 +0000"
     },
     "done": true
   },
@@ -3089,6 +2993,30 @@
       "incendium:withered_forest": "2025-02-10 06:33:01 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-02-10 06:35:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-02-10 06:35:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/ruined_lab": {
+    "criteria": {
+      "requirement": "2025-02-10 06:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-10 06:48:12 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

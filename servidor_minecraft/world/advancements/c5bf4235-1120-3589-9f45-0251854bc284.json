@@ -1659,6 +1659,7 @@
       "cabbage": "2024-12-14 01:57:01 +0000",
       "brown_mushroom": "2024-12-13 22:59:59 +0000",
       "sugar_cane": "2024-12-11 03:53:32 +0000",
+      "nether_wart": "2025-02-11 00:35:34 +0000",
       "wheat": "2024-12-14 00:04:44 +0000",
       "melon": "2024-12-14 00:20:10 +0000",
       "carrot": "2024-12-14 05:46:19 +0000"
@@ -2526,6 +2527,12 @@
     },
     "done": true
   },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2025-02-11 00:24:41 +0000"
+    },
+    "done": false
+  },
   "inventorypets:brewingstand": {
     "criteria": {
       "crafting_table": "2025-02-11 00:28:44 +0000"
@@ -2538,9 +2545,93 @@
     },
     "done": true
   },
-  "quark:get_all_blossom_saplings": {
+  "stellarity:nether/imbuements": {
     "criteria": {
-      "yellow": "2025-02-11 00:24:41 +0000"
+      "criteria": "2025-02-11 00:35:57 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_warped_fungussus": {
+    "criteria": {
+      "fungussus": "2025-02-11 00:50:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/ruined_lab": {
+    "criteria": {
+      "requirement": "2025-02-11 00:50:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 01:53:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 01:53:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 01:53:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 01:53:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 01:53:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 01:53:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 01:53:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 01:53:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 01:53:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 01:53:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 01:53:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 01:53:27 +0000"
     },
     "done": false
   },
