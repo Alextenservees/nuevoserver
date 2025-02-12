@@ -116,6 +116,7 @@
       "minecraft:sparse_jungle": "2024-10-29 15:46:11 +0000",
       "minecraft:river": "2024-10-27 05:58:05 +0000",
       "minecraft:lukewarm_ocean": "2024-11-09 17:38:42 +0000",
+      "atmospheric:atmospheric:laurel_forest": "2025-02-12 01:57:35 +0000",
       "minecraft:snowy_plains": "2024-10-28 00:21:20 +0000",
       "minecraft:stony_shore": "2024-10-29 15:55:29 +0000",
       "minecraft:snowy_taiga": "2024-10-28 00:20:55 +0000",
@@ -334,6 +335,7 @@
       "cold_river": "2024-10-27 06:15:33 +0000",
       "ashen_woodland": "2024-11-16 06:17:28 +0000",
       "pumpkin_fields": "2024-10-27 23:43:48 +0000",
+      "pine_slopes": "2025-02-12 02:01:22 +0000",
       "spires": "2024-10-29 05:19:45 +0000",
       "grassland": "2024-10-29 15:43:25 +0000",
       "prairie": "2024-10-29 15:40:35 +0000",
@@ -379,6 +381,7 @@
       "cold_river": "2024-10-27 06:15:33 +0000",
       "ashen_woodland": "2024-11-16 06:17:28 +0000",
       "pumpkin_fields": "2024-10-27 23:43:48 +0000",
+      "pine_slopes": "2025-02-12 02:01:22 +0000",
       "spires": "2024-10-29 05:19:45 +0000",
       "grassland": "2024-10-29 15:43:25 +0000",
       "prairie": "2024-10-29 15:40:35 +0000",
@@ -3015,6 +3018,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-02-10 06:48:12 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-02-12 01:57:54 +0000"
     },
     "done": true
   },
