@@ -6939,3 +6939,17 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [13Feb2025 01:38:43.681] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 18 on channel the_bumblezone:networking
 [13Feb2025 01:39:00.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadyx28x lost connection: Disconnected
 [13Feb2025 01:39:00.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x left the game
+[13Feb2025 01:39:21.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 moved wrongly!
+[13Feb2025 01:41:55.920] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[13Feb2025 01:41:55.920] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[13Feb2025 01:42:40.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadyx28x[/127.234.70.170:48803] logged in with entity id 50636 at (0.7188339832121893, 108.0, -36.32575983385991)
+[13Feb2025 01:42:42.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x joined the game
+[13Feb2025 01:42:42.171] [Server thread/INFO] [Jade/]: Syncing config to Shadyx28x (34b40136-b9b3-3c85-9dcd-a653aa99d433)
+[13Feb2025 01:42:42.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
+[13Feb2025 01:46:58.121] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[13Feb2025 01:46:58.121] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[13Feb2025 01:47:08.566] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=49, y=65, z=-44}
+[13Feb2025 01:49:14.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doom_Slayer246[/127.252.35.23:49685] logged in with entity id 52325 at (-116.91963107841819, 104.75, -288.3801439344797)
+[13Feb2025 01:49:16.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 joined the game
+[13Feb2025 01:49:16.974] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
+[13Feb2025 01:49:17.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
