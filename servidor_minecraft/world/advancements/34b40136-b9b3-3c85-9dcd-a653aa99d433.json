@@ -291,6 +291,7 @@
       "minecraft:cold_ocean": "2024-12-10 04:40:28 +0000",
       "minecraft:deep_cold_ocean": "2024-12-10 04:39:56 +0000",
       "minecraft:ocean": "2024-12-10 04:06:26 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-13 02:11:45 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-10 04:23:42 +0000",
       "minecraft:plains": "2025-01-10 01:56:53 +0000"
     },
@@ -1077,6 +1078,18 @@
   "inventorypets:root": {
     "criteria": {
       "auto": "2025-02-12 02:15:06 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/spriggan": {
+    "criteria": {
+      "kill": "2025-02-13 02:07:51 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/root": {
+    "criteria": {
+      "requirement": "2025-02-13 02:04:34 +0000"
     },
     "done": true
   },
