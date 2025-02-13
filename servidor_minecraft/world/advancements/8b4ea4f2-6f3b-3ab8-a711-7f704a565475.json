@@ -1712,6 +1712,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-13 02:31:05 +0000"
+    },
+    "done": true
+  },
   "inventorypets:shield": {
     "criteria": {
       "crafting_table": "2025-02-13 01:24:29 +0000"
