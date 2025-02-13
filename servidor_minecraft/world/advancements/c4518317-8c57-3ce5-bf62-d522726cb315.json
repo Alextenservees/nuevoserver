@@ -1412,11 +1412,5 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-02-13 02:16:52 +0000"
-    },
-    "done": false
-  },
   "DataVersion": 3465
 }
