@@ -3140,6 +3140,12 @@
     },
     "done": true
   },
+  "goety:goety/craft_infuser": {
+    "criteria": {
+      "cursed_infuser": "2025-02-13 01:14:39 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_swamp_village": {
     "criteria": {
       "minecraft:village_swamp": "2025-02-13 00:53:09 +0000"
