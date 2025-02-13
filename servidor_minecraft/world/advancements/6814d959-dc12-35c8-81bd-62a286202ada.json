@@ -134,6 +134,7 @@
       "minecraft:deep_frozen_ocean": "2024-10-29 15:58:36 +0000",
       "minecraft:ocean": "2024-10-29 07:11:07 +0000",
       "minecraft:jungle": "2024-10-29 15:44:04 +0000",
+      "atmospheric:atmospheric:aspen_parkland": "2025-02-13 01:08:53 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-03 06:21:24 +0000",
       "minecraft:snowy_beach": "2024-11-06 07:50:03 +0000",
       "minecraft:windswept_savanna": "2024-12-18 04:46:59 +0000",
@@ -3124,6 +3125,12 @@
   "goety:goety/kill_a_evoker": {
     "criteria": {
       "kill_a_evoker": "2025-02-12 06:14:12 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/nine_tails": {
+    "criteria": {
+      "kill": "2025-02-13 00:56:46 +0000"
     },
     "done": true
   },
