@@ -558,6 +558,7 @@
   },
   "croptopia:gather_jungle": {
     "criteria": {
+      "rhubarb_seed": "2025-02-14 02:18:04 +0000",
       "onion_seed": "2024-12-14 02:03:52 +0000",
       "peanut_seed": "2025-02-13 01:49:28 +0000"
     },
@@ -565,9 +566,12 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "rhubarb_seed": "2025-02-14 02:18:04 +0000",
       "onion_seed": "2024-12-14 02:03:52 +0000",
       "blueberry_seed": "2024-12-20 05:27:59 +0000",
-      "grape_seed": "2024-12-20 05:23:59 +0000"
+      "artichoke_seed": "2025-02-14 02:17:27 +0000",
+      "grape_seed": "2024-12-20 05:23:59 +0000",
+      "broccoli_seed": "2025-02-14 02:16:44 +0000"
     },
     "done": false
   },
@@ -1763,6 +1767,24 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-02-14 02:02:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "artichoke_seed": "2025-02-14 02:17:27 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "broccoli_seed": "2025-02-14 02:16:44 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-02-14 02:22:45 +0000"
     },
     "done": true
   },
