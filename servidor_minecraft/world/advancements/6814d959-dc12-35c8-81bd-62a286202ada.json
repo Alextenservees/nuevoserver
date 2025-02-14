@@ -3190,6 +3190,12 @@
     },
     "done": true
   },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-02-14 04:22:21 +0000"
+    },
+    "done": true
+  },
   "sons_of_sins:lazarus_pit": {
     "criteria": {
       "lazarus_pit_0": "2025-02-14 04:06:44 +0000"
