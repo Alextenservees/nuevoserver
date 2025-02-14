@@ -1134,5 +1134,11 @@
     },
     "done": true
   },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2025-02-14 02:24:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

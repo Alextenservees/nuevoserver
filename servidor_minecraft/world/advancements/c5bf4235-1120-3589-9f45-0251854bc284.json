@@ -2693,12 +2693,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-02-14 02:23:55 +0000"
-    },
-    "done": false
-  },
   "croptopia:gather_swamp": {
     "criteria": {
       "cranberry_seed": "2025-02-14 02:19:43 +0000",

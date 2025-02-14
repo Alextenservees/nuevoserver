@@ -172,6 +172,7 @@
       "minecraft:beach": "2024-12-14 00:52:01 +0000",
       "minecraft:dark_forest": "2024-12-13 01:21:49 +0000",
       "minecraft:river": "2024-12-14 00:51:39 +0000",
+      "atmospheric:atmospheric:laurel_forest": "2025-02-14 02:27:33 +0000",
       "minecraft:stony_shore": "2024-12-14 00:28:30 +0000",
       "minecraft:jagged_peaks": "2024-12-24 02:37:25 +0000",
       "minecraft:cold_ocean": "2024-12-24 02:26:19 +0000",
@@ -1409,6 +1410,18 @@
   "endofherobrine:story/root": {
     "criteria": {
       "requirement": "2025-02-12 02:01:33 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:pig": "2025-02-14 02:29:32 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_spruce": "2025-02-14 02:26:32 +0000"
     },
     "done": true
   },
