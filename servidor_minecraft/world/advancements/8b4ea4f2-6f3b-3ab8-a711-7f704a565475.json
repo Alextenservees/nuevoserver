@@ -1748,5 +1748,11 @@
     },
     "done": true
   },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2025-02-14 01:58:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
