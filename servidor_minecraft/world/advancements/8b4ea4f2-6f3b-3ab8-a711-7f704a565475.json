@@ -1754,5 +1754,17 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2025-02-14 02:04:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-02-14 02:02:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
