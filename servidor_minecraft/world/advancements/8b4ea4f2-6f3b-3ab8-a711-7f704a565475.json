@@ -1682,77 +1682,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "inventorypets:shield": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:57:20 +0000"
+      "crafting_table": "2025-02-13 01:24:29 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "inventorypets:1": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:57:20 +0000"
+      "example": "2025-02-13 01:24:29 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "inventorypets:enderman": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:57:20 +0000"
+      "crafting_table": "2025-02-13 01:25:10 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 02:57:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 02:57:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 02:57:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 02:57:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 02:57:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 02:57:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 02:57:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 02:57:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 02:57:20 +0000"
-    },
-    "done": false
+    "done": true
   },
   "stellarity:story/drop_rare_illager_loot": {
     "criteria": {
@@ -1784,39 +1730,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-02-13 02:31:05 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:shield": {
-    "criteria": {
-      "crafting_table": "2025-02-13 01:24:29 +0000"
-    },
-    "done": true
-  },
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
     "criteria": {
       "requirement": "2025-02-13 01:58:22 +0000"
     },
     "done": true
   },
-  "inventorypets:1": {
-    "criteria": {
-      "example": "2025-02-13 01:24:29 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:enderman": {
-    "criteria": {
-      "crafting_table": "2025-02-13 01:25:10 +0000"
-    },
-    "done": true
-  },
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
     "criteria": {
       "requirement": "2025-02-13 01:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-13 02:31:05 +0000"
     },
     "done": true
   },
