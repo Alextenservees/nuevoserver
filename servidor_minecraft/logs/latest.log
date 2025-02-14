@@ -4688,3 +4688,37 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [14Feb2025 02:56:29.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
 [14Feb2025 02:56:41.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-56, y=64, z=-1} BlockPos{x=-56, y=63, z=-1}
 [14Feb2025 02:56:42.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-56, y=62, z=-1} BlockPos{x=-56, y=63, z=-2}
+[14Feb2025 02:57:17.845] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Feb2025 02:57:17.845] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Feb2025 02:58:03.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 moved too quickly! -19.952735414045183,0.14999999999999858,-13.997889655862789
+[14Feb2025 02:58:36.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[14Feb2025 02:58:38.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[14Feb2025 02:59:20.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namty lost connection: Disconnected
+[14Feb2025 02:59:20.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namty left the game
+[14Feb2025 03:00:35.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[14Feb2025 03:00:36.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[14Feb2025 03:00:36.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> voy a spawnear un jefe
+[14Feb2025 03:00:56.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[14Feb2025 03:01:01.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[14Feb2025 03:01:02.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[14Feb2025 03:02:17.811] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Feb2025 03:02:17.811] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Feb2025 03:02:29.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadyx28x lost connection: Disconnected
+[14Feb2025 03:02:29.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x left the game
+[14Feb2025 03:02:46.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oeee
+[14Feb2025 03:03:40.502] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-24, y=62, z=18}
+[14Feb2025 03:03:43.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> consegui un ancient tome
+[14Feb2025 03:03:54.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> de que es
+[14Feb2025 03:04:01.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> smite
+[14Feb2025 03:04:11.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> no xd
+[14Feb2025 03:04:23.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> se puede cambiar ve
+[14Feb2025 03:04:35.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> que tanto haces oe
+[14Feb2025 03:04:43.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> busscando hadas rojas
+[14Feb2025 03:05:20.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> te voy a one-shotear
+[14Feb2025 03:05:33.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> pendejo
+[14Feb2025 03:05:37.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> 1
+[14Feb2025 03:05:39.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> 2
+[14Feb2025 03:05:41.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> 3
+[14Feb2025 03:05:41.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[14Feb2025 03:05:49.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> la falle
+[14Feb2025 03:05:52.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
