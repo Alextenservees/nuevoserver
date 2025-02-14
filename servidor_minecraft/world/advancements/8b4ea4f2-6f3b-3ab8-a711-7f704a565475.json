@@ -212,6 +212,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-02-14 02:34:43 +0000",
       "cold_deciduous_forest": "2024-12-24 02:36:03 +0000",
       "redstone_abyss": "2025-01-11 01:40:51 +0000",
       "pine_taiga": "2024-12-24 01:31:50 +0000",
@@ -236,6 +237,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-02-14 02:34:43 +0000",
       "cold_deciduous_forest": "2024-12-24 02:36:03 +0000",
       "pine_taiga": "2024-12-24 01:31:50 +0000",
       "autumnal_maple_forest": "2024-12-13 00:51:10 +0000",
@@ -1755,39 +1757,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-02-14 02:25:18 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:combs_and_wax/comb_cutter_tool": {
     "criteria": {
       "comb_cutter_tool": "2025-02-14 01:58:44 +0000"
-    },
-    "done": true
-  },
-  "goety:goety/get_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-02-14 02:25:18 +0000"
-    },
-    "done": true
-  },
-  "endofherobrine:story/exorcist": {
-    "criteria": {
-      "endofherobrine:pigman": "2025-02-14 02:30:32 +0000"
-    },
-    "done": false
-  },
-  "immersive_armors:recipes/misc/steampunk": {
-    "criteria": {
-      "has_item": "2025-02-14 02:04:53 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/tavern_quest": {
-    "criteria": {
-      "open_tavern_chest": "2025-02-14 02:29:08 +0000"
     },
     "done": true
   },
@@ -1797,15 +1769,21 @@
     },
     "done": true
   },
-  "croptopia:gather_swamp": {
+  "immersive_armors:recipes/misc/steampunk": {
     "criteria": {
-      "artichoke_seed": "2025-02-14 02:17:27 +0000"
+      "has_item": "2025-02-14 02:04:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "croptopia:gather_plains": {
     "criteria": {
       "broccoli_seed": "2025-02-14 02:16:44 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "artichoke_seed": "2025-02-14 02:17:27 +0000"
     },
     "done": false
   },
@@ -1814,6 +1792,30 @@
       "horrorofthe_depths_0": "2025-02-14 02:22:45 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-14 02:25:18 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/get_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-14 02:25:18 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-02-14 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:pigman": "2025-02-14 02:30:32 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
