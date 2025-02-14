@@ -4896,3 +4896,16 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [14Feb2025 04:54:16.395] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
 [14Feb2025 04:58:15.392] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [14Feb2025 04:58:15.392] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Feb2025 05:01:26.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=80, z=-253} BlockPos{x=-44, y=78, z=-253}
+[14Feb2025 05:01:49.552] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-43, y=71, z=-227}
+[14Feb2025 05:02:25.624] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/78715, l='ServerLevel[world]', x=10.97, y=89.00, z=18.16] died: Headless Warrior was slain by Straddler
+[14Feb2025 05:02:36.020] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/78714, l='ServerLevel[world]', x=11.59, y=89.00, z=18.76] died: Headless Warrior was slain by Straddler
+[14Feb2025 05:03:15.409] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Feb2025 05:03:15.409] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Feb2025 05:04:25.606] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-12, y=236, z=-43}
+[14Feb2025 05:05:55.242] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/79890, l='ServerLevel[world]', x=-34.49, y=96.66, z=4.41] died: Restless Spirit starved to death
+[14Feb2025 05:06:10.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/79977, l='ServerLevel[world]', x=-10.90, y=83.59, z=61.20] died: Restless Spirit starved to death
+[14Feb2025 05:06:10.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/79979, l='ServerLevel[world]', x=7.74, y=98.20, z=71.76] died: Restless Spirit starved to death
+[14Feb2025 05:06:36.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ya vengo
+[14Feb2025 05:08:15.398] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Feb2025 05:08:15.398] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
