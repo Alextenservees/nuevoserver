@@ -2693,6 +2693,12 @@
     },
     "done": true
   },
+  "sons_of_sins:lazarus_pit": {
+    "criteria": {
+      "lazarus_pit_0": "2025-02-14 04:03:14 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_swamp": {
     "criteria": {
       "cranberry_seed": "2025-02-14 02:19:43 +0000",

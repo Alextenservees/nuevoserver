@@ -4772,3 +4772,47 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [14Feb2025 03:52:17.728] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [14Feb2025 03:57:17.730] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [14Feb2025 03:57:17.730] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Feb2025 03:58:24.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> sapato+
+[14Feb2025 03:58:36.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> te necesito de sacrificio
+[14Feb2025 03:59:01.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ????
+[14Feb2025 03:59:34.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ven
+[14Feb2025 04:00:35.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oe
+[14Feb2025 04:00:40.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ???
+[14Feb2025 04:00:44.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ven
+[14Feb2025 04:00:55.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> no
+[14Feb2025 04:00:58.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> aputa
+[14Feb2025 04:00:58.684] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity SlowProjectile['entity.pointblank.plasma_capsule'/58554, l='ServerLevel[world]', x=-2911.35, y=154.35, z=333.67, removed=DISCARDED]
+[14Feb2025 04:00:58.684] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity SlowProjectile['entity.pointblank.plasma_capsule'/58556, l='ServerLevel[world]', x=-2911.36, y=183.96, z=327.41, removed=DISCARDED]
+[14Feb2025 04:01:02.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> apura*
+[14Feb2025 04:01:05.175] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2872, y=-8, z=302}
+[14Feb2025 04:01:08.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[14Feb2025 04:01:08.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.221.99.71:36113] logged in with entity id 58591 at (15.111207787063897, 72.0, 75.84028247276656)
+[14Feb2025 04:01:11.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[14Feb2025 04:01:11.546] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[14Feb2025 04:01:56.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> tirate ahi sin nada de armadura
+[14Feb2025 04:02:19.920] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Feb2025 04:02:19.921] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Feb2025 04:02:30.902] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-55, y=99, z=17}
+[14Feb2025 04:02:36.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> mmv
+[14Feb2025 04:02:48.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> voy a perder mis cosas oe
+[14Feb2025 04:02:51.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> no
+[14Feb2025 04:02:59.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> quite el game rule
+[14Feb2025 04:02:59.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> no hay keepinvenotry
+[14Feb2025 04:03:03.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> mentiroso
+[14Feb2025 04:03:14.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [Lazarus Pit]
+[14Feb2025 04:03:27.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> quidate ahi hasta q te muerass del todo
+[14Feb2025 04:03:35.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> xd
+[14Feb2025 04:03:55.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 was killed by magic
+[14Feb2025 04:04:07.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
+[14Feb2025 04:04:21.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> hijueputa
+[14Feb2025 04:04:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> casi me mata
+[14Feb2025 04:04:34.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ??
+[14Feb2025 04:04:42.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ven tu
+[14Feb2025 04:04:44.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> para q veas
+[14Feb2025 04:05:27.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> esq eso q hicimos spawnea un jefe
+[14Feb2025 04:05:41.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> son 7 jefess randoms
+[14Feb2025 04:06:44.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 has made the advancement [Lazarus Pit]
+[14Feb2025 04:07:19.910] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Feb2025 04:07:19.910] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Feb2025 04:07:20.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 moved too quickly! 9.705584022412632,-0.9139383132811716,-2.4123933705340583
+[14Feb2025 04:07:53.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
