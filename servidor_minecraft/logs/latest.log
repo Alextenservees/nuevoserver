@@ -4909,3 +4909,9 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [14Feb2025 05:06:36.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ya vengo
 [14Feb2025 05:08:15.398] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [14Feb2025 05:08:15.398] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Feb2025 05:13:15.405] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Feb2025 05:13:15.405] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Feb2025 05:15:01.287] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/82726, l='ServerLevel[world]', x=-27.42, y=99.08, z=14.83] died: Restless Spirit starved to death
+[14Feb2025 05:17:19.602] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-28, y=70, z=-214}
+[14Feb2025 05:18:15.390] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Feb2025 05:18:15.390] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
