@@ -1363,6 +1363,7 @@
       "in_goliath_honey_fountain": "2024-11-11 23:12:12 +0000",
       "in_hive_temple": "2024-11-11 22:52:45 +0000",
       "in_honey_cave_room": "2024-11-11 23:20:59 +0000",
+      "in_cell_maze": "2025-02-20 01:21:45 +0000",
       "in_gazebuzz_cluster": "2024-11-11 22:54:08 +0000",
       "in_ice_monolith": "2024-11-11 22:54:27 +0000",
       "in_dance_floor": "2024-12-26 22:47:47 +0000"
@@ -3192,15 +3193,147 @@
     },
     "done": true
   },
+  "sons_of_sins:lazarus_pit": {
+    "criteria": {
+      "lazarus_pit_0": "2025-02-14 04:06:44 +0000"
+    },
+    "done": true
+  },
   "quark:overlevel_enchant": {
     "criteria": {
       "overlevel_enchant": "2025-02-14 04:22:21 +0000"
     },
     "done": true
   },
-  "sons_of_sins:lazarus_pit": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "lazarus_pit_0": "2025-02-14 04:06:44 +0000"
+      "used_totem": "2025-02-19 03:41:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatbig": {
+    "criteria": {
+      "eat_big": "2025-02-19 03:44:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 01:47:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 01:47:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 01:47:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 01:47:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 01:47:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 01:47:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 01:47:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 01:47:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 01:47:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 01:47:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 01:47:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 01:47:19 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:structures/enter_cell_maze": {
+    "criteria": {
+      "in_cell_maze": "2025-02-20 01:21:45 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-02-20 01:40:33 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
+    "criteria": {
+      "obtain_sugar_infused_stone": "2025-02-20 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/bumble_bee_chestplate_max_flight": {
+    "criteria": {
+      "bumble_bee_chestplate_max_flight": "2025-02-20 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/enchantlet/sharpness_6": {
+    "criteria": {
+      "requirement": "2025-02-20 00:51:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/stinger_spear_poisoning": {
+    "criteria": {
+      "stinger_spear_poisoning": "2025-02-20 01:29:29 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/honey_bee_leggings_pollen_removal": {
+    "criteria": {
+      "honey_bee_leggings_pollen_removal": "2025-02-20 01:35:11 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/warrior_bee": {
+    "criteria": {
+      "warrior_bee": "2025-02-20 01:26:34 +0000"
     },
     "done": true
   },
