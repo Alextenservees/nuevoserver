@@ -17651,3 +17651,8 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [11Mar2025 02:58:15.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> pilas
 [11Mar2025 02:58:23.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 lost connection: Disconnected
 [11Mar2025 02:58:23.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 left the game
+[11Mar2025 02:59:44.010] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Mar2025 02:59:44.010] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Mar2025 03:02:24.692] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=25, y=103, z=47}
+[11Mar2025 03:04:44.006] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Mar2025 03:04:44.006] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
