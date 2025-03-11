@@ -1532,6 +1532,19 @@
     },
     "done": true
   },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:pig": "2025-03-11 06:00:04 +0000",
+      "endofherobrine:cow": "2025-03-11 06:00:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-03-11 06:06:53 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/cyan_flower": {
     "criteria": {
       "kill": "2025-03-11 05:45:47 +0000"
@@ -1541,6 +1554,12 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-03-11 05:39:54 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_maverick": {
+    "criteria": {
+      "kill_a_warlock": "2025-03-11 06:02:15 +0000"
     },
     "done": true
   },

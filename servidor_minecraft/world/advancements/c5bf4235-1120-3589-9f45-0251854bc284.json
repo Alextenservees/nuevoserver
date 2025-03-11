@@ -2555,7 +2555,8 @@
   "endofherobrine:story/exorcist": {
     "criteria": {
       "endofherobrine:villager": "2025-03-11 05:46:10 +0000",
-      "endofherobrine:sheep": "2025-02-10 06:47:08 +0000"
+      "endofherobrine:sheep": "2025-02-10 06:47:08 +0000",
+      "endofherobrine:cow": "2025-03-11 05:57:07 +0000"
     },
     "done": false
   },
