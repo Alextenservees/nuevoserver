@@ -2951,5 +2951,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-03-11 06:27:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
