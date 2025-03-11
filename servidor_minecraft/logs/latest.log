@@ -17259,3 +17259,8 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [11Mar2025 01:44:41.086] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [11Mar2025 01:44:41.086] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [11Mar2025 01:47:29.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oeeeeeee
+[11Mar2025 01:49:41.088] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Mar2025 01:49:41.088] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Mar2025 01:54:07.292] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-9, y=114, z=21}
+[11Mar2025 01:54:41.087] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Mar2025 01:54:41.087] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
