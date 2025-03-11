@@ -17270,3 +17270,33 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [11Mar2025 02:04:13.841] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=12, y=114, z=3}
 [11Mar2025 02:04:41.104] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [11Mar2025 02:04:41.104] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Mar2025 02:09:41.077] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Mar2025 02:09:41.078] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Mar2025 02:10:52.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> XD
+[11Mar2025 02:10:56.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ???
+[11Mar2025 02:10:57.240] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-35, y=60, z=-64}
+[11Mar2025 02:11:28.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> mira si le puedes poner esto alguna detus armas
+[11Mar2025 02:11:38.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ando ocupado
+[11Mar2025 02:11:44.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> te da mas daño
+[11Mar2025 02:11:48.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> por eso ando aqui medio afk
+[11Mar2025 02:12:00.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ando con mi señora oe xd
+[11Mar2025 02:12:04.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> e
+[11Mar2025 02:13:25.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=57, z=12} BlockPos{x=96, y=70, z=-3}
+[11Mar2025 02:13:25.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=57, z=12} BlockPos{x=96, y=70, z=-3}
+[11Mar2025 02:13:25.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=57, z=12} BlockPos{x=96, y=70, z=-3}
+[11Mar2025 02:13:25.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=57, z=12} BlockPos{x=96, y=70, z=-3}
+[11Mar2025 02:13:25.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=57, z=12} BlockPos{x=96, y=70, z=-3}
+[11Mar2025 02:13:25.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=57, z=12} BlockPos{x=96, y=70, z=-3}
+[11Mar2025 02:13:25.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=57, z=12} BlockPos{x=96, y=70, z=-3}
+[11Mar2025 02:13:25.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=57, z=12} BlockPos{x=96, y=70, z=-3}
+[11Mar2025 02:13:25.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=57, z=12} BlockPos{x=96, y=70, z=-3}
+[11Mar2025 02:14:12.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=112, y=57, z=22} BlockPos{x=113, y=56, z=22}
+[11Mar2025 02:14:41.079] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Mar2025 02:14:41.079] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Mar2025 02:15:01.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 has made the advancement [Quite the Renovation]
+[11Mar2025 02:15:38.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=27, z=13} BlockPos{x=156, y=28, z=18}
+[11Mar2025 02:16:53.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=31, z=36} BlockPos{x=99, y=30, z=35}
+[11Mar2025 02:17:26.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> que me diste?
+[11Mar2025 02:17:33.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> una cosa q parece bala
+[11Mar2025 02:17:44.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> simon esa es que hace mucho daño¿
+[11Mar2025 02:17:45.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> te da mas daño y control del retroceso creo
