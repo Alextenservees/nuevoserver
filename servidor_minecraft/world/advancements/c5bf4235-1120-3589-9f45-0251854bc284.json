@@ -2919,6 +2919,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/novelty_hat": {
+    "criteria": {
+      "sopa_de_macaco": "2025-03-11 05:20:24 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skelewag_skull": {
     "criteria": {
       "skull": "2025-03-11 05:12:50 +0000"
