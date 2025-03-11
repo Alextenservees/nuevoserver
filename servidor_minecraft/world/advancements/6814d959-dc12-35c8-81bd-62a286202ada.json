@@ -3322,5 +3322,11 @@
     },
     "done": true
   },
+  "quark:apply_color_rune": {
+    "criteria": {
+      "rune_red": "2025-03-11 05:32:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
