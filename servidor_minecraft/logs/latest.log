@@ -17172,3 +17172,52 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [11Mar2025 03:50:09.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14711ms or 294 ticks behind
 [11Mar2025 03:54:36.670] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [11Mar2025 03:54:36.671] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Mar2025 03:57:22.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[11Mar2025 03:57:24.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[11Mar2025 03:57:39.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[11Mar2025 03:58:52.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[11Mar2025 03:59:13.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doom_Slayer246[/127.252.35.23:40669] logged in with entity id 4142 at (47.14918001516483, 64.0625, -1.5586880484402055)
+[11Mar2025 03:59:15.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 joined the game
+[11Mar2025 03:59:15.330] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
+[11Mar2025 03:59:15.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 moved too quickly! -9.76988687181995,1.4235592945430398,-2.657297569432888
+[11Mar2025 03:59:15.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2288ms or 45 ticks behind
+[11Mar2025 03:59:34.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe ya me iba xd ya lo iba a cerrar xd
+[11Mar2025 03:59:38.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> abre server
+[11Mar2025 03:59:39.002] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Mar2025 03:59:39.002] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Mar2025 04:01:40.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> tas raro xd como que corazones xd
+[11Mar2025 04:01:41.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ñ
+[11Mar2025 04:01:46.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ???
+[11Mar2025 04:01:51.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> q hablas
+[11Mar2025 04:02:00.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> te salio corazones cuando te acercaste d
+[11Mar2025 04:02:06.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ????
+[11Mar2025 04:02:09.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> aa
+[11Mar2025 04:02:21.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> es una habilidad pa curarme
+[11Mar2025 04:02:27.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> prueb
+[11Mar2025 04:02:30.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> *prueba
+[11Mar2025 04:02:33.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe tu vez este avatar
+[11Mar2025 04:02:39.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> si
+[11Mar2025 04:02:43.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> el que me voy a poner
+[11Mar2025 04:02:57.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> xd
+[11Mar2025 04:02:59.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> la fallastes
+[11Mar2025 04:03:04.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> mira
+[11Mar2025 04:03:15.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> si
+[11Mar2025 04:03:16.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> reste
+[11Mar2025 04:03:34.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ta chevere pq le puedo poner un cargador de 60 balas
+[11Mar2025 04:03:37.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> tambien
+[11Mar2025 04:03:44.200] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-36, y=62, z=-13}
+[11Mar2025 04:03:56.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> voy a matar a herobrine
+[11Mar2025 04:04:06.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> enserio? entonces los avatares no son nesesarios tenerlos xd
+[11Mar2025 04:04:11.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> yo te dije
+[11Mar2025 04:04:23.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> se me fieron dos balas xd
+[11Mar2025 04:04:24.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> si se puyede lo del herobrine
+[11Mar2025 04:04:38.961] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Mar2025 04:04:38.961] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Mar2025 04:04:47.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> yo seguire mi casa
+[11Mar2025 04:05:55.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> traigo un spawner de zombies
+[11Mar2025 04:05:57.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadyx28x[/127.91.85.101:37329] logged in with entity id 5586 at (62.03290019309745, 81.0, 62.055516963236954)
+[11Mar2025 04:05:59.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x joined the game
+[11Mar2025 04:05:59.173] [Server thread/INFO] [Jade/]: Syncing config to Shadyx28x (34b40136-b9b3-3c85-9dcd-a653aa99d433)
+[11Mar2025 04:05:59.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 moved too quickly! 1.5283937081571892,-5.688388792827382,-8.504859114671497
+[11Mar2025 04:05:59.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ?
+[11Mar2025 04:05:59.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
