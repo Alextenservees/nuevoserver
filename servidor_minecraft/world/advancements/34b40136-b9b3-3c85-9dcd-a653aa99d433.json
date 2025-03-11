@@ -1551,6 +1551,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-03-11 06:18:02 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-03-11 05:39:54 +0000"
