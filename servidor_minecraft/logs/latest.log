@@ -17265,3 +17265,11 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [15Mar2025 01:39:01.458] [Server thread/INFO] [Jade/]: Syncing config to Shadyx28x (34b40136-b9b3-3c85-9dcd-a653aa99d433)
 [15Mar2025 01:39:44.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/6178, l='ServerLevel[world]', x=16.14, y=117.27, z=25.81] died: Restless Spirit starved to death
 [15Mar2025 01:40:46.639] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/6925, l='ServerLevel[world]', x=-62.77, y=92.91, z=13.53] died: Restless Spirit starved to death
+[15Mar2025 01:42:47.262] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Mar2025 01:42:47.262] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Mar2025 01:45:31.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has reached the goal [Little Hunter]
+[15Mar2025 01:46:36.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=69, z=61} BlockPos{x=-4, y=62, z=-24}
+[15Mar2025 01:47:26.857] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-79, y=65, z=38}
+[15Mar2025 01:47:47.259] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Mar2025 01:47:47.259] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Mar2025 01:48:24.333] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler

@@ -2096,5 +2096,17 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/sporeling": {
+    "criteria": {
+      "kill": "2025-03-15 01:40:10 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/maid_kill_mob": {
+    "criteria": {
+      "maid_event": "2025-03-15 01:45:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
