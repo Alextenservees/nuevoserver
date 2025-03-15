@@ -17273,3 +17273,20 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [15Mar2025 01:47:47.259] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [15Mar2025 01:47:47.259] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [15Mar2025 01:48:24.333] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[15Mar2025 01:52:37.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=69, z=61} BlockPos{x=-14, y=62, z=-21}
+[15Mar2025 01:52:47.252] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Mar2025 01:52:47.252] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Mar2025 01:53:59.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Annoying Little Faes]
+[15Mar2025 01:54:02.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Taste the Rainbow]
+[15Mar2025 01:54:12.437] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[15Mar2025 01:54:14.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[15Mar2025 01:54:41.869] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[15Mar2025 01:54:41.872] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[15Mar2025 01:57:09.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x has made the advancement [Annoying Little Faes]
+[15Mar2025 01:57:49.405] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Mar2025 01:57:49.405] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Mar2025 01:57:53.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Keep Track of Time]
+[15Mar2025 01:58:18.639] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41b5064e[id=<null>,name=Namty,properties={},legacy=false] (/127.24.156.125:53593) lost connection: Disconnected
+[15Mar2025 01:59:41.483] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f11c6c0[id=<null>,name=Namty,properties={},legacy=false] (/127.24.156.125:55593) lost connection: Disconnected
+[15Mar2025 02:00:10.399] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28aeb1a2[id=<null>,name=Namty,properties={},legacy=false] (/127.24.156.125:50845) lost connection: Disconnected
+[15Mar2025 02:00:40.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [He Was Number One!]

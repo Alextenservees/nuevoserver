@@ -2102,9 +2102,21 @@
     },
     "done": true
   },
+  "touhou_little_maid:base/pickup_power_point": {
+    "criteria": {
+      "maid_event": "2025-03-15 01:54:02 +0000"
+    },
+    "done": true
+  },
   "touhou_little_maid:maid_base/maid_kill_mob": {
     "criteria": {
       "maid_event": "2025-03-15 01:45:31 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/kill_maid_fairy": {
+    "criteria": {
+      "killed_entity": "2025-03-15 01:53:59 +0000"
     },
     "done": true
   },
