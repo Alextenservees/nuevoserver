@@ -17254,3 +17254,14 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [15Mar2025 01:29:26.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.146.251.123:46181] logged in with entity id 3654 at (16.989115417237542, 72.0, 93.69999998807907)
 [15Mar2025 01:29:26.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
 [15Mar2025 01:29:26.695] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[15Mar2025 01:32:20.960] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-4, y=114, z=-35}
+[15Mar2025 01:32:47.242] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Mar2025 01:32:47.242] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Mar2025 01:36:20.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [Job-Change]
+[15Mar2025 01:37:47.202] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Mar2025 01:37:47.202] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Mar2025 01:39:01.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadyx28x[/127.129.175.107:47045] logged in with entity id 6001 at (8.274680520304859, 103.0, -10.8209078566307)
+[15Mar2025 01:39:01.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x joined the game
+[15Mar2025 01:39:01.458] [Server thread/INFO] [Jade/]: Syncing config to Shadyx28x (34b40136-b9b3-3c85-9dcd-a653aa99d433)
+[15Mar2025 01:39:44.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/6178, l='ServerLevel[world]', x=16.14, y=117.27, z=25.81] died: Restless Spirit starved to death
+[15Mar2025 01:40:46.639] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/6925, l='ServerLevel[world]', x=-62.77, y=92.91, z=13.53] died: Restless Spirit starved to death

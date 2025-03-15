@@ -3012,5 +3012,11 @@
     },
     "done": true
   },
+  "touhou_little_maid:maid_base/switch_task": {
+    "criteria": {
+      "maid_event": "2025-03-15 01:36:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
