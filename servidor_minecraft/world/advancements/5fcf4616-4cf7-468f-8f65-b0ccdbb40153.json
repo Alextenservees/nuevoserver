@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "stellarity:cursed_tome/root": {
-    "criteria": {
-      "requirement": "2024-10-26 19:40:33 -0500"
-    },
-    "done": true
-  },
   "infinity_cave:technical/armor/boots": {
     "criteria": {
       "empty": "2024-10-26 19:40:33 -0500"
@@ -62,12 +56,6 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-10-26 19:40:33 -0500"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/root": {
-    "criteria": {
-      "requirement": "2024-10-26 19:40:33 -0500"
     },
     "done": true
   },
@@ -143,7 +131,8 @@
       "cold_river": "2024-10-26 19:47:57 -0500",
       "gravel_beach": "2024-10-26 19:47:32 -0500",
       "golden_boreal_taiga": "2024-11-27 19:00:20 -0500",
-      "icy_heights": "2025-01-10 13:28:52 -0500"
+      "icy_heights": "2025-01-10 13:28:52 -0500",
+      "lupine_plains": "2025-03-13 19:44:35 -0500"
     },
     "done": false
   },
@@ -159,7 +148,8 @@
       "cold_river": "2024-10-26 19:47:57 -0500",
       "gravel_beach": "2024-10-26 19:47:32 -0500",
       "golden_boreal_taiga": "2024-11-27 19:00:20 -0500",
-      "icy_heights": "2025-01-10 13:28:52 -0500"
+      "icy_heights": "2025-01-10 13:28:52 -0500",
+      "lupine_plains": "2025-03-13 19:44:35 -0500"
     },
     "done": false
   },
@@ -178,12 +168,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-09 18:47:26 -0500",
+      "minecraft:ghast": "2025-03-13 20:11:28 -0500",
       "minecraft:spider": "2025-02-09 18:31:50 -0500",
       "minecraft:creeper": "2025-02-09 18:31:48 -0500",
       "minecraft:slime": "2025-02-09 16:12:30 -0500",
       "minecraft:zombified_piglin": "2024-12-28 00:25:35 -0500",
       "minecraft:wither_skeleton": "2024-12-28 00:28:26 -0500",
-      "minecraft:zombie": "2024-10-26 19:46:14 -0500"
+      "minecraft:zombie": "2024-10-26 19:46:14 -0500",
+      "minecraft:zombie_villager": "2025-03-13 20:01:20 -0500"
     },
     "done": false
   },
@@ -769,6 +761,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:quartz_flats": "2025-03-13 20:11:22 -0500",
       "incendium:withered_forest": "2025-02-09 17:14:20 -0500"
     },
     "done": false
@@ -799,21 +792,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "suspicious_stew": "2025-02-09 17:45:13 -0500"
+      "suspicious_stew": "2025-02-09 17:45:13 -0500",
+      "enchanted_golden_apple": "2025-03-13 20:23:53 -0500"
     },
     "done": false
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
-    "criteria": {
-      "requirement": "2025-02-09 17:47:30 -0500"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/sabrewing": {
-    "criteria": {
-      "requirement": "2025-02-09 17:47:30 -0500"
-    },
-    "done": true
   },
   "minecraft:nether/netherite_armor": {
     "criteria": {
@@ -848,12 +830,6 @@
   "pointblank:adventure/obtain_minigun": {
     "criteria": {
       "obtain_minigun": "2025-02-09 19:07:54 -0500"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/natures_wrath": {
-    "criteria": {
-      "requirement": "2025-03-09 21:24:01 -0500"
     },
     "done": true
   },
@@ -896,48 +872,6 @@
   "goety:goety/get_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-03-09 21:40:50 -0500"
-    },
-    "done": true
-  },
-  "stellarity:story/drop_rare_illager_loot": {
-    "criteria": {
-      "drop3": "2025-03-09 21:40:50 -0500"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/conveyance": {
-    "criteria": {
-      "requirement": "2025-03-09 21:40:50 -0500"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
-    "criteria": {
-      "requirement": "2025-03-09 21:40:50 -0500"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/light": {
-    "criteria": {
-      "requirement": "2025-03-09 21:40:51 -0500"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
-    "criteria": {
-      "requirement": "2025-03-09 21:40:51 -0500"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/updraft": {
-    "criteria": {
-      "requirement": "2025-03-09 21:40:56 -0500"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
-    "criteria": {
-      "requirement": "2025-03-09 21:40:56 -0500"
     },
     "done": true
   },
@@ -1101,12 +1035,6 @@
     },
     "done": true
   },
-  "stellarity:story/obtain_an_ender_pearl": {
-    "criteria": {
-      "criteria": "2025-03-09 22:32:51 -0500"
-    },
-    "done": true
-  },
   "create:brass": {
     "criteria": {
       "0": "2025-03-09 22:32:52 -0500"
@@ -1161,78 +1089,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-10 02:58:24 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-10 02:58:24 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-10 02:58:24 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-10 02:58:24 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-10 02:58:24 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-10 02:58:24 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-10 02:58:24 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-10 02:58:24 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-10 02:58:24 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-10 02:58:24 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-10 02:58:24 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-10 02:58:24 -0500"
-    },
-    "done": false
-  },
   "deeperdarker:main/find_ancient_city": {
     "criteria": {
       "ancient_city": "2025-03-10 02:51:26 -0500"
@@ -1242,6 +1098,175 @@
   "inventorypets:qcm": {
     "criteria": {
       "crafting_table": "2025-03-10 02:56:24 -0500"
+    },
+    "done": true
+  },
+  "touhou_little_maid:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-03-13 14:18:46 -0500"
+    },
+    "done": true
+  },
+  "touhou_little_maid:give_smart_slab": {
+    "criteria": {
+      "tick": "2025-03-13 14:18:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-13 14:20:22 -0500"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/change_maid_model": {
+    "criteria": {
+      "maid_event": "2025-03-13 14:55:20 -0500"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/change_maid_sound": {
+    "criteria": {
+      "maid_event": "2025-03-13 15:12:57 -0500"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/switch_schedule": {
+    "criteria": {
+      "maid_event": "2025-03-13 15:14:37 -0500"
+    },
+    "done": true
+  },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:zombie_villager": "2025-03-13 20:02:07 -0500",
+      "endofherobrine:zombie": "2025-03-13 15:23:03 -0500"
+    },
+    "done": false
+  },
+  "grimoireofgaia:main/minotaur": {
+    "criteria": {
+      "kill": "2025-03-13 15:23:14 -0500"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2025-03-13 15:23:33 -0500"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/kill_maid_fairy": {
+    "criteria": {
+      "killed_entity": "2025-03-13 15:23:36 -0500"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/pickup_power_point": {
+    "criteria": {
+      "maid_event": "2025-03-13 15:23:58 -0500"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 20:28:45 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 20:28:45 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 20:28:45 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 20:28:45 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 20:28:45 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 20:28:45 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 20:28:45 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 20:28:45 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 20:28:45 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 20:28:45 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 20:28:45 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 20:28:45 -0500"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-03-13 19:50:46 -0500"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2025-03-13 20:17:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-13 19:44:15 -0500"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-03-13 20:11:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-03-13 20:10:45 -0500"
     },
     "done": true
   },

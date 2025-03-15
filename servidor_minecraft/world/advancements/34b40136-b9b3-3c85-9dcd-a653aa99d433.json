@@ -1526,77 +1526,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 06:31:56 +0000"
+      "killed_by": "2025-03-11 05:39:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "grimoireofgaia:main/cyan_flower": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 06:31:56 +0000"
+      "kill": "2025-03-11 05:45:47 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-11 06:31:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-11 06:31:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-11 06:31:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-11 06:31:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-11 06:31:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-11 06:31:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-11 06:31:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-11 06:31:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-11 06:31:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-11 06:31:56 +0000"
-    },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/novelty_hat": {
     "criteria": {
@@ -1611,15 +1551,15 @@
     },
     "done": false
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "goety:goety/kill_a_maverick": {
     "criteria": {
-      "hero_of_the_village": "2025-03-11 06:06:53 +0000"
+      "kill_a_warlock": "2025-03-11 06:02:15 +0000"
     },
     "done": true
   },
-  "grimoireofgaia:main/cyan_flower": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "kill": "2025-03-11 05:45:47 +0000"
+      "hero_of_the_village": "2025-03-11 06:06:53 +0000"
     },
     "done": true
   },
@@ -1629,15 +1569,111 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/grizzly_bear": {
+  "touhou_little_maid:grant_book_on_first_join": {
     "criteria": {
-      "killed_by": "2025-03-11 05:39:54 +0000"
+      "tick": "2025-03-14 02:32:16 +0000"
     },
     "done": true
   },
-  "goety:goety/kill_a_maverick": {
+  "touhou_little_maid:give_smart_slab": {
     "criteria": {
-      "kill_a_warlock": "2025-03-11 06:02:15 +0000"
+      "tick": "2025-03-14 02:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-14 02:34:10 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/change_maid_model": {
+    "criteria": {
+      "maid_event": "2025-03-14 02:35:37 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/switch_schedule": {
+    "criteria": {
+      "maid_event": "2025-03-14 03:26:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 03:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 03:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 03:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 03:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 03:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 03:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 03:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 03:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 03:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 03:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 03:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 03:59:48 +0000"
+    },
+    "done": false
+  },
+  "touhou_little_maid:base/change_maid_sound": {
+    "criteria": {
+      "maid_event": "2025-03-14 03:55:53 +0000"
     },
     "done": true
   },
