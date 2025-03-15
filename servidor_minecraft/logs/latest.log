@@ -17244,3 +17244,13 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [15Mar2025 01:19:39.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22411ms or 448 ticks behind
 [15Mar2025 01:20:31.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
 [15Mar2025 01:20:31.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[15Mar2025 01:22:47.053] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Mar2025 01:22:47.053] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Mar2025 01:23:43.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexten22[/127.227.134.69:57495] logged in with entity id 2982 at (-11.223838883049856, 69.0, 6.098273272755987)
+[15Mar2025 01:23:43.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
+[15Mar2025 01:23:43.315] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
+[15Mar2025 01:27:47.133] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Mar2025 01:27:47.133] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Mar2025 01:29:26.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.146.251.123:46181] logged in with entity id 3654 at (16.989115417237542, 72.0, 93.69999998807907)
+[15Mar2025 01:29:26.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[15Mar2025 01:29:26.695] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
