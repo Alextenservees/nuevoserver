@@ -17290,3 +17290,14 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [15Mar2025 01:59:41.483] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f11c6c0[id=<null>,name=Namty,properties={},legacy=false] (/127.24.156.125:55593) lost connection: Disconnected
 [15Mar2025 02:00:10.399] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28aeb1a2[id=<null>,name=Namty,properties={},legacy=false] (/127.24.156.125:50845) lost connection: Disconnected
 [15Mar2025 02:00:40.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [He Was Number One!]
+[15Mar2025 02:02:49.407] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Mar2025 02:02:49.407] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Mar2025 02:04:13.532] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [touhou_little_maid:network,enlightened_end:enlightened_end] rejected their client side version number
+[15Mar2025 02:04:13.532] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[15Mar2025 02:04:13.537] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4108ce1d[id=<null>,name=Namty,properties={},legacy=false] (/127.24.156.125:52347) lost connection: Connection closed - mismatched mod channel list
+[15Mar2025 02:04:31.313] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [touhou_little_maid:network,enlightened_end:enlightened_end] rejected their client side version number
+[15Mar2025 02:04:31.313] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[15Mar2025 02:04:31.335] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29e6efda[id=<null>,name=Namty,properties={},legacy=false] (/127.24.156.125:54011) lost connection: Connection closed - mismatched mod channel list
+[15Mar2025 02:07:49.404] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Mar2025 02:07:49.404] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Mar2025 02:11:38.058] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=62, y=65, z=-40}
