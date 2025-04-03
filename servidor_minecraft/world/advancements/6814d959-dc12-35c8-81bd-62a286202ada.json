@@ -3427,5 +3427,11 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-04-03 03:34:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
