@@ -2160,6 +2160,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2025-04-03 02:35:11 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-04-03 02:21:08 +0000"
