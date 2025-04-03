@@ -1759,10 +1759,13 @@
       "ginger_seed": "2025-02-14 02:19:48 +0000",
       "artichoke_seed": "2025-02-14 02:17:09 +0000",
       "rutabaga_seed": "2025-02-12 05:38:18 +0000",
+      "strawberry_seed": "2025-04-03 01:47:52 +0000",
       "grape_seed": "2025-02-13 02:40:24 +0000",
       "broccoli_seed": "2025-03-08 22:21:53 +0000",
       "cranberry_seed": "2025-02-14 02:19:43 +0000",
+      "barley_seed": "2025-04-03 01:48:08 +0000",
       "lettuce_seed": "2025-02-12 05:56:37 +0000",
+      "squash_seed": "2025-04-03 01:48:02 +0000",
       "corn_seed": "2025-02-12 05:56:00 +0000",
       "mustard_seed": "2025-02-12 05:59:13 +0000",
       "zucchini_seed": "2025-02-14 02:16:00 +0000"
@@ -2643,6 +2646,7 @@
   "croptopia:gather_savanna": {
     "criteria": {
       "yam_seed": "2025-02-12 06:04:17 +0000",
+      "squash_seed": "2025-04-03 01:48:02 +0000",
       "zucchini_seed": "2025-02-14 02:16:00 +0000",
       "ginger_seed": "2025-02-14 02:19:48 +0000",
       "rutabaga_seed": "2025-02-12 05:38:18 +0000"
@@ -2663,7 +2667,8 @@
       "corn_seed": "2025-02-12 05:56:00 +0000",
       "broccoli_seed": "2025-03-08 22:21:53 +0000",
       "mustard_seed": "2025-02-12 05:59:13 +0000",
-      "kale_seed": "2025-03-08 22:13:42 +0000"
+      "kale_seed": "2025-03-08 22:13:42 +0000",
+      "barley_seed": "2025-04-03 01:48:08 +0000"
     },
     "done": false
   },
@@ -2678,6 +2683,7 @@
       "cauliflower_seed": "2025-02-14 02:15:53 +0000",
       "blueberry_seed": "2025-02-12 05:58:48 +0000",
       "tomato_seed": "2025-02-14 02:15:13 +0000",
+      "strawberry_seed": "2025-04-03 01:47:52 +0000",
       "grape_seed": "2025-02-13 02:40:24 +0000"
     },
     "done": false
@@ -3046,6 +3052,18 @@
   "inventorypets:irongolem": {
     "criteria": {
       "crafting_table": "2025-04-03 01:23:22 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:ocelot": {
+    "criteria": {
+      "crafting_table": "2025-04-03 01:40:49 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:10": {
+    "criteria": {
+      "example": "2025-04-03 01:40:49 +0000"
     },
     "done": true
   },
