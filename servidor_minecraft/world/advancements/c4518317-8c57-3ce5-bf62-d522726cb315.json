@@ -211,6 +211,7 @@
       "muddy_river": "2024-12-14 01:03:09 +0000",
       "autumnal_maple_forest": "2024-12-28 02:06:23 +0000",
       "ancient_delta": "2024-12-28 02:34:26 +0000",
+      "willow_forest": "2025-03-15 02:53:27 +0000",
       "frozen_tundra": "2024-12-11 03:08:56 +0000",
       "redstone_caves": "2025-01-04 03:22:31 +0000",
       "scorching_caves": "2025-01-10 02:22:29 +0000",
@@ -251,6 +252,7 @@
       "pine_taiga": "2024-12-14 00:28:54 +0000",
       "muddy_river": "2024-12-14 01:03:09 +0000",
       "autumnal_maple_forest": "2024-12-28 02:06:23 +0000",
+      "willow_forest": "2025-03-15 02:53:27 +0000",
       "frozen_tundra": "2024-12-11 03:08:56 +0000",
       "blackwood_taiga": "2024-12-14 00:53:06 +0000",
       "rocky_meadow": "2025-02-20 02:42:35 +0000",
@@ -782,7 +784,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-01-04 03:03:29 +0000"
+      "phantom": "2025-01-04 03:03:29 +0000",
+      "warden": "2025-03-15 03:06:23 +0000"
     },
     "done": false
   },
@@ -1651,74 +1654,121 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-03-15 02:29:24 +0000"
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-15 02:29:24 +0000"
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-15 02:29:24 +0000"
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-03-15 02:29:24 +0000"
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-03-15 02:29:44 +0000",
-      "log_spam_fixer": "2025-03-15 02:29:24 +0000"
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-03-15 02:29:24 +0000"
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-03-15 02:29:24 +0000"
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-03-15 02:29:24 +0000"
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-03-15 02:29:24 +0000"
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-03-15 02:29:24 +0000"
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-15 02:29:24 +0000"
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-03-15 02:29:24 +0000"
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-03-15 02:57:22 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/get_sculk_catalyst": {
+    "criteria": {
+      "sculk_catalyst": "2025-03-15 03:06:25 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/read_warred_and_haunting_scroll": {
+    "criteria": {
+      "warred_scroll": "2025-03-15 03:11:00 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-03-15 03:06:23 +0000"
+    },
+    "done": true
+  },
+  "terramity:warden_soul_advancement": {
+    "criteria": {
+      "warden_soul_advancement_0": "2025-03-15 03:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-15 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/read_warred_scroll": {
+    "criteria": {
+      "warred_scroll": "2025-03-15 03:11:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "maple_log": "2025-03-15 02:56:35 +0000"
     },
     "done": false
   },
