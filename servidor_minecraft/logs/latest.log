@@ -124,3 +124,62 @@
 [03Apr2025 01:08:36.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
 [03Apr2025 01:12:24.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [So Noted]
 [03Apr2025 01:12:29.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Sooty'/16405, l='ServerLevel[world]', x=43.19, y=200.12, z=274.48] died: Sooty was slain by Alexten22
+[03Apr2025 01:12:31.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/16300, l='ServerLevel[world]', x=75.98, y=79.16, z=100.72] died: Restless Spirit starved to death
+[03Apr2025 01:13:13.985] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[03Apr2025 01:13:13.985] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[03Apr2025 01:13:31.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> carajo
+[03Apr2025 01:13:43.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ???
+[03Apr2025 01:13:48.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oe como se enlasa portales
+[03Apr2025 01:13:53.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> del nether
+[03Apr2025 01:14:09.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> y... eso sabe mi amigo deja le pregunto
+[03Apr2025 01:14:32.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 has completed the challenge [Return to Sender]
+[03Apr2025 01:14:55.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> tienes que hacer un portal en la misma ubicacion en el nether
+[03Apr2025 01:15:01.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> chucha
+[03Apr2025 01:15:23.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-49, y=33, z=-150} BlockPos{x=-50, y=31, z=-149}
+[03Apr2025 01:15:54.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 moved too quickly! -8.930732812364237,0.0,-4.660819175607168
+[03Apr2025 01:15:54.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> me explico xd pero no le entendi
+[03Apr2025 01:15:54.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18233ms or 364 ticks behind
+[03Apr2025 01:16:15.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ni puta idea donde estiy
+[03Apr2025 01:16:18.171] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:16:18.873] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:16:18.874] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:16:18.874] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:16:18.875] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:16:23.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> estas lejos?
+[03Apr2025 01:16:28.598] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:16:28.599] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:16:28.600] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:16:28.600] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:16:32.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> a mil metros
+[03Apr2025 01:16:36.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> yafue
+[03Apr2025 01:16:42.623] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[03Apr2025 01:16:46.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 moved too quickly! 3.826148887183656,-0.8500000000000014,9.547101329658915
+[03Apr2025 01:16:46.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6240ms or 124 ticks behind
+[03Apr2025 01:17:07.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> esq para la lava infinita me pide un charco de lava en el nether
+[03Apr2025 01:17:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> enserio?`para el create
+[03Apr2025 01:17:31.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> si
+[03Apr2025 01:17:35.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> osea
+[03Apr2025 01:17:40.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> es una de las formas
+[03Apr2025 01:17:43.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> hay otra creo
+[03Apr2025 01:18:35.183] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=16, y=62, z=-76}
+[03Apr2025 01:18:38.389] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[03Apr2025 01:18:38.390] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[03Apr2025 01:21:24.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> se necesitan 10,000 bloques de lava
+[03Apr2025 01:21:34.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> para que el create lo detecte como infinito
+[03Apr2025 01:21:46.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.127.128.231:59181] logged in with entity id 21318 at (13.291844973899218, 72.0, 76.50699439406067)
+[03Apr2025 01:21:46.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[03Apr2025 01:21:46.791] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[03Apr2025 01:22:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> o un hueco de 22 de ancho, 22 de largo y 22 de alto
+[03Apr2025 01:22:08.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> huevada
+[03Apr2025 01:22:18.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> xd
+[03Apr2025 01:22:27.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
+[03Apr2025 01:22:27.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[03Apr2025 01:22:35.802] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:22:49.405] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:22:49.406] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:22:49.407] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:22:49.407] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:22:49.448] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:22:49.449] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:22:49.449] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Apr2025 01:22:49.450] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
