@@ -178,6 +178,7 @@
       "minecraft:stony_shore": "2024-12-13 00:22:53 +0000",
       "minecraft:snowy_plains": "2025-01-04 04:37:29 +0000",
       "minecraft:grove": "2025-03-02 02:12:16 +0000",
+      "minecraft:swamp": "2025-04-03 02:28:26 +0000",
       "minecraft:jagged_peaks": "2024-12-24 02:40:16 +0000",
       "minecraft:cold_ocean": "2024-12-24 02:26:36 +0000",
       "minecraft:forest": "2025-02-27 02:01:00 +0000",
@@ -604,12 +605,14 @@
   "croptopia:gather_all": {
     "criteria": {
       "tea_seed": "2025-04-03 02:14:36 +0000",
+      "elderberry_seed": "2025-04-03 02:25:05 +0000",
       "rhubarb_seed": "2025-02-14 02:18:04 +0000",
       "onion_seed": "2024-12-14 02:03:52 +0000",
       "blueberry_seed": "2024-12-20 05:27:59 +0000",
       "artichoke_seed": "2025-02-14 02:17:27 +0000",
       "grape_seed": "2024-12-20 05:23:59 +0000",
-      "broccoli_seed": "2025-02-14 02:16:44 +0000"
+      "broccoli_seed": "2025-02-14 02:16:44 +0000",
+      "currant_seed": "2025-04-03 02:28:31 +0000"
     },
     "done": false
   },
@@ -957,6 +960,7 @@
   "croptopia:gather_forest": {
     "criteria": {
       "tea_seed": "2025-04-03 02:14:36 +0000",
+      "elderberry_seed": "2025-04-03 02:25:05 +0000",
       "blueberry_seed": "2024-12-20 05:27:59 +0000",
       "grape_seed": "2024-12-20 05:23:59 +0000"
     },
@@ -1822,6 +1826,7 @@
   },
   "croptopia:gather_swamp": {
     "criteria": {
+      "currant_seed": "2025-04-03 02:28:31 +0000",
       "artichoke_seed": "2025-02-14 02:17:27 +0000"
     },
     "done": false

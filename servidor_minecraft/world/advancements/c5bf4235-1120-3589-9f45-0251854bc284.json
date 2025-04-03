@@ -3057,12 +3057,6 @@
     },
     "done": true
   },
-  "inventorypets:spider": {
-    "criteria": {
-      "crafting_table": "2025-04-03 01:57:05 +0000"
-    },
-    "done": true
-  },
   "inventorypets:jukebox": {
     "criteria": {
       "crafting_table": "2025-04-03 01:12:24 +0000"
@@ -3084,6 +3078,12 @@
   "inventorypets:10": {
     "criteria": {
       "example": "2025-04-03 01:40:49 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:spider": {
+    "criteria": {
+      "crafting_table": "2025-04-03 01:57:05 +0000"
     },
     "done": true
   },
