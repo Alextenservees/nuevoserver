@@ -116,3 +116,11 @@
 [03Apr2025 00:57:54.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> voy a decorar mi casa xd
 [03Apr2025 00:58:13.977] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [03Apr2025 00:58:13.977] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[03Apr2025 01:03:13.978] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[03Apr2025 01:03:13.978] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[03Apr2025 01:05:05.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=63, z=370} BlockPos{x=-23, y=62, z=370}
+[03Apr2025 01:08:13.991] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[03Apr2025 01:08:13.991] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[03Apr2025 01:08:36.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
+[03Apr2025 01:12:24.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [So Noted]
+[03Apr2025 01:12:29.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Sooty'/16405, l='ServerLevel[world]', x=43.19, y=200.12, z=274.48] died: Sooty was slain by Alexten22
