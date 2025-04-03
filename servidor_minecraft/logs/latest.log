@@ -24,3 +24,42 @@
 [03Apr2025 00:31:34.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
 [03Apr2025 00:31:36.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
 [03Apr2025 00:31:42.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[03Apr2025 00:32:34.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.127.128.231:50449] logged in with entity id 5066 at (16.126018004206138, 72.0, 75.53195754822028)
+[03Apr2025 00:32:34.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[03Apr2025 00:32:34.260] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[03Apr2025 00:33:14.036] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[03Apr2025 00:33:14.036] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[03Apr2025 00:33:43.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[03Apr2025 00:33:47.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[03Apr2025 00:33:49.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[03Apr2025 00:37:26.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[03Apr2025 00:37:51.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[03Apr2025 00:38:13.983] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[03Apr2025 00:38:13.983] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[03Apr2025 00:38:23.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has reached the goal [Life Shared]
+[03Apr2025 00:38:25.932] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=1, y=77, z=94}
+[03Apr2025 00:40:49.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [Keep Track of Time]
+[03Apr2025 00:42:20.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
+[03Apr2025 00:42:20.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[03Apr2025 00:42:33.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.127.128.231:46427] logged in with entity id 7681 at (16.98257235450597, 72.0, 75.691442270136)
+[03Apr2025 00:42:33.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[03Apr2025 00:42:33.453] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[03Apr2025 00:42:49.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/7742, l='ServerLevel[world]', x=-6.79, y=108.00, z=12.42] died, message: 'Possessed Villager was slain by The Moonflower'
+[03Apr2025 00:43:13.974] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[03Apr2025 00:43:13.974] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[03Apr2025 00:47:50.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doom_Slayer246[/127.252.35.23:40251] logged in with entity id 8774 at (34.136872424020744, 59.0, 21.10189844094808)
+[03Apr2025 00:47:50.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 joined the game
+[03Apr2025 00:47:50.324] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
+[03Apr2025 00:48:11.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> alosaños
+[03Apr2025 00:48:14.049] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[03Apr2025 00:48:14.050] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[03Apr2025 00:48:51.213] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 lost connection: Disconnected
+[03Apr2025 00:48:51.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 left the game
+[03Apr2025 00:51:18.015] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doom_Slayer246[/127.252.35.23:50959] logged in with entity id 9487 at (46.51964740149067, 64.0625, 2.201567374889969)
+[03Apr2025 00:51:18.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 joined the game
+[03Apr2025 00:51:18.116] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
+[03Apr2025 00:51:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ????????????????
+[03Apr2025 00:51:46.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> eeee
+[03Apr2025 00:52:00.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> que paso oe
+[03Apr2025 00:52:03.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> qsuena
+[03Apr2025 00:52:05.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> nada

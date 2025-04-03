@@ -3025,5 +3025,17 @@
     },
     "done": true
   },
+  "touhou_little_maid:maid_base/shrine_reborn_maid": {
+    "criteria": {
+      "maid_event": "2025-04-03 00:38:23 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/switch_schedule": {
+    "criteria": {
+      "maid_event": "2025-04-03 00:40:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
