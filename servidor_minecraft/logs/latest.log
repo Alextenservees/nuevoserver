@@ -2,3 +2,14 @@
 [03Apr2025 00:02:50.950] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [03Apr2025 00:07:50.948] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [03Apr2025 00:07:50.948] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[03Apr2025 00:12:50.952] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[03Apr2025 00:12:50.952] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[03Apr2025 00:17:34.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexten22[/127.227.134.69:60771] logged in with entity id 2713 at (-5.89223785123628, 69.0, 2.523170300175396)
+[03Apr2025 00:17:34.593] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[03Apr2025 00:17:34.594] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for com.Polarice3.Goety.common.entities.ally.Doppelganger: java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[03Apr2025 00:17:34.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
+[03Apr2025 00:17:35.094] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
+[03Apr2025 00:17:57.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22873ms or 457 ticks behind
+[03Apr2025 00:18:13.917] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[03Apr2025 00:18:13.917] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[03Apr2025 00:19:12.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
