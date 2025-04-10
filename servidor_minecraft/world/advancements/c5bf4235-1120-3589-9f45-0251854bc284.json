@@ -1392,6 +1392,7 @@
   },
   "regions_unexplored:mycologist": {
     "criteria": {
+      "yellow_bioshroom": "2025-04-10 01:11:16 +0000",
       "blue_bioshroom": "2024-11-10 23:59:49 +0000",
       "green_bioshroom": "2024-11-10 23:59:49 +0000"
     },
