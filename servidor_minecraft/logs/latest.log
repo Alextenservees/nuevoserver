@@ -17743,3 +17743,37 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [10Apr2025 02:40:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
 [10Apr2025 02:40:32.638] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
 [10Apr2025 02:41:05.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to blueplayer66]
+[10Apr2025 02:43:28.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has completed the challenge [Storm-Chaser]
+[10Apr2025 02:43:41.127] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Apr2025 02:43:41.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Apr2025 02:46:43.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [Wax Off]
+[10Apr2025 02:47:26.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to blueplayer66]
+[10Apr2025 02:48:18.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has reached the goal [Hunted]
+[10Apr2025 02:48:41.130] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Apr2025 02:48:41.130] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Apr2025 02:49:31.940] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2136, y=171, z=-2166}
+[10Apr2025 02:49:58.768] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Apr2025 02:52:33.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Timed out
+[10Apr2025 02:52:33.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[10Apr2025 02:52:33.151] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Apr2025 02:52:50.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.127.128.231:46295] logged in with entity id 65107 at (-2156.4101889287463, 158.0, -2160.3668142999727)
+[10Apr2025 02:52:50.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[10Apr2025 02:52:50.247] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[10Apr2025 02:53:19.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
+[10Apr2025 02:53:19.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[10Apr2025 02:53:34.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.127.128.231:45891] logged in with entity id 65272 at (-2157.0197429960003, 159.00093629062178, -2161.464564266356)
+[10Apr2025 02:53:34.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[10Apr2025 02:53:34.234] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[10Apr2025 02:53:41.140] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Apr2025 02:53:41.141] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Apr2025 02:54:04.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Timed out
+[10Apr2025 02:54:04.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[10Apr2025 02:55:00.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
+[10Apr2025 02:55:39.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.127.128.231:38193] logged in with entity id 65756 at (-2158.2389087294573, 159.38304965198046, -2163.6601679648484)
+[10Apr2025 02:55:39.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[10Apr2025 02:55:40.011] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[10Apr2025 02:56:10.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Timed out
+[10Apr2025 02:56:10.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[10Apr2025 02:57:50.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[10Apr2025 02:58:41.055] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Apr2025 02:58:41.055] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
