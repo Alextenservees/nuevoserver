@@ -17711,3 +17711,12 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [12Apr2025 06:14:48.291] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/88936, l='ServerLevel[world]', x=308.50, y=47.00, z=298.50]
 [12Apr2025 06:14:49.065] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [12Apr2025 06:14:49.065] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[12Apr2025 06:19:49.056] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[12Apr2025 06:19:49.056] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[12Apr2025 06:24:49.051] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[12Apr2025 06:24:49.052] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[12Apr2025 06:25:13.886] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-40, y=99, z=-30}
+[12Apr2025 06:27:11.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=62, z=-15} BlockPos{x=-4, y=62, z=-19}
+[12Apr2025 06:27:19.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=62, z=-15} BlockPos{x=4, y=62, z=-26}
+[12Apr2025 06:27:19.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=62, z=-15} BlockPos{x=5, y=62, z=-27}
+[12Apr2025 06:27:39.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=62, z=-37} BlockPos{x=9, y=62, z=-11}
