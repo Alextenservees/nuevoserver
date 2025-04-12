@@ -306,6 +306,7 @@
       "glow_berries": "2024-12-14 22:07:30 +0000",
       "salmon": "2025-04-10 01:47:19 +0000",
       "cooked_chicken": "2024-12-24 02:49:06 +0000",
+      "mushroom_stew": "2025-04-12 02:10:41 +0000",
       "cooked_mutton": "2024-12-24 02:53:43 +0000",
       "sweet_berries": "2024-12-18 01:52:28 +0000",
       "apple": "2024-12-13 01:01:42 +0000",
@@ -2227,6 +2228,12 @@
   "enemyexpansion:hunted": {
     "criteria": {
       "hunted_0": "2025-04-10 02:48:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-12 02:10:41 +0000"
     },
     "done": true
   },
