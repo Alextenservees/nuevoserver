@@ -17636,3 +17636,9 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [12Apr2025 04:15:00.133] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/69391, l='ServerLevel[world]', x=1075.00, y=124.01, z=1035.30] died: Dinnerbone was pummeled by blueplayer66
 [12Apr2025 04:15:00.363] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/69282, l='ServerLevel[world]', x=1075.85, y=124.01, z=1037.65] died: Dinnerbone was pummeled by blueplayer66
 [12Apr2025 04:15:56.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 moved wrongly!
+[12Apr2025 04:19:49.057] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[12Apr2025 04:19:49.057] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[12Apr2025 04:24:49.061] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[12Apr2025 04:24:49.061] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[12Apr2025 04:25:57.912] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/72451, l='ServerLevel[world]', x=1075.84, y=132.01, z=1039.25] died: Dinnerbone was shot by Dinnerbone
+[12Apr2025 04:26:08.116] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/70318, l='ServerLevel[world]', x=1073.65, y=132.01, z=1023.56] died: Dinnerbone was slain by blueplayer66
