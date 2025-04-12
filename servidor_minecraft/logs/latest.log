@@ -17642,3 +17642,12 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [12Apr2025 04:24:49.061] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [12Apr2025 04:25:57.912] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/72451, l='ServerLevel[world]', x=1075.84, y=132.01, z=1039.25] died: Dinnerbone was shot by Dinnerbone
 [12Apr2025 04:26:08.116] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/70318, l='ServerLevel[world]', x=1073.65, y=132.01, z=1023.56] died: Dinnerbone was slain by blueplayer66
+[12Apr2025 04:29:34.173] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/73540, l='ServerLevel[world]', x=1090.17, y=132.01, z=1029.76] died: Dinnerbone was shot by Dinnerbone
+[12Apr2025 04:29:34.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/73541, l='ServerLevel[world]', x=1090.76, y=132.01, z=1029.07] died: Dinnerbone was shot by Dinnerbone
+[12Apr2025 04:29:37.018] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/72998, l='ServerLevel[world]', x=1092.06, y=132.01, z=1029.26] died: Dinnerbone was shot by Dinnerbone
+[12Apr2025 04:29:49.048] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[12Apr2025 04:29:49.048] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[12Apr2025 04:30:46.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/73887, l='ServerLevel[world]', x=1089.18, y=132.01, z=1025.06] died: Dinnerbone was shot by Dinnerbone
+[12Apr2025 04:34:49.048] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[12Apr2025 04:34:49.048] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[12Apr2025 04:35:16.337] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1056, y=71, z=1038}
