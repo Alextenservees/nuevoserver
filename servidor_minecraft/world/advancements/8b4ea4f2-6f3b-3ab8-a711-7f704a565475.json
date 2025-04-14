@@ -647,18 +647,24 @@
       "elderberry_seed": "2025-04-03 02:25:05 +0000",
       "tomato_seed": "2025-04-14 07:08:12 +0000",
       "pepper_seed": "2025-04-14 07:07:48 +0000",
+      "tomatillo_seed": "2025-04-14 07:12:55 +0000",
       "rhubarb_seed": "2025-02-14 02:18:04 +0000",
       "onion_seed": "2024-12-14 02:03:52 +0000",
       "kale_seed": "2025-04-10 02:16:46 +0000",
+      "kiwi_seed": "2025-04-14 07:12:43 +0000",
       "blueberry_seed": "2024-12-20 05:27:59 +0000",
       "ginger_seed": "2025-04-14 07:07:11 +0000",
       "artichoke_seed": "2025-02-14 02:17:27 +0000",
       "rutabaga_seed": "2025-04-14 07:07:56 +0000",
       "strawberry_seed": "2025-04-10 02:27:34 +0000",
       "grape_seed": "2024-12-20 05:23:59 +0000",
+      "celery_seed": "2025-04-14 07:12:53 +0000",
       "greenonion_seed": "2025-04-14 05:11:58 +0000",
       "broccoli_seed": "2025-02-14 02:16:44 +0000",
+      "barley_seed": "2025-04-14 07:13:01 +0000",
       "lettuce_seed": "2025-04-14 07:07:32 +0000",
+      "squash_seed": "2025-04-14 07:12:59 +0000",
+      "spinach_seed": "2025-04-14 07:12:51 +0000",
       "corn_seed": "2025-04-10 02:24:37 +0000",
       "turmeric_seed": "2025-04-14 05:12:31 +0000",
       "oat_seed": "2025-04-14 03:01:46 +0000",
@@ -1011,14 +1017,17 @@
   },
   "croptopia:gather_forest": {
     "criteria": {
+      "tomatillo_seed": "2025-04-14 07:12:55 +0000",
       "cantaloupe_seed": "2025-04-12 07:40:15 +0000",
+      "spinach_seed": "2025-04-14 07:12:51 +0000",
       "cauliflower_seed": "2025-04-14 07:07:00 +0000",
       "tea_seed": "2025-04-03 02:14:36 +0000",
       "elderberry_seed": "2025-04-03 02:25:05 +0000",
       "blueberry_seed": "2024-12-20 05:27:59 +0000",
       "strawberry_seed": "2025-04-10 02:27:34 +0000",
       "tomato_seed": "2025-04-14 07:08:12 +0000",
-      "grape_seed": "2024-12-20 05:23:59 +0000"
+      "grape_seed": "2024-12-20 05:23:59 +0000",
+      "celery_seed": "2025-04-14 07:12:53 +0000"
     },
     "done": false
   },
@@ -1883,7 +1892,8 @@
       "broccoli_seed": "2025-02-14 02:16:44 +0000",
       "oat_seed": "2025-04-14 03:01:46 +0000",
       "mustard_seed": "2025-04-14 07:07:39 +0000",
-      "kale_seed": "2025-04-10 02:16:46 +0000"
+      "kale_seed": "2025-04-10 02:16:46 +0000",
+      "barley_seed": "2025-04-14 07:13:01 +0000"
     },
     "done": false
   },
@@ -2368,9 +2378,27 @@
     },
     "done": true
   },
-  "minecraft:husbandry/froglights": {
+  "nova_structures:adventure/find_witch_villa": {
     "criteria": {
-      "froglights": "2025-04-14 07:00:15 +0000"
+      "nova_structures:witch_villa": "2025-04-14 03:06:41 +0000"
+    },
+    "done": true
+  },
+  "idas:ruins_of_the_deep": {
+    "criteria": {
+      "in_ruins_of_the_deep": "2025-04-14 03:36:00 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-04-14 03:49:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-04-14 04:13:42 +0000"
     },
     "done": true
   },
@@ -2379,6 +2407,36 @@
       "ferrous_wroughtnaut": "2025-04-14 04:30:45 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-04-14 04:54:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "yam_seed": "2025-04-14 07:08:44 +0000",
+      "squash_seed": "2025-04-14 07:12:59 +0000",
+      "zucchini_seed": "2025-04-14 07:08:46 +0000",
+      "kiwi_seed": "2025-04-14 07:12:43 +0000",
+      "ginger_seed": "2025-04-14 07:07:11 +0000",
+      "rutabaga_seed": "2025-04-14 07:07:56 +0000",
+      "turmeric_seed": "2025-04-14 05:12:31 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-04-14 05:30:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "fish_stew": "2025-04-14 05:35:47 +0000"
+    },
+    "done": false
   },
   "inventorypets:squid": {
     "criteria": {
@@ -2392,55 +2450,9 @@
     },
     "done": true
   },
-  "quark:get_forgotten_hat": {
+  "minecraft:husbandry/froglights": {
     "criteria": {
-      "get_forgotten_hat": "2025-04-14 03:49:38 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/uranium": {
-    "criteria": {
-      "uranium": "2025-04-14 04:54:51 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_toxic_caves": {
-    "criteria": {
-      "discover": "2025-04-14 04:13:42 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_witch_villa": {
-    "criteria": {
-      "nova_structures:witch_villa": "2025-04-14 03:06:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "fish_stew": "2025-04-14 05:35:47 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2025-04-14 05:30:53 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_savanna": {
-    "criteria": {
-      "yam_seed": "2025-04-14 07:08:44 +0000",
-      "zucchini_seed": "2025-04-14 07:08:46 +0000",
-      "ginger_seed": "2025-04-14 07:07:11 +0000",
-      "rutabaga_seed": "2025-04-14 07:07:56 +0000",
-      "turmeric_seed": "2025-04-14 05:12:31 +0000"
-    },
-    "done": false
-  },
-  "idas:ruins_of_the_deep": {
-    "criteria": {
-      "in_ruins_of_the_deep": "2025-04-14 03:36:00 +0000"
+      "froglights": "2025-04-14 07:00:15 +0000"
     },
     "done": true
   },
