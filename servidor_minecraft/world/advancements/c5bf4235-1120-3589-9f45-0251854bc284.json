@@ -3102,12 +3102,24 @@
     },
     "done": true
   },
+  "inventorypets:squid": {
+    "criteria": {
+      "crafting_table": "2025-04-14 05:38:21 +0000"
+    },
+    "done": true
+  },
   "atmospheric:adventure/dunes_pricks": {
     "criteria": {
       "yucca_flower": "2025-04-14 02:13:12 +0000",
       "barrel_cactus": "2025-04-14 02:19:03 +0000"
     },
     "done": false
+  },
+  "inventorypets:blaze": {
+    "criteria": {
+      "crafting_table": "2025-04-14 05:43:24 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {

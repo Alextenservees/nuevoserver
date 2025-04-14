@@ -2363,6 +2363,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/toad": {
+    "criteria": {
+      "kill": "2025-04-14 05:59:27 +0000"
+    },
+    "done": true
+  },
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2025-04-14 03:49:38 +0000"
