@@ -195,6 +195,7 @@
       "atmospheric:atmospheric:aspen_parkland": "2025-03-15 02:22:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-14 02:45:40 +0000",
       "minecraft:windswept_savanna": "2025-04-10 02:35:02 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-14 05:28:09 +0000",
       "minecraft:frozen_peaks": "2024-12-24 03:05:31 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-14 02:43:35 +0000",
       "minecraft:deep_dark": "2024-12-14 21:19:58 +0000",
@@ -2356,6 +2357,12 @@
     },
     "done": true
   },
+  "inventorypets:squid": {
+    "criteria": {
+      "crafting_table": "2025-04-14 05:36:57 +0000"
+    },
+    "done": true
+  },
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2025-04-14 03:49:38 +0000"
@@ -2377,6 +2384,18 @@
   "nova_structures:adventure/find_witch_villa": {
     "criteria": {
       "nova_structures:witch_villa": "2025-04-14 03:06:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "fish_stew": "2025-04-14 05:35:47 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-04-14 05:30:53 +0000"
     },
     "done": true
   },
