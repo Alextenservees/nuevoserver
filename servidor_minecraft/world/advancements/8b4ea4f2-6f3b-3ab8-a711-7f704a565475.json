@@ -2341,6 +2341,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-04-14 04:13:42 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_witch_villa": {
     "criteria": {
       "nova_structures:witch_villa": "2025-04-14 03:06:41 +0000"

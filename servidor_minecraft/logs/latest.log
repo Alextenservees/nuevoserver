@@ -17920,3 +17920,17 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [14Apr2025 04:06:38.754] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-18, y=67, z=59}
 [14Apr2025 04:07:05.070] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [14Apr2025 04:07:05.070] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Apr2025 04:11:23.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 moved wrongly!
+[14Apr2025 04:12:05.067] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Apr2025 04:12:05.067] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Apr2025 04:12:33.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadyx28x lost connection: Disconnected
+[14Apr2025 04:12:33.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x left the game
+[14Apr2025 04:13:42.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has reached the goal [Radiation Vibe]
+[14Apr2025 04:14:53.979] [Server thread/WARN] [sophisticatedcore/]: Too much loot to add to container. Overflow is voided.
+[14Apr2025 04:16:16.088] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=4390, y=73, z=4360}
+[14Apr2025 04:17:04.999] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Apr2025 04:17:04.999] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Apr2025 04:17:28.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/73310, l='ServerLevel[world]', x=4385.23, y=69.02, z=4320.32] died, message: 'Unemployed was slain by Zombie'
+[14Apr2025 04:18:06.095] [pool-7-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=4357, y=69, z=4565}
+[14Apr2025 04:18:10.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[14Apr2025 04:19:48.387] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-6, y=114, z=23}
