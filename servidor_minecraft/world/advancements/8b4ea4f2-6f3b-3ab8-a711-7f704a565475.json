@@ -2303,6 +2303,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-04-14 02:37:20 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:temple_entry": {
     "criteria": {
       "in_better_desert_temple": "2025-04-14 02:15:17 +0000"
