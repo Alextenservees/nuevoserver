@@ -2303,6 +2303,12 @@
     },
     "done": true
   },
+  "ad_astra:ocean_cleanup": {
+    "criteria": {
+      "oil_bucket": "2025-04-14 02:50:58 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2025-04-14 02:37:20 +0000"
