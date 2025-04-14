@@ -489,7 +489,8 @@
       "tavern_dark_oak": "2024-12-03 06:43:00 +0000",
       "illager_manor": "2024-12-14 01:34:18 +0000",
       "pillager_outpost": "2025-03-08 22:33:52 +0000",
-      "illager_camp": "2024-10-27 06:41:06 +0000"
+      "illager_camp": "2024-10-27 06:41:06 +0000",
+      "witch_villa": "2025-04-14 03:18:34 +0000"
     },
     "done": false
   },
@@ -3111,6 +3112,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_witch_villa": {
+    "criteria": {
+      "nova_structures:witch_villa": "2025-04-14 03:18:34 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_frostbitten_temple": {
     "criteria": {
       "frostbitten_temple": "2025-04-14 02:17:02 +0000"
@@ -3120,6 +3127,12 @@
   "betterdeserttemples:temple_entry": {
     "criteria": {
       "in_better_desert_temple": "2025-04-14 02:15:04 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:obtain_pepper_seeds": {
+    "criteria": {
+      "obtain_pepper_seeds_0": "2025-04-14 03:18:15 +0000"
     },
     "done": true
   },
