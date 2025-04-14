@@ -2456,9 +2456,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-04-14 23:12:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_drinks": {
+    "criteria": {
+      "melon_juice": "2025-04-14 23:11:10 +0000"
+    },
+    "done": false
+  },
   "croptopia:food_press": {
     "criteria": {
       "food_press": "2025-04-14 22:38:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getdrinks": {
+    "criteria": {
+      "has_drink": "2025-04-14 23:11:10 +0000"
     },
     "done": true
   },
