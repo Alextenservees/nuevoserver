@@ -2351,6 +2351,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/froglights": {
+    "criteria": {
+      "froglights": "2025-04-14 07:00:15 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-04-14 04:30:45 +0000"
