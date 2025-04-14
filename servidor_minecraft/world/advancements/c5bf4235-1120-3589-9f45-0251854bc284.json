@@ -3106,9 +3106,21 @@
     },
     "done": false
   },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-04-14 04:33:54 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2025-04-14 02:03:10 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:biome": {
+    "criteria": {
+      "crafting_table": "2025-04-14 04:33:12 +0000"
     },
     "done": true
   },
@@ -3133,6 +3145,12 @@
   "call_of_yucutan:obtain_pepper_seeds": {
     "criteria": {
       "obtain_pepper_seeds_0": "2025-04-14 03:18:15 +0000"
+    },
+    "done": true
+  },
+  "idas:ruins_of_the_deep": {
+    "criteria": {
+      "in_ruins_of_the_deep": "2025-04-14 04:35:14 +0000"
     },
     "done": true
   },
