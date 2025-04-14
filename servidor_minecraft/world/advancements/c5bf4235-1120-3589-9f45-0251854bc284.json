@@ -141,6 +141,7 @@
       "minecraft:grove": "2024-10-29 16:04:18 +0000",
       "minecraft:jagged_peaks": "2024-12-24 02:40:40 +0000",
       "minecraft:cold_ocean": "2024-10-29 15:30:04 +0000",
+      "atmospheric:atmospheric:snowy_scrubland": "2025-04-14 02:09:37 +0000",
       "minecraft:forest": "2024-10-27 06:20:02 +0000",
       "minecraft:lush_caves": "2024-11-01 08:18:54 +0000",
       "minecraft:deep_cold_ocean": "2024-12-14 06:36:33 +0000",
@@ -3097,77 +3098,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 02:39:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 02:39:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 02:39:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 02:39:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 02:39:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 02:39:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 02:39:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 02:39:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 02:39:50 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 02:39:50 +0000"
+      "requirement": "2025-04-14 02:15:46 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "atmospheric:adventure/dunes_pricks": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 02:39:50 +0000"
+      "yucca_flower": "2025-04-14 02:13:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_block": {
+  "mowziesmobs:kill_frostmaw": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 02:39:50 +0000"
+      "frostmaw": "2025-04-14 02:03:10 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-04-14 02:15:04 +0000"
+    },
+    "done": true
+  },
+  "idas:winter_wagon": {
+    "criteria": {
+      "in_winter_wagon": "2025-04-14 02:04:13 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -183,6 +183,7 @@
       "minecraft:swamp": "2025-04-03 02:28:26 +0000",
       "minecraft:jagged_peaks": "2024-12-24 02:40:16 +0000",
       "minecraft:cold_ocean": "2024-12-24 02:26:36 +0000",
+      "atmospheric:atmospheric:snowy_scrubland": "2025-04-14 02:13:01 +0000",
       "minecraft:forest": "2025-02-27 02:01:00 +0000",
       "minecraft:lush_caves": "2024-12-14 01:49:18 +0000",
       "minecraft:deep_cold_ocean": "2025-01-09 02:57:03 +0000",
@@ -251,6 +252,7 @@
       "pine_slopes": "2024-12-28 00:44:07 +0000",
       "gravel_beach": "2025-01-09 02:49:10 +0000",
       "golden_boreal_taiga": "2024-12-14 01:36:11 +0000",
+      "icy_heights": "2025-04-14 01:53:28 +0000",
       "bioshroom_caves": "2025-02-20 01:17:06 +0000",
       "lupine_plains": "2024-12-24 01:33:16 +0000"
     },
@@ -285,6 +287,7 @@
       "pine_slopes": "2024-12-28 00:44:07 +0000",
       "gravel_beach": "2025-01-09 02:49:10 +0000",
       "golden_boreal_taiga": "2024-12-14 01:36:11 +0000",
+      "icy_heights": "2025-04-14 01:53:28 +0000",
       "lupine_plains": "2024-12-24 01:33:16 +0000"
     },
     "done": false
@@ -2270,41 +2273,33 @@
     },
     "done": true
   },
-  "touhou_little_maid:favorability/favorability_increased": {
-    "criteria": {
-      "maid_event": "2025-04-12 07:46:08 +0000"
-    },
-    "done": true
-  },
   "idas:enchantingtower": {
     "criteria": {
       "in_enchantingtower": "2025-04-12 07:37:23 +0000"
     },
     "done": true
   },
-  "infinity_cave:technical/hit_match/player_hurt_entity": {
+  "touhou_little_maid:favorability/favorability_increased": {
     "criteria": {
-      "nbit8": "2025-04-12 07:59:54 +0000",
-      "nbit3": "2025-04-12 07:59:54 +0000",
-      "nbit15": "2025-04-12 07:59:54 +0000",
-      "nbit14": "2025-04-12 07:59:54 +0000",
-      "nbit5": "2025-04-12 07:59:54 +0000",
-      "bit9": "2025-04-12 07:59:54 +0000",
-      "bit7": "2025-04-12 07:59:54 +0000",
-      "bit6": "2025-04-12 07:59:54 +0000",
-      "bit4": "2025-04-12 07:59:54 +0000",
-      "bit1": "2025-04-12 07:59:54 +0000",
-      "bit2": "2025-04-12 07:59:54 +0000",
-      "nbit11": "2025-04-12 07:59:54 +0000",
-      "bit12": "2025-04-12 07:59:54 +0000",
-      "bit13": "2025-04-12 07:59:54 +0000",
-      "bit10": "2025-04-12 07:59:54 +0000"
+      "maid_event": "2025-04-12 07:46:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "luminousworld:kill_treent": {
     "criteria": {
       "kill_treent_0": "2025-04-12 07:49:01 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-04-14 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "idas:winter_wagon": {
+    "criteria": {
+      "in_winter_wagon": "2025-04-14 01:54:38 +0000"
     },
     "done": true
   },
