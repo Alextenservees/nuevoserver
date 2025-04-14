@@ -228,6 +228,7 @@
       "pine_taiga": "2024-12-24 01:31:50 +0000",
       "autumnal_maple_forest": "2024-12-13 00:51:10 +0000",
       "muddy_river": "2025-02-20 01:23:27 +0000",
+      "prismachasm": "2025-04-14 03:48:34 +0000",
       "ancient_delta": "2025-02-20 02:45:42 +0000",
       "willow_forest": "2025-02-27 02:55:35 +0000",
       "frozen_tundra": "2024-12-13 00:26:16 +0000",
@@ -443,11 +444,13 @@
       "minecraft:creeper": "2024-12-28 00:23:25 +0000",
       "minecraft:evoker": "2025-01-11 01:58:16 +0000",
       "minecraft:slime": "2025-04-14 03:15:37 +0000",
+      "quark:forgotten": "2025-04-14 03:49:35 +0000",
       "minecraft:zombified_piglin": "2024-12-28 02:23:47 +0000",
       "minecraft:witch": "2024-12-20 05:10:14 +0000",
       "minecraft:wither_skeleton": "2025-01-11 01:35:45 +0000",
       "minecraft:husk": "2025-01-04 04:39:05 +0000",
       "minecraft:cave_spider": "2024-12-14 00:58:44 +0000",
+      "quark:wraith": "2025-04-14 03:52:04 +0000",
       "minecraft:piglin": "2025-02-27 02:39:43 +0000",
       "minecraft:stray": "2025-01-10 00:40:45 +0000",
       "minecraft:silverfish": "2025-02-20 01:11:28 +0000",
@@ -1923,6 +1926,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "prismachasm": "2025-04-14 03:48:34 +0000",
       "bioshroom_caves": "2025-02-20 01:17:06 +0000",
       "ancient_delta": "2025-02-20 02:45:42 +0000"
     },
@@ -2328,6 +2332,12 @@
   "ad_astra:ocean_cleanup": {
     "criteria": {
       "oil_bucket": "2025-04-14 02:50:58 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-04-14 03:49:38 +0000"
     },
     "done": true
   },
