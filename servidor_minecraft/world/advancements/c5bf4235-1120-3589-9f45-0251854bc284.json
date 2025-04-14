@@ -1824,8 +1824,14 @@
   },
   "croptopia:gather_tree_all": {
     "criteria": {
+      "orange_sapling": "2025-04-14 06:47:38 +0000",
+      "lemon_sapling": "2025-04-14 06:47:56 +0000",
       "avocado_sapling": "2024-12-14 19:03:04 +0000",
       "pecan_sapling": "2024-12-14 02:45:48 +0000",
+      "peach_sapling": "2025-04-14 06:47:40 +0000",
+      "cherry_sapling": "2025-04-14 06:47:58 +0000",
+      "apricot_sapling": "2025-04-14 06:48:00 +0000",
+      "apple_sapling": "2025-04-14 06:48:04 +0000",
       "cashew_sapling": "2024-12-20 03:10:51 +0000"
     },
     "done": false
@@ -1868,7 +1874,11 @@
   },
   "croptopia:gather_tree_forest": {
     "criteria": {
-      "avocado_sapling": "2024-12-14 19:03:04 +0000"
+      "apricot_sapling": "2025-04-14 06:48:00 +0000",
+      "lemon_sapling": "2025-04-14 06:47:56 +0000",
+      "orange_sapling": "2025-04-14 06:47:38 +0000",
+      "avocado_sapling": "2024-12-14 19:03:04 +0000",
+      "cherry_sapling": "2025-04-14 06:47:58 +0000"
     },
     "done": false
   },
@@ -3120,6 +3130,14 @@
   "inventorypets:blaze": {
     "criteria": {
       "crafting_table": "2025-04-14 05:43:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_tree_plains": {
+    "criteria": {
+      "orange_sapling": "2025-04-14 06:47:38 +0000",
+      "apple_sapling": "2025-04-14 06:48:04 +0000",
+      "peach_sapling": "2025-04-14 06:47:40 +0000"
     },
     "done": true
   },

@@ -18205,3 +18205,11 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [14Apr2025 06:42:33.432] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [14Apr2025 06:42:53.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
 [14Apr2025 06:42:54.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[14Apr2025 06:47:07.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[14Apr2025 06:47:33.427] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Apr2025 06:47:33.427] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Apr2025 06:47:36.538] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-30, y=65, z=-71}
+[14Apr2025 06:48:04.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [Distinct Shrubs]
+[14Apr2025 06:51:37.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
+[14Apr2025 06:52:33.423] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Apr2025 06:52:33.423] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
