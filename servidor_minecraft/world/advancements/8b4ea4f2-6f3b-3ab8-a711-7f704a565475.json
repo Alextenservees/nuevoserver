@@ -2337,5 +2337,11 @@
     },
     "done": true
   },
+  "idas:ruins_of_the_deep": {
+    "criteria": {
+      "in_ruins_of_the_deep": "2025-04-14 03:36:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

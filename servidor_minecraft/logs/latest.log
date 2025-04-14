@@ -17888,3 +17888,21 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [14Apr2025 03:24:39.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 moved wrongly!
 [14Apr2025 03:26:43.582] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [14Apr2025 03:26:43.582] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Apr2025 03:30:53.939] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-32, y=99, z=-36}
+[14Apr2025 03:31:43.056] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Apr2025 03:31:43.057] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Apr2025 03:35:06.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14Apr2025 03:35:55.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[14Apr2025 03:35:55.719] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=4526, y=64, z=4462}
+[14Apr2025 03:36:00.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has completed the challenge [Ruins of the Deep]
+[14Apr2025 03:36:14.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4302ms or 86 ticks behind
+[14Apr2025 03:36:35.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5585ms or 111 ticks behind
+[14Apr2025 03:36:57.047] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Apr2025 03:36:57.047] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Apr2025 03:37:37.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[14Apr2025 03:41:58.910] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Apr2025 03:41:58.910] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Apr2025 03:43:22.354] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityFairy['rick'/80987, l='ServerLevel[world]', x=4402.41, y=69.26, z=4336.95] died: rick was slain by blueplayer66
+[14Apr2025 03:43:39.839] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=42, y=66, z=-22}
+[14Apr2025 03:46:58.907] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Apr2025 03:46:58.907] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
