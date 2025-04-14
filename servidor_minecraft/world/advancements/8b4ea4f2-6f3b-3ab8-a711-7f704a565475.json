@@ -2291,6 +2291,18 @@
     },
     "done": true
   },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_flower": "2025-04-14 02:19:19 +0000"
+    },
+    "done": false
+  },
+  "legendary_monsters:defeat_frostbitten_golem": {
+    "criteria": {
+      "frostbitten_golem": "2025-04-14 02:17:55 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:temple_entry": {
     "criteria": {
       "in_better_desert_temple": "2025-04-14 02:15:17 +0000"

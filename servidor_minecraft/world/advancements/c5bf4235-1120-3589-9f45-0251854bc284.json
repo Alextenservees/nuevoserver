@@ -3098,21 +3098,22 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-14 02:15:46 +0000"
-    },
-    "done": false
-  },
   "atmospheric:adventure/dunes_pricks": {
     "criteria": {
-      "yucca_flower": "2025-04-14 02:13:12 +0000"
+      "yucca_flower": "2025-04-14 02:13:12 +0000",
+      "barrel_cactus": "2025-04-14 02:19:03 +0000"
     },
     "done": false
   },
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2025-04-14 02:03:10 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-04-14 02:17:02 +0000"
     },
     "done": true
   },

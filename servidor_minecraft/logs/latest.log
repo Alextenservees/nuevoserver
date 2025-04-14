@@ -17381,3 +17381,60 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [14Apr2025 02:17:00.935] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [14Apr2025 02:17:00.936] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [14Apr2025 02:17:02.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [A Freezing Place]
+[14Apr2025 02:17:55.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has completed the challenge [The Coldest Golem]
+[14Apr2025 02:19:37.833] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:19:37.835] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:19:37.836] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:19:37.836] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:19:37.863] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:20:13.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 moved wrongly!
+[14Apr2025 02:20:46.890] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Apr2025 02:20:46.890] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Apr2025 02:21:19.224] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:21:19.224] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:21:19.225] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:21:19.256] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:21:19.257] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:21:19.257] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:22:45.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 moved wrongly!
+[14Apr2025 02:25:46.874] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Apr2025 02:25:46.874] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Apr2025 02:26:20.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadyx28x[/127.50.223.125:56029] logged in with entity id 24935 at (5.04726928666218, 108.0, 10.911440088817457)
+[14Apr2025 02:26:20.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x joined the game
+[14Apr2025 02:26:20.520] [Server thread/INFO] [Jade/]: Syncing config to Shadyx28x (34b40136-b9b3-3c85-9dcd-a653aa99d433)
+[14Apr2025 02:27:36.238] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-28, y=99, z=10}
+[14Apr2025 02:30:11.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
+[14Apr2025 02:30:46.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Apr2025 02:30:46.980] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Apr2025 02:32:11.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 moved wrongly!
+[14Apr2025 02:32:23.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[14Apr2025 02:32:41.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3265ms or 65 ticks behind
+[14Apr2025 02:32:53.174] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:32:53.385] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:32:53.386] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:32:53.386] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:32:58.019] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:32:58.019] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:32:58.020] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:32:58.020] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:32:58.048] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:32:58.050] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:32:58.051] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:32:58.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[14Apr2025 02:33:24.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14Apr2025 02:34:06.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14Apr2025 02:35:58.841] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[14Apr2025 02:35:58.841] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[14Apr2025 02:36:13.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[14Apr2025 02:36:21.902] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:36:23.784] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:36:23.785] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:36:23.785] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:36:23.786] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:36:31.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[14Apr2025 02:36:31.776] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:36:31.776] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:36:31.777] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:36:31.777] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Apr2025 02:36:40.548] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2760, y=-25, z=2315}
+[14Apr2025 02:37:20.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has completed the challenge [Rude Awakening]
