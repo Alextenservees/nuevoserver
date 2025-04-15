@@ -172,9 +172,11 @@
       "minecraft:cherry_grove": "2024-12-28 00:41:44 +0000",
       "minecraft:birch_forest": "2024-12-13 00:56:10 +0000",
       "minecraft:windswept_hills": "2025-04-10 02:30:24 +0000",
+      "minecraft:bamboo_jungle": "2025-04-15 06:36:43 +0000",
       "minecraft:savanna_plateau": "2025-04-14 04:56:44 +0000",
       "minecraft:beach": "2024-12-14 00:52:46 +0000",
       "minecraft:dark_forest": "2024-12-13 21:36:15 +0000",
+      "minecraft:sparse_jungle": "2025-04-15 06:36:36 +0000",
       "minecraft:river": "2024-12-14 00:51:26 +0000",
       "atmospheric:atmospheric:laurel_forest": "2025-02-14 02:27:44 +0000",
       "minecraft:lukewarm_ocean": "2025-04-14 05:12:53 +0000",
@@ -182,6 +184,7 @@
       "minecraft:snowy_plains": "2025-01-04 04:37:29 +0000",
       "minecraft:snowy_taiga": "2025-04-12 07:54:31 +0000",
       "atmospheric:atmospheric:rainforest_basin": "2025-04-15 06:05:12 +0000",
+      "atmospheric:atmospheric:rainforest": "2025-04-15 06:35:21 +0000",
       "minecraft:grove": "2025-03-02 02:12:16 +0000",
       "minecraft:swamp": "2025-04-03 02:28:26 +0000",
       "minecraft:jagged_peaks": "2024-12-24 02:40:16 +0000",
@@ -193,6 +196,7 @@
       "minecraft:ice_spikes": "2025-04-15 05:24:49 +0000",
       "minecraft:frozen_ocean": "2024-12-24 02:26:59 +0000",
       "minecraft:desert": "2025-04-15 06:12:20 +0000",
+      "atmospheric:atmospheric:scrubland": "2025-04-15 06:32:43 +0000",
       "minecraft:ocean": "2024-12-13 00:22:06 +0000",
       "minecraft:jungle": "2025-04-14 05:11:32 +0000",
       "atmospheric:atmospheric:aspen_parkland": "2025-03-15 02:22:52 +0000",
@@ -2538,6 +2542,18 @@
   "inventorypets:lead": {
     "criteria": {
       "crafting_table": "2025-04-15 05:14:17 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/read_front_scroll": {
+    "criteria": {
+      "front_scroll": "2025-04-15 06:27:57 +0000"
+    },
+    "done": true
+  },
+  "sgjourney:adventure/root": {
+    "criteria": {
+      "get_golden_idol": "2025-04-15 06:40:04 +0000"
     },
     "done": true
   },
