@@ -225,6 +225,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-04-15 05:37:08 +0000",
       "silver_birch_forest": "2025-03-02 02:12:27 +0000",
       "shrubland": "2025-02-14 02:34:43 +0000",
       "cold_deciduous_forest": "2024-12-24 02:36:03 +0000",
@@ -237,6 +238,7 @@
       "ancient_delta": "2025-02-20 02:45:42 +0000",
       "willow_forest": "2025-02-27 02:55:35 +0000",
       "frozen_tundra": "2024-12-13 00:26:16 +0000",
+      "barley_fields": "2025-04-15 05:36:07 +0000",
       "grassy_beach": "2025-02-27 02:43:31 +0000",
       "blackwood_taiga": "2024-12-14 00:52:59 +0000",
       "rocky_meadow": "2024-12-27 23:24:52 +0000",
@@ -270,6 +272,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-04-15 05:37:08 +0000",
       "silver_birch_forest": "2025-03-02 02:12:27 +0000",
       "shrubland": "2025-02-14 02:34:43 +0000",
       "cold_deciduous_forest": "2024-12-24 02:36:03 +0000",
@@ -279,6 +282,7 @@
       "muddy_river": "2025-02-20 01:23:27 +0000",
       "willow_forest": "2025-02-27 02:55:35 +0000",
       "frozen_tundra": "2024-12-13 00:26:16 +0000",
+      "barley_fields": "2025-04-15 05:36:07 +0000",
       "grassy_beach": "2025-02-27 02:43:31 +0000",
       "blackwood_taiga": "2024-12-14 00:52:59 +0000",
       "rocky_meadow": "2024-12-27 23:24:52 +0000",
@@ -648,6 +652,7 @@
       "elderberry_seed": "2025-04-03 02:25:05 +0000",
       "tomato_seed": "2025-04-14 07:08:12 +0000",
       "pepper_seed": "2025-04-14 07:07:48 +0000",
+      "chile_pepper_seed": "2025-04-15 05:33:04 +0000",
       "tomatillo_seed": "2025-04-14 07:12:55 +0000",
       "rhubarb_seed": "2025-02-14 02:18:04 +0000",
       "onion_seed": "2024-12-14 02:03:52 +0000",
@@ -1889,6 +1894,7 @@
       "lettuce_seed": "2025-04-14 07:07:32 +0000",
       "sweetpotato_seed": "2025-04-10 02:24:13 +0000",
       "pepper_seed": "2025-04-14 07:07:48 +0000",
+      "chile_pepper_seed": "2025-04-15 05:33:04 +0000",
       "corn_seed": "2025-04-10 02:24:37 +0000",
       "broccoli_seed": "2025-02-14 02:16:44 +0000",
       "oat_seed": "2025-04-14 03:01:46 +0000",
@@ -2514,73 +2520,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:28:00 +0000"
+      "log_spam_fixer": "2025-04-15 05:38:19 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:28:00 +0000"
+      "log_spam_fixer": "2025-04-15 05:38:19 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:28:00 +0000"
+      "log_spam_fixer": "2025-04-15 05:38:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:28:00 +0000"
+      "log_spam_fixer": "2025-04-15 05:38:19 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:28:00 +0000"
+      "log_spam_fixer": "2025-04-15 05:38:19 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:28:00 +0000"
+      "log_spam_fixer": "2025-04-15 05:38:19 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:28:00 +0000"
+      "log_spam_fixer": "2025-04-15 05:38:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:28:00 +0000"
+      "log_spam_fixer": "2025-04-15 05:38:19 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:28:00 +0000"
+      "log_spam_fixer": "2025-04-15 05:38:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:28:00 +0000"
+      "log_spam_fixer": "2025-04-15 05:38:19 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:28:00 +0000"
+      "log_spam_fixer": "2025-04-15 05:38:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:28:00 +0000"
+      "log_spam_fixer": "2025-04-15 05:38:19 +0000"
     },
     "done": false
   },
