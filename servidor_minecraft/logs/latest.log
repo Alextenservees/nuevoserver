@@ -17301,3 +17301,29 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [15Apr2025 05:06:12.217] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/8605, l='ServerLevel[world]', x=296.50, y=57.00, z=326.50]
 [15Apr2025 05:07:02.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 moved wrongly!
 [15Apr2025 05:07:25.519] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[15Apr2025 05:07:34.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Pet Beginner]
+[15Apr2025 05:07:34.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Hot Stuff]
+[15Apr2025 05:07:54.545] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Apr2025 05:07:54.546] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Apr2025 05:07:56.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Hot Pocket'/10776, l='ServerLevel[world]', x=772.02, y=202.11, z=779.96] died: Hot Pocket was slain by blueplayer66
+[15Apr2025 05:07:59.900] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Stoked'/10798, l='ServerLevel[world]', x=771.02, y=201.00, z=779.86] died: Stoked was slain by blueplayer66
+[15Apr2025 05:08:40.198] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Sooty'/11019, l='ServerLevel[world]', x=773.98, y=201.71, z=777.01] died: Sooty was slain by blueplayer66
+[15Apr2025 05:09:09.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Scout'/11170, l='ServerLevel[world]', x=772.00, y=201.00, z=780.00] died: Scout was slain by blueplayer66
+[15Apr2025 05:09:26.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 moved too quickly! 7.134009059584514,-6.755572878031813,4.5736114670730785
+[15Apr2025 05:12:01.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
+[15Apr2025 05:12:01.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[15Apr2025 05:12:24.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.127.128.231:46367] logged in with entity id 12891 at (1096.6187996059866, 83.79203782547823, 1087.9892169821653)
+[15Apr2025 05:12:24.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[15Apr2025 05:12:24.373] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[15Apr2025 05:12:54.486] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Apr2025 05:12:54.486] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Apr2025 05:14:07.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Ungoliant'/13585, l='ServerLevel[world]', x=1141.41, y=57.15, z=1131.27] died: Ungoliant was slain by blueplayer66
+[15Apr2025 05:14:08.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Serket'/13363, l='ServerLevel[world]', x=1141.44, y=55.78, z=1129.35] died: Serket was slain by blueplayer66
+[15Apr2025 05:14:17.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Leash Your Potential]
+[15Apr2025 05:14:57.798] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Anansi'/13888, l='ServerLevel[world]', x=1142.70, y=55.47, z=1132.65] died: Anansi was slain by blueplayer66
+[15Apr2025 05:14:57.845] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Peter'/13884, l='ServerLevel[world]', x=1141.34, y=55.14, z=1132.07] died: Peter was killed trying to hurt blueplayer66
+[15Apr2025 05:15:03.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Loth'/13935, l='ServerLevel[world]', x=1142.33, y=55.43, z=1132.37] died: Loth was pummeled by blueplayer66
+[15Apr2025 05:15:06.060] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Apr2025 05:15:06.062] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Apr2025 05:15:06.062] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Apr2025 05:15:20.057] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1175, y=71, z=1131}
