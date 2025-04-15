@@ -2563,5 +2563,17 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/shaman": {
+    "criteria": {
+      "kill": "2025-04-15 06:45:42 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-04-15 06:45:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
