@@ -17281,3 +17281,15 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [15Apr2025 04:43:28.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
 [15Apr2025 04:43:29.123] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
 [15Apr2025 04:43:40.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[15Apr2025 04:47:54.489] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Apr2025 04:47:54.491] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Apr2025 04:48:10.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
+[15Apr2025 04:48:10.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[15Apr2025 04:48:17.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.127.128.231:60987] logged in with entity id 3952 at (8.8393279732803, 72.0, 76.40080130839803)
+[15Apr2025 04:48:17.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[15Apr2025 04:48:18.068] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[15Apr2025 04:52:01.610] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-25, y=76, z=34}
+[15Apr2025 04:52:24.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Umoja!]
+[15Apr2025 04:52:54.473] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15Apr2025 04:52:54.474] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15Apr2025 04:54:21.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [Umoja!]
