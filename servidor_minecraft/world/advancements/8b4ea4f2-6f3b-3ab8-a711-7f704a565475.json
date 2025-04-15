@@ -2531,5 +2531,11 @@
     },
     "done": true
   },
+  "undead_revamp2:legendaryweapon": {
+    "criteria": {
+      "legendaryweapon_0": "2025-04-15 05:59:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
