@@ -17592,3 +17592,16 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [16Apr2025 04:17:40.160] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-69, y=63, z=186}
 [16Apr2025 04:19:00.902] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [16Apr2025 04:19:00.902] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[16Apr2025 04:24:00.907] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[16Apr2025 04:24:00.907] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[16Apr2025 04:29:00.901] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[16Apr2025 04:29:00.901] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[16Apr2025 04:29:37.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueplayer66> sha me voy
+[16Apr2025 04:29:41.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> zzz
+[16Apr2025 04:29:45.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueplayer66> alratin regreso :v
+[16Apr2025 04:29:57.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ya dale que yo sigo ghaciendo lo mio
+[16Apr2025 04:30:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ando contruyendo
+[16Apr2025 04:30:02.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> xd
+[16Apr2025 04:30:24.212] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-28, y=67, z=66}
+[16Apr2025 04:32:28.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
+[16Apr2025 04:32:28.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
