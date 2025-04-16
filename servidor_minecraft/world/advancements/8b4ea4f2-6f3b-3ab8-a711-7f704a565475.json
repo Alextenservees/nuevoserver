@@ -688,6 +688,7 @@
       "lettuce_seed": "2025-04-14 07:07:32 +0000",
       "squash_seed": "2025-04-14 07:12:59 +0000",
       "spinach_seed": "2025-04-14 07:12:51 +0000",
+      "blackberry_seed": "2025-04-16 02:44:51 +0000",
       "corn_seed": "2025-04-10 02:24:37 +0000",
       "turmeric_seed": "2025-04-14 05:12:31 +0000",
       "oat_seed": "2025-04-14 03:01:46 +0000",
@@ -1043,6 +1044,7 @@
       "tomatillo_seed": "2025-04-14 07:12:55 +0000",
       "cantaloupe_seed": "2025-04-12 07:40:15 +0000",
       "spinach_seed": "2025-04-14 07:12:51 +0000",
+      "blackberry_seed": "2025-04-16 02:44:51 +0000",
       "cauliflower_seed": "2025-04-14 07:07:00 +0000",
       "tea_seed": "2025-04-03 02:14:36 +0000",
       "elderberry_seed": "2025-04-03 02:25:05 +0000",
@@ -2580,6 +2582,12 @@
   "goety:goety/kill_a_crone": {
     "criteria": {
       "kill_a_crone": "2025-04-15 07:31:57 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_workshop": {
+    "criteria": {
+      "in_tinkers_workshop": "2025-04-16 02:45:03 +0000"
     },
     "done": true
   },
