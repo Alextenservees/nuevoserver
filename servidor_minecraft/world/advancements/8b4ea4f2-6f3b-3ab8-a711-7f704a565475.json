@@ -2632,6 +2632,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_boundroid": {
+    "criteria": {
+      "killed": "2025-04-16 05:47:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-04-16 05:46:00 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-04-16 05:11:36 +0000"
@@ -2650,6 +2662,12 @@
       "in_better_spider_dungeon": "2025-04-16 05:11:32 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-04-16 05:46:00 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
