@@ -259,6 +259,7 @@
       "magnolia_highlands": "2025-02-27 02:55:15 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
       "joshua_desert": "2025-04-15 06:25:08 +0000",
+      "sparse_redwoods": "2025-04-15 07:29:33 +0000",
       "deciduous_forest": "2025-04-14 04:54:31 +0000",
       "boreal_forest": "2025-02-20 01:16:57 +0000",
       "blackstone_basin": "2025-01-11 02:11:59 +0000",
@@ -306,6 +307,7 @@
       "magnolia_highlands": "2025-02-27 02:55:15 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
       "joshua_desert": "2025-04-15 06:25:08 +0000",
+      "sparse_redwoods": "2025-04-15 07:29:33 +0000",
       "deciduous_forest": "2025-04-14 04:54:31 +0000",
       "boreal_forest": "2025-02-20 01:16:57 +0000",
       "towering_cliffs": "2025-04-10 02:35:18 +0000",
@@ -2545,6 +2547,12 @@
     },
     "done": true
   },
+  "undead_revamp2:legendaryweapon": {
+    "criteria": {
+      "legendaryweapon_0": "2025-04-15 05:59:46 +0000"
+    },
+    "done": true
+  },
   "goety:goety/read_front_scroll": {
     "criteria": {
       "front_scroll": "2025-04-15 06:27:57 +0000"
@@ -2557,9 +2565,9 @@
     },
     "done": true
   },
-  "undead_revamp2:legendaryweapon": {
+  "mowziesmobs:kill_foliaath": {
     "criteria": {
-      "legendaryweapon_0": "2025-04-15 05:59:46 +0000"
+      "foliaath": "2025-04-15 06:45:23 +0000"
     },
     "done": true
   },
@@ -2569,9 +2577,9 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_foliaath": {
+  "goety:goety/kill_a_crone": {
     "criteria": {
-      "foliaath": "2025-04-15 06:45:23 +0000"
+      "kill_a_crone": "2025-04-15 07:31:57 +0000"
     },
     "done": true
   },
