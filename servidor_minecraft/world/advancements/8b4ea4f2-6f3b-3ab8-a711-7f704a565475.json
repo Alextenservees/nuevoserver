@@ -207,6 +207,7 @@
       "minecraft:old_growth_birch_forest": "2024-12-14 02:43:35 +0000",
       "minecraft:deep_dark": "2024-12-14 21:19:58 +0000",
       "minecraft:meadow": "2025-01-04 04:37:01 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-04-16 05:37:20 +0000",
       "minecraft:savanna": "2025-04-15 05:49:35 +0000",
       "minecraft:plains": "2024-12-24 02:55:32 +0000"
     },
@@ -2622,6 +2623,12 @@
   "born_in_chaos_v1:dark_forging": {
     "criteria": {
       "dark_forging_0": "2025-04-16 03:20:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-04-16 05:44:10 +0000"
     },
     "done": true
   },
