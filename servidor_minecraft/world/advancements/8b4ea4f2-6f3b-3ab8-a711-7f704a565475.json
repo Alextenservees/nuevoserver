@@ -479,6 +479,7 @@
       "minecraft:evoker": "2025-01-11 01:58:16 +0000",
       "minecraft:slime": "2025-04-14 03:15:37 +0000",
       "quark:forgotten": "2025-04-14 03:49:35 +0000",
+      "minecraft:phantom": "2025-04-16 03:10:01 +0000",
       "minecraft:zombified_piglin": "2024-12-28 02:23:47 +0000",
       "minecraft:witch": "2024-12-20 05:10:14 +0000",
       "minecraft:wither_skeleton": "2025-01-11 01:35:45 +0000",
@@ -823,6 +824,7 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "phantom": "2025-04-16 03:10:01 +0000",
       "warden": "2024-12-14 21:08:51 +0000"
     },
     "done": false
@@ -2591,9 +2593,27 @@
     },
     "done": true
   },
+  "stellarity:adventure/kill_large_phantom": {
+    "criteria": {
+      "size_doesnt_matter": "2025-04-16 03:10:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-04-16 03:09:44 +0000"
+    },
+    "done": true
+  },
   "idas:tinkers_workshop": {
     "criteria": {
       "in_tinkers_workshop": "2025-04-16 02:45:03 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-04-16 03:10:01 +0000"
     },
     "done": true
   },
