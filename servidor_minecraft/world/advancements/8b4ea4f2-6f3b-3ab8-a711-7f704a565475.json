@@ -2585,6 +2585,12 @@
     },
     "done": true
   },
+  "inventorypets:jukebox": {
+    "criteria": {
+      "crafting_table": "2025-04-16 03:02:35 +0000"
+    },
+    "done": true
+  },
   "idas:tinkers_workshop": {
     "criteria": {
       "in_tinkers_workshop": "2025-04-16 02:45:03 +0000"
