@@ -2611,6 +2611,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2025-04-16 03:20:36 +0000"
+    },
+    "done": true
+  },
   "stellarity:adventure/night_sky_stalkers": {
     "criteria": {
       "sleep_deprivation": "2025-04-16 03:10:01 +0000"

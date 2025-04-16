@@ -17554,3 +17554,7 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [16Apr2025 03:19:00.898] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [16Apr2025 03:19:00.898] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [16Apr2025 03:20:36.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Dark Forging]
+[16Apr2025 03:24:00.904] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[16Apr2025 03:24:00.904] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[16Apr2025 03:29:00.908] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[16Apr2025 03:29:00.909] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
