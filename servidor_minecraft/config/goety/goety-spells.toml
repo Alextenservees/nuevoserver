@@ -1,35 +1,38 @@
 
 ["Servant Limits"]
-	#Number of Bound Illager Servants that an individual player can have in total, Default: 2
+	#Number of Brood Mother Servants that an individual player can have in total, Default: 2
 	#Range: > 1
-	boundIllagerLimit = 2
-	#Number of Leapleaves that an individual player can have in total, Default: 16
-	#Range: > 1
-	leapleafLimit = 16
+	broodMotherLimit = 2
 	#Total number of Redstone Monstrosities an individual player can have, Default: 1
 	#Range: > 0
 	redstoneMonstrosityPlayerLimit = 1
-	#Number of Spider Servants that an individual player can have in total, Default: 32
-	#Range: > 1
-	spiderLimit = 32
 	#Number of Black Beast Servants that an individual player can have in total, Default: 2
 	#Range: > 1
 	blackBeastLimit = 2
 	#Total number of Redstone Golems an individual player can have, Default: 2
 	#Range: > 0
 	redstoneGolemLimit = 2
-	#Total number of Redstone Monstrosities that can be summoned in total on a world, Default: 2
-	#Range: > 0
-	redstoneMonstrosityGlobalLimit = 2
-	#Total number of Grave Golems an individual player can have, Default: 2
-	#Range: > 0
-	graveGolemLimit = 2
 	#Number of Wildfire Servants that an individual player can have in total, Default: 2
 	#Range: > 1
 	wildfireLimit = 2
 	#Number of Necromancer Servants that an individual player can have in total, Default: 8
 	#Range: > 1
 	necromancerLimit = 8
+	#Number of Bound Illager Servants that an individual player can have in total, Default: 2
+	#Range: > 1
+	boundIllagerLimit = 2
+	#Number of Wither Necromancer Servants that an individual player can have in total, Default: 2
+	#Range: > 1
+	witherNecromancerLimit = 2
+	#Number of Spider Servants that an individual player can have in total, Default: 32
+	#Range: > 1
+	spiderLimit = 32
+	#Total number of Redstone Monstrosities that can be summoned in total on a world, Default: 2
+	#Range: > 0
+	redstoneMonstrosityGlobalLimit = 2
+	#Total number of Grave Golems an individual player can have, Default: 2
+	#Range: > 0
+	graveGolemLimit = 2
 	#Number of Drowned Necromancer Servants that an individual player can have in total, Default: 2
 	#Range: > 1
 	drownedNecromancerLimit = 2
@@ -40,6 +43,9 @@
 		#Killing Spell Cost, Default: 444
 		#Range: > 0
 		killingCost = 444
+		#How much damage percentage multiplier of the target's health is applied back to caster, Default: 1.25
+		#Range: 0.0 ~ 1.7976931348623157E308
+		killingFeedback = 1.25
 		#Killing Spell Cooldown, Default: 200
 		#Range: > 0
 		killingCoolDown = 200
@@ -118,7 +124,7 @@
 		#How many ticks the Feasting Spell much charge before casting, Default: 0
 		#Range: > 0
 		feastChargeUp = 0
-		#Feasting Spell Cost, Default: 8
+		#Feasting Spell Cost, Default: 16
 		#Range: > 0
 		feastCost = 8
 		#Time to cast Feasting Spell per second, Default: 20
@@ -285,6 +291,23 @@
 		#Range: 1.0 ~ 1.7976931348623157E308
 		prismaBeamDamage = 6.0
 
+	[Spells."Guardian Spell"]
+		#Time to cast Guardian Spell, Default: 20
+		#Range: 0 ~ 72000
+		guardianTime = 20
+		#Number of Guardian Servants that can exist around the player, Default: 8
+		#Range: > 1
+		guardianLimit = 8
+		#Guardian Spell Cost, Default: 16
+		#Range: > 0
+		guardianCost = 16
+		#Guardian Spell Cooldown, Default: 600
+		#Range: > 0
+		guardianCoolDown = 600
+		#Guardian Spell Summon Down, Default: 150
+		#Range: 0 ~ 72000
+		guardianSummonDown = 150
+
 	[Spells."Fireball Spell"]
 		#Enable Fireball projectile griefing, Default: true
 		fireballGriefing = true
@@ -363,6 +386,23 @@
 		#Time to cast Blink Spell, Default: 0
 		#Range: 0 ~ 72000
 		blinkDuration = 0
+
+	[Spells."Meteor Shower Spell"]
+		#Meteor Shower Spell Cost, Default: 64
+		#Range: > 0
+		meteorShowerCost = 64
+		#How many ticks the Meteor Shower Spell much charge before casting, Default: 60
+		#Range: > 0
+		meteorShowerChargeUp = 60
+		#Time to cast Meteor Shower Spell per second, Default: 10
+		#Range: 0 ~ 72000
+		meteorShowerTime = 10
+		#Meteor Shower Spell Cooldown, Default: 400
+		#Range: 0 ~ 72000
+		meteorShowerCoolDown = 400
+		#How many shots are allowed to be fired before spell ends, set 0 to allow spell to be cast indefinitely, Default: 20
+		#Range: 0 ~ 72000
+		meteorShowerShots = 20
 
 	[Spells."Quaking Spell"]
 		#Time to cast Quaking Spell, Default: 20
@@ -548,6 +588,23 @@
 		#Range: 0 ~ 72000
 		ghostFireTime = 40
 
+	[Spells."Leaping Spell"]
+		#Leaping Spell Cost, Default: 32
+		#Range: > 0
+		leapingCost = 32
+		#Leaping Spell Summon Down, Default: 300
+		#Range: 300 ~ 72000
+		leapingSummonDown = 300
+		#Number of Leapleaves that an individual player can have in total, Default: 2
+		#Range: > 1
+		leapleafLimit = 2
+		#Leaping Spell Cooldown, Default: 1200
+		#Range: > 0
+		leapingCoolDown = 1200
+		#Time to cast Leaping Spell, Default: 100
+		#Range: 0 ~ 72000
+		leapingTime = 100
+
 	[Spells."Trident Storm Spell"]
 		#Trident Storm Spell Cooldown, Default: 200
 		#Range: > 0
@@ -558,6 +615,23 @@
 		#Trident Storm Spell Cost, Default: 48
 		#Range: > 0
 		tridentStormCost = 48
+
+	[Spells."Reaping Spell"]
+		#Reaping Spell Summon Down, Default: 300
+		#Range: 0 ~ 72000
+		reaperSummonDown = 300
+		#Time to cast Reaping Spell, Default: 60
+		#Range: 0 ~ 72000
+		reaperTime = 60
+		#Reaping Spell Cost, Default: 24
+		#Range: > 0
+		reaperCost = 24
+		#Number of Reaper Servants that a player can have, Default: 8
+		#Range: > 1
+		reaperLimit = 8
+		#Reaping Spell Cooldown, Default: 100
+		#Range: > 0
+		reaperCoolDown = 100
 
 	[Spells."Glow Light Spell"]
 		#Time to cast Glow Light Spell, Default: 0
@@ -1402,6 +1476,23 @@
 		#Iron Hide Spell Cost, Default: 24
 		#Range: > 0
 		ironHideCost = 24
+
+	[Spells."Bombardment Spell"]
+		#Bombardment Spell Cooldown, Default: 100
+		#Range: 0 ~ 72000
+		bombardmentCoolDown = 100
+		#How many ticks the Bombardment Spell much charge before casting, Default: 60
+		#Range: > 0
+		bombardmentChargeUp = 60
+		#Bombardment Spell Cost, Default: 8
+		#Range: > 0
+		bombardmentCost = 8
+		#Time to cast Bombardment Spell per second, Default: 6
+		#Range: 0 ~ 72000
+		bombardmentTime = 6
+		#How many shots are allowed to be fired before spell ends, set 0 to allow spell to be cast indefinitely, Default: 6
+		#Range: 0 ~ 72000
+		bombardmentShots = 6
 
 	[Spells."Tidal Spell"]
 		#Tidal Spell Cost, Default: 24

@@ -119,6 +119,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-20 03:29:56 +0000",
       "minecraft:taiga": "2024-10-31 17:23:46 +0000",
       "minecraft:deep_ocean": "2024-12-02 07:02:00 +0000",
+      "minecraft:eroded_badlands": "2025-05-01 07:08:23 +0000",
       "minecraft:frozen_river": "2024-10-29 15:50:09 +0000",
       "minecraft:cherry_grove": "2024-11-01 06:34:18 +0000",
       "minecraft:sunflower_plains": "2024-12-24 02:55:28 +0000",
@@ -129,6 +130,7 @@
       "minecraft:savanna_plateau": "2025-02-12 06:01:22 +0000",
       "minecraft:beach": "2024-10-29 05:27:34 +0000",
       "minecraft:dark_forest": "2024-12-03 02:54:32 +0000",
+      "minecraft:stony_peaks": "2025-05-01 06:19:03 +0000",
       "minecraft:sparse_jungle": "2024-11-09 04:17:43 +0000",
       "minecraft:river": "2024-10-27 06:00:20 +0000",
       "minecraft:lukewarm_ocean": "2024-11-09 04:21:54 +0000",
@@ -137,6 +139,8 @@
       "minecraft:snowy_plains": "2024-11-01 00:37:45 +0000",
       "minecraft:snowy_taiga": "2024-11-01 07:03:18 +0000",
       "minecraft:dripstone_caves": "2024-11-26 07:19:44 +0000",
+      "atmospheric:atmospheric:rainforest_basin": "2025-05-01 05:41:00 +0000",
+      "atmospheric:atmospheric:rainforest": "2025-05-01 06:11:57 +0000",
       "minecraft:swamp": "2024-10-27 07:20:22 +0000",
       "minecraft:grove": "2024-10-29 16:04:18 +0000",
       "minecraft:jagged_peaks": "2024-12-24 02:40:40 +0000",
@@ -148,8 +152,10 @@
       "minecraft:ice_spikes": "2024-11-01 00:39:16 +0000",
       "minecraft:frozen_ocean": "2024-10-29 15:56:55 +0000",
       "minecraft:desert": "2024-11-10 01:54:03 +0000",
+      "atmospheric:atmospheric:scrubland": "2025-05-01 07:05:57 +0000",
       "minecraft:deep_frozen_ocean": "2024-10-29 15:57:48 +0000",
       "minecraft:ocean": "2024-11-09 04:19:18 +0000",
+      "minecraft:jungle": "2025-05-01 06:19:28 +0000",
       "atmospheric:atmospheric:aspen_parkland": "2025-02-19 02:41:10 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-10-27 07:20:08 +0000",
       "minecraft:snowy_beach": "2024-10-31 16:10:05 +0000",
@@ -157,6 +163,7 @@
       "minecraft:deep_lukewarm_ocean": "2024-11-09 04:22:08 +0000",
       "minecraft:frozen_peaks": "2024-10-29 16:07:59 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-09 04:16:25 +0000",
+      "atmospheric:atmospheric:dunes": "2025-05-01 07:04:14 +0000",
       "minecraft:deep_dark": "2024-11-10 04:37:10 +0000",
       "minecraft:meadow": "2024-11-10 23:28:03 +0000",
       "minecraft:savanna": "2024-12-19 06:05:15 +0000",
@@ -178,11 +185,14 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-05-01 06:23:40 +0000",
       "silver_birch_forest": "2024-11-01 00:26:51 +0000",
       "shrubland": "2024-10-27 06:01:04 +0000",
       "cold_deciduous_forest": "2024-12-24 02:36:05 +0000",
+      "dry_bushland": "2025-05-01 06:52:36 +0000",
       "redstone_abyss": "2024-10-31 23:08:15 +0000",
       "fen": "2024-11-01 00:11:33 +0000",
+      "steppe": "2025-05-01 07:10:11 +0000",
       "pine_taiga": "2024-10-27 07:06:51 +0000",
       "sparse_rainforest": "2024-11-10 03:06:35 +0000",
       "bayou": "2025-04-10 02:52:43 +0000",
@@ -216,6 +226,7 @@
       "glistering_meadow": "2024-10-31 22:14:07 +0000",
       "blackstone_basin": "2024-10-27 06:26:34 +0000",
       "towering_cliffs": "2024-11-10 23:59:34 +0000",
+      "chalk_cliffs": "2025-05-01 05:57:49 +0000",
       "infernal_holt": "2024-10-31 22:15:19 +0000",
       "bamboo_forest": "2024-11-11 21:41:34 +0000",
       "cold_boreal_taiga": "2024-10-29 15:47:48 +0000",
@@ -223,7 +234,10 @@
       "temperate_grove": "2024-10-27 07:32:06 +0000",
       "cold_river": "2024-10-27 06:10:57 +0000",
       "pine_slopes": "2024-11-10 22:58:47 +0000",
+      "baobab_savanna": "2025-05-01 07:03:23 +0000",
       "spires": "2024-10-29 15:49:27 +0000",
+      "prairie": "2025-05-01 06:22:44 +0000",
+      "grassland": "2025-05-01 07:52:39 +0000",
       "gravel_beach": "2024-10-27 23:49:36 +0000",
       "redwoods": "2024-11-09 04:16:52 +0000",
       "golden_boreal_taiga": "2024-10-27 07:06:53 +0000",
@@ -238,10 +252,13 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-05-01 06:23:40 +0000",
       "silver_birch_forest": "2024-11-01 00:26:51 +0000",
       "shrubland": "2024-10-27 06:01:04 +0000",
       "cold_deciduous_forest": "2024-12-24 02:36:05 +0000",
+      "dry_bushland": "2025-05-01 06:52:36 +0000",
       "fen": "2024-11-01 00:11:33 +0000",
+      "steppe": "2025-05-01 07:10:11 +0000",
       "pine_taiga": "2024-10-27 07:06:51 +0000",
       "sparse_rainforest": "2024-11-10 03:06:35 +0000",
       "bayou": "2025-04-10 02:52:43 +0000",
@@ -268,13 +285,17 @@
       "deciduous_forest": "2024-11-10 23:30:07 +0000",
       "boreal_forest": "2024-10-27 07:06:34 +0000",
       "towering_cliffs": "2024-11-10 23:59:34 +0000",
+      "chalk_cliffs": "2025-05-01 05:57:49 +0000",
       "bamboo_forest": "2024-11-11 21:41:34 +0000",
       "cold_boreal_taiga": "2024-10-29 15:47:48 +0000",
       "saguaro_desert": "2024-11-10 22:20:47 +0000",
       "temperate_grove": "2024-10-27 07:32:06 +0000",
       "cold_river": "2024-10-27 06:10:57 +0000",
       "pine_slopes": "2024-11-10 22:58:47 +0000",
+      "baobab_savanna": "2025-05-01 07:03:23 +0000",
       "spires": "2024-10-29 15:49:27 +0000",
+      "prairie": "2025-05-01 06:22:44 +0000",
+      "grassland": "2025-05-01 07:52:39 +0000",
       "gravel_beach": "2024-10-27 23:49:36 +0000",
       "redwoods": "2024-11-09 04:16:52 +0000",
       "golden_boreal_taiga": "2024-10-27 07:06:53 +0000",
@@ -301,6 +322,7 @@
       "atmospheric:passion_fruit_tart": "2025-04-14 06:17:29 +0000",
       "apple": "2024-10-29 05:39:08 +0000",
       "spider_eye": "2024-11-16 23:46:48 +0000",
+      "potato": "2025-04-21 01:51:44 +0000",
       "cooked_cod": "2024-10-31 17:23:21 +0000",
       "pumpkin_pie": "2024-10-31 16:58:55 +0000",
       "bread": "2024-10-27 06:02:53 +0000",
@@ -461,6 +483,7 @@
       "minecraft:spider": "2024-10-27 22:48:58 +0000",
       "minecraft:piglin_brute": "2024-10-31 22:47:52 +0000",
       "minecraft:creeper": "2024-10-27 06:35:02 +0000",
+      "minecraft:wither": "2025-04-29 07:23:50 +0000",
       "minecraft:slime": "2024-11-24 00:03:19 +0000",
       "minecraft:evoker": "2024-12-14 01:36:31 +0000",
       "minecraft:phantom": "2024-10-31 23:59:21 +0000",
@@ -469,12 +492,14 @@
       "minecraft:wither_skeleton": "2024-10-31 22:14:28 +0000",
       "minecraft:husk": "2024-10-27 07:07:54 +0000",
       "minecraft:cave_spider": "2024-10-27 07:00:54 +0000",
+      "quark:wraith": "2025-04-21 02:53:43 +0000",
       "minecraft:piglin": "2024-10-31 22:44:21 +0000",
       "minecraft:stray": "2024-10-27 22:49:13 +0000",
       "minecraft:silverfish": "2024-11-06 03:41:57 +0000",
       "minecraft:enderman": "2024-11-10 01:26:10 +0000",
       "minecraft:vex": "2024-12-14 01:36:41 +0000",
       "minecraft:zombie": "2024-10-27 07:18:25 +0000",
+      "quark:foxhound": "2025-04-29 05:06:31 +0000",
       "minecraft:drowned": "2024-10-27 22:37:02 +0000",
       "minecraft:zombie_villager": "2024-11-06 03:59:51 +0000"
     },
@@ -553,16 +578,22 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "alpha_log": "2024-12-03 03:16:43 +0000",
+      "joshua_log": "2025-05-01 06:52:47 +0000",
       "magnolia_log": "2024-10-27 22:04:17 +0000",
       "willow_log": "2025-02-11 00:05:38 +0000",
       "larch_log": "2024-10-27 07:11:25 +0000",
+      "baobab_log": "2025-05-01 07:03:43 +0000",
       "ashen_log": "2024-11-15 00:17:38 +0000",
       "pine_log": "2024-11-06 02:07:59 +0000",
       "silver_birch_log": "2024-10-27 22:02:44 +0000",
       "small_oak_log": "2025-02-11 00:18:44 +0000",
       "cypress_log": "2024-11-09 03:59:41 +0000",
+      "cobalt_log": "2025-04-21 03:16:38 +0000",
+      "redwood_log": "2025-05-01 06:15:59 +0000",
+      "blackwood_log": "2025-05-01 03:12:01 +0000",
       "maple_log": "2024-10-27 07:35:52 +0000",
-      "socotra_log": "2024-12-27 21:58:45 +0000"
+      "socotra_log": "2024-12-27 21:58:45 +0000",
+      "bamboo_log": "2025-05-01 06:20:41 +0000"
     },
     "done": false
   },
@@ -1472,7 +1503,8 @@
     "criteria": {
       "sugar_water_floor": "2024-11-15 00:49:29 +0000",
       "hive_pillar": "2024-11-15 00:50:25 +0000",
-      "hive_wall": "2024-11-15 00:50:46 +0000"
+      "hive_wall": "2024-11-15 00:50:46 +0000",
+      "bumbling_beepartments": "2025-05-07 18:36:38 +0000"
     },
     "done": false
   },
@@ -1746,12 +1778,14 @@
   },
   "croptopia:gather_jungle": {
     "criteria": {
+      "basil_seed": "2025-05-01 06:19:53 +0000",
       "rhubarb_seed": "2025-02-14 02:17:31 +0000",
       "vanilla_seeds": "2025-02-14 02:16:06 +0000",
       "pineapple_seed": "2025-02-14 02:20:06 +0000",
       "rice_seed": "2025-04-15 06:45:41 +0000",
       "honeydew_seed": "2025-02-14 02:20:10 +0000",
-      "onion_seed": "2024-12-14 02:25:28 +0000"
+      "onion_seed": "2024-12-14 02:25:28 +0000",
+      "eggplant_seed": "2025-05-01 06:19:58 +0000"
     },
     "done": false
   },
@@ -1767,6 +1801,7 @@
       "elderberry_seed": "2025-04-03 02:16:21 +0000",
       "tomato_seed": "2025-02-14 02:15:13 +0000",
       "pepper_seed": "2025-02-12 05:57:28 +0000",
+      "basil_seed": "2025-05-01 06:19:53 +0000",
       "tomatillo_seed": "2025-04-03 02:14:29 +0000",
       "rhubarb_seed": "2025-02-14 02:17:31 +0000",
       "onion_seed": "2024-12-14 02:25:28 +0000",
@@ -1782,6 +1817,7 @@
       "broccoli_seed": "2025-03-08 22:21:53 +0000",
       "cranberry_seed": "2025-02-14 02:19:43 +0000",
       "barley_seed": "2025-04-03 01:48:08 +0000",
+      "eggplant_seed": "2025-05-01 06:19:58 +0000",
       "raspberry_seed": "2025-04-03 02:17:29 +0000",
       "lettuce_seed": "2025-02-12 05:56:37 +0000",
       "squash_seed": "2025-04-03 01:48:02 +0000",
@@ -1809,6 +1845,7 @@
   "croptopia:gather_food": {
     "criteria": {
       "cooked_shrimp": "2025-03-10 22:49:26 +0000",
+      "anchovy": "2025-05-01 05:30:47 +0000",
       "clam": "2025-03-10 22:48:42 +0000",
       "pecan_pie": "2024-12-14 02:40:34 +0000",
       "cooked_tuna": "2025-02-13 02:04:56 +0000",
@@ -2258,13 +2295,17 @@
   },
   "nova_structures:nether/find_piglins": {
     "criteria": {
-      "nova_structures:piglin_camp": "2025-01-11 01:46:18 +0000"
+      "nova_structures:piglin_camp": "2025-01-11 01:46:18 +0000",
+      "nova_structures:hamlet": "2025-04-29 05:52:17 +0000"
     },
     "done": false
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2025-04-29 05:18:41 +0000",
       "incendium:quartz_flats": "2025-01-11 01:47:29 +0000",
+      "incendium:volcanic_deltas": "2025-04-29 06:53:34 +0000",
+      "incendium:toxic_heap": "2025-04-21 02:51:25 +0000",
       "incendium:withered_forest": "2025-02-10 05:27:56 +0000"
     },
     "done": false
@@ -2552,12 +2593,6 @@
     },
     "done": true
   },
-  "endofherobrine:story/root": {
-    "criteria": {
-      "requirement": "2025-02-10 03:21:51 +0000"
-    },
-    "done": true
-  },
   "stellarity:cursed_tome/spellbooks/updraft": {
     "criteria": {
       "requirement": "2025-02-10 03:54:11 +0000"
@@ -2588,15 +2623,6 @@
     },
     "done": true
   },
-  "endofherobrine:story/exorcist": {
-    "criteria": {
-      "endofherobrine:villager": "2025-03-11 05:46:10 +0000",
-      "endofherobrine:zombie_villager": "2025-03-12 05:44:42 +0000",
-      "endofherobrine:sheep": "2025-02-10 06:47:08 +0000",
-      "endofherobrine:cow": "2025-03-11 05:57:07 +0000"
-    },
-    "done": false
-  },
   "goety:goety/get_withered_manuscript": {
     "criteria": {
       "withered_manuscript": "2025-02-10 06:54:51 +0000"
@@ -2605,6 +2631,8 @@
   },
   "quark:get_all_blossom_saplings": {
     "criteria": {
+      "red": "2025-04-30 03:52:59 +0000",
+      "orange": "2025-05-01 07:02:18 +0000",
       "yellow": "2025-02-11 00:24:41 +0000"
     },
     "done": false
@@ -2823,7 +2851,9 @@
   },
   "quark:get_all_corundum": {
     "criteria": {
-      "red": "2025-02-20 01:27:45 +0000"
+      "red": "2025-02-20 01:27:45 +0000",
+      "orange": "2025-04-18 05:34:08 +0000",
+      "black": "2025-04-18 05:33:49 +0000"
     },
     "done": false
   },
@@ -3237,6 +3267,330 @@
       "crafting_table": "2025-04-15 04:54:21 +0000"
     },
     "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-04-18 05:32:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-04-21 00:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-04-21 01:29:24 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-04-21 02:51:25 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:root": {
+    "criteria": {
+      "awesomedungeonnether:nth_blaze_tower": "2025-04-29 05:06:53 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:nth_blaze_tower/find_normal": {
+    "criteria": {
+      "requirement": "2025-04-29 05:06:53 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:nth_accum_quad/find_normal": {
+    "criteria": {
+      "requirement": "2025-04-29 05:14:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-04-29 05:18:41 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-04-29 05:19:43 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-04-29 05:23:56 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2025-04-29 05:39:36 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_hamlet": {
+    "criteria": {
+      "nova_structures:hamlet": "2025-04-29 05:52:17 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-04-29 05:56:29 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-04-29 05:56:29 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-04-29 05:59:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-04-29 06:06:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-04-29 06:06:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-04-29 06:07:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-04-29 06:22:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-04-29 06:53:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-04-29 06:54:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/border_of_life": {
+    "criteria": {
+      "requirement": "2025-04-29 06:56:02 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:lead": {
+    "criteria": {
+      "crafting_table": "2025-04-30 03:13:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:medium": "2025-04-30 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-04-30 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "interact": "2025-04-30 03:48:45 +0000"
+    },
+    "done": true
+  },
+  "idas:redhorn_guild": {
+    "criteria": {
+      "in_redhorn_guild": "2025-04-30 03:52:45 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-05-01 04:39:17 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_the_column_temple/find_normal": {
+    "criteria": {
+      "requirement": "2025-05-01 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_the_column_temple/find_during_rain": {
+    "criteria": {
+      "requirement": "2025-05-01 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2025-05-01 07:10:11 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:mooshroom": {
+    "criteria": {
+      "crafting_table": "2025-05-01 07:26:23 +0000"
+    },
+    "done": true
+  },
+  "terramity:stone_mask_advancement": {
+    "criteria": {
+      "stone_mask_advancement_0": "2025-05-01 07:45:43 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-01 07:51:03 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-01 07:51:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-05-01 07:56:05 +0000"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2025-05-01 07:57:28 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-05-02 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_temple_quad/find_normal": {
+    "criteria": {
+      "requirement": "2025-05-02 06:12:38 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_temple_quad/find_during_storm": {
+    "criteria": {
+      "requirement": "2025-05-02 06:12:38 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_temple_quad/find_during_rain": {
+    "criteria": {
+      "requirement": "2025-05-02 06:12:38 +0000"
+    },
+    "done": true
+  },
+  "theabyss:unlockthebook": {
+    "criteria": {
+      "unlockthebook": "2025-05-07 18:36:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 18:36:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 18:36:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 18:36:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 18:36:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 18:36:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 18:36:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 18:36:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 18:36:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 18:36:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 18:36:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 18:36:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 18:36:59 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
