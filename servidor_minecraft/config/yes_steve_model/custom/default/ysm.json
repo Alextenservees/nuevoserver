@@ -93,8 +93,7 @@
         "carryon": "animations/carryon.animation.json",
         "parcool": "animations/parcool.animation.json",
         "swem": "animations/swem.animation.json",
-        "slashblade": "animations/slashblade.animation.json",
-        "tlm": "animations/tlm.animation.json"
+        "slashblade": "animations/slashblade.animation.json"
       },
       "animation_controllers": [],
       "texture": [

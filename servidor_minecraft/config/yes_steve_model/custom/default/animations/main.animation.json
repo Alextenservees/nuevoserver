@@ -6835,6 +6835,9 @@
 				"SheathLocator": {
 					"scale": 0
 				},
+				"LeftWaistLocator": {
+					"scale": 0
+				},
 				"BladeLocator": {
 					"scale": 0
 				}

@@ -1,5 +1,0 @@
-
-[basicstuff]
-	#Any entity with more than x max hp will be uncrucifixable by default, add crucifix:ignoremaxhp to make an entity ignore this threshold
-	"Max Health Threshold" = 100.0
-
