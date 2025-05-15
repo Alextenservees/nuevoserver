@@ -29841,3 +29841,8 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [15May2025 07:34:40.829] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [15May2025 07:34:44.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/47883, l='ServerLevel[Nuevo mundo]', x=18.50, y=72.50, z=-137.50] died, message: 'Fisherman was slain by Warden'
 [15May2025 07:35:09.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[15May2025 07:39:40.843] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15May2025 07:39:40.844] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15May2025 07:44:40.878] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15May2025 07:44:40.878] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15May2025 07:45:58.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Down to the Core]
