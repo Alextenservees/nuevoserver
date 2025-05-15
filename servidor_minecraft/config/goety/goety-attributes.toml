@@ -111,6 +111,17 @@
 
 	[Attributes.General]
 
+		[Attributes.General.Reaper]
+			#How much damage Reapers deals, Default: 8.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			reaperDamage = 8.0
+			#How much Max Health Reapers have, Default: 24.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			reaperHealth = 24.0
+			#How much natural Armor Reapers have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			reaperArmor = 0.0
+
 		[Attributes.General."Drowned Necromancer"]
 			#How much natural Armor Drowned Necromancers have, Default: 0.0
 			#Range: 0.0 ~ 1.7976931348623157E308
@@ -126,6 +137,9 @@
 			drownedNecromancerHealth = 220.0
 
 		[Attributes.General."Haunted Armor"]
+			#How much damage Haunted Armor deals, Default: 3.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			hauntedArmorDamage = 3.0
 			#How much Max Health Haunted Armor have, Default: 25.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			hauntedArmorHealth = 25.0
@@ -311,6 +325,17 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			whispererDamage = 2.5
 
+		[Attributes."Summoned Mobs"."Twilight Goat"]
+			#How much natural Armor Twilight Goats have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			twilightGoatArmor = 0.0
+			#How much damage Twilight Goats melee attack deals, Default: 2.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			twilightGoatDamage = 2.0
+			#How much Max Health Twilight Goats have, Default: 10.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			twilightGoatHealth = 10.0
+
 		[Attributes."Summoned Mobs".Wildfire]
 			#How much melee damage Wildfires deals, Default: 6.0
 			#Range: 1.0 ~ 1.7976931348623157E308
@@ -480,6 +505,17 @@
 			#Range: 0.0 ~ 1.7976931348623157E308
 			zombieVindicatorArmor = 2.0
 
+		[Attributes."Summoned Mobs"."Tamed Ravager"]
+			#How much damage Tamed Ravagers deals, Default: 12.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			ravagerDamage = 12.0
+			#How much natural Armor Tamed Ravagers have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			ravagerArmor = 0.0
+			#How much Max Health Tamed Ravagers have when saddled, Default: 100.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			ravagerSaddleHealth = 100.0
+
 		[Attributes."Summoned Mobs"."Wither Skeleton Servant"]
 			#How much extra damage Wither Skeleton Servants range attack deals, Default: 0.0
 			#Range: 0.0 ~ 1.7976931348623157E308
@@ -531,12 +567,12 @@
 			#How much damage Poison-Quill Vines' quills deals, Default: 2.5
 			#Range: 1.0 ~ 1.7976931348623157E308
 			poisonQuillVineDamage = 2.5
-			#How much natural Armor Poison-Quill Vines have, Default: 0.0
-			#Range: 0.0 ~ 1.7976931348623157E308
-			quickGrowingVineArmor = 0.0
 			#How much Max Health Poison-Quill Vines have, Default: 40.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			poisonQuillVineHealth = 40.0
+			#How much natural Armor Poison-Quill Vines have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			poisonQuillVineArmor = 0.0
 
 		[Attributes."Summoned Mobs"."Skeleton Wolf"]
 			#How much Max Health Skeleton Wolves have, Default: 10.0
@@ -592,6 +628,17 @@
 			#How much ranged damage Blaze Servants deals, Default: 5.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			blazeServantRangeDamage = 5.0
+
+		[Attributes."Summoned Mobs"."Brood Mother"]
+			#How much damage Brood Mothers melee attack deals, Default: 6.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			broodMotherDamage = 6.0
+			#How much Max Health Brood Mothers have, Default: 96.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			broodMotherHealth = 96.0
+			#How much natural Armor Brood Mothers have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			broodMotherArmor = 0.0
 
 		[Attributes."Summoned Mobs"."Ice Golem"]
 			#How much Max Health Ice Golems have, Default: 60.0
@@ -832,9 +879,9 @@
 			#How much natural Armor Crushers have, Default: 0.0
 			#Range: 0.0 ~ 1.7976931348623157E308
 			crusherArmor = 0.0
-			#How much damage Crushers deals, Default: 10.0
+			#How much damage Crushers deals, Default: 12.0
 			#Range: 1.0 ~ 1.7976931348623157E308
-			crusherDamage = 10.0
+			crusherDamage = 12.0
 
 		[Attributes.Illagers.Cryologer]
 			#How much damage Cryologers deals, Default: 5.0

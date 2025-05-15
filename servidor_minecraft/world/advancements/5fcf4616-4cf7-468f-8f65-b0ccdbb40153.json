@@ -1,25 +1,7 @@
 {
-  "infinity_cave:technical/armor/leggings": {
-    "criteria": {
-      "empty": "2024-10-26 19:40:33 -0500"
-    },
-    "done": true
-  },
   "create:root": {
     "criteria": {
       "0": "2024-10-26 19:40:33 -0500"
-    },
-    "done": true
-  },
-  "infinity_cave:technical/armor/boots": {
-    "criteria": {
-      "empty": "2024-10-26 19:40:33 -0500"
-    },
-    "done": true
-  },
-  "infinity_cave:mechanics/altar/tick": {
-    "criteria": {
-      "requirement": "2024-10-26 19:40:33 -0500"
     },
     "done": true
   },
@@ -29,45 +11,9 @@
     },
     "done": true
   },
-  "infinity_cave:load": {
-    "criteria": {
-      "requirement": "2024-10-26 19:40:33 -0500"
-    },
-    "done": true
-  },
-  "infinity_cave:mechanics/weapons/torpedo_harpoon/tick": {
-    "criteria": {
-      "requirement": "2024-10-26 19:40:33 -0500"
-    },
-    "done": true
-  },
-  "infinity_cave:technical/armor/chestplate": {
-    "criteria": {
-      "empty": "2024-10-26 19:40:33 -0500"
-    },
-    "done": true
-  },
-  "infinity_cave:mechanics/weapons/sonic_bow/tick": {
-    "criteria": {
-      "requirement": "2024-10-26 19:40:33 -0500"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2024-10-26 19:40:33 -0500"
-    },
-    "done": true
-  },
   "the_bumblezone:root": {
     "criteria": {
       "instant_granted": "2024-10-26 19:40:33 -0500"
-    },
-    "done": true
-  },
-  "infinity_cave:technical/armor/helmet": {
-    "criteria": {
-      "empty": "2024-10-26 19:40:33 -0500"
     },
     "done": true
   },
@@ -639,27 +585,9 @@
     },
     "done": true
   },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-02-09 15:18:59 -0500"
-    },
-    "done": true
-  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-02-09 15:18:59 -0500"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-02-09 15:18:59 -0500"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-02-09 15:18:59 -0500"
     },
     "done": true
   },
@@ -693,12 +621,6 @@
     },
     "done": false
   },
-  "endofherobrine:story/root": {
-    "criteria": {
-      "requirement": "2025-02-09 15:24:26 -0500"
-    },
-    "done": true
-  },
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2025-02-09 15:26:26 -0500"
@@ -726,18 +648,6 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-02-09 16:14:53 -0500"
-    },
-    "done": true
-  },
-  "infinity_cave:display/root": {
-    "criteria": {
-      "location": "2025-02-09 16:15:33 -0500"
-    },
-    "done": true
-  },
-  "infinity_cave:technical/hit_match/entity_hurt_player": {
-    "criteria": {
-      "requirement": "2025-02-09 17:08:48 -0500"
     },
     "done": true
   },
@@ -1137,13 +1047,6 @@
     },
     "done": true
   },
-  "endofherobrine:story/exorcist": {
-    "criteria": {
-      "endofherobrine:zombie_villager": "2025-03-13 20:02:07 -0500",
-      "endofherobrine:zombie": "2025-03-13 15:23:03 -0500"
-    },
-    "done": false
-  },
   "grimoireofgaia:main/minotaur": {
     "criteria": {
       "kill": "2025-03-13 15:23:14 -0500"
@@ -1168,6 +1071,36 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-13 19:44:15 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-03-13 19:50:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-03-13 20:10:45 -0500"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-03-13 20:11:22 -0500"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2025-03-13 20:17:08 -0500"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-03-13 20:28:45 -0500"
@@ -1188,9 +1121,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
+      "requirement": "2025-05-07 00:15:40 -0500",
       "log_spam_fixer": "2025-03-13 20:28:45 -0500"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
@@ -1240,35 +1174,72 @@
     },
     "done": false
   },
-  "immersive_armors:recipes/misc/prismarine": {
+  "stellarity:story/drop_rare_illager_loot": {
     "criteria": {
-      "has_item": "2025-03-13 19:50:46 -0500"
+      "drop5": "2025-05-07 00:13:41 -0500",
+      "drop4": "2025-05-07 00:13:41 -0500"
     },
     "done": true
   },
-  "grimoireofgaia:main/minotaurus": {
+  "stellarity:cursed_tome/spellbooks/conveyance": {
     "criteria": {
-      "kill": "2025-03-13 20:17:08 -0500"
+      "requirement": "2025-05-07 00:13:41 -0500"
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "stellarity:cursed_tome/root": {
     "criteria": {
-      "enchanted_item": "2025-03-13 19:44:15 -0500"
+      "requirement": "2025-05-07 00:13:41 -0500"
     },
     "done": true
   },
-  "incendium:quartz_flats/root": {
+  "stellarity:cursed_tome/spellbooks/updraft": {
     "criteria": {
-      "requirement": "2025-03-13 20:11:22 -0500"
+      "requirement": "2025-05-07 00:13:41 -0500"
     },
     "done": true
   },
-  "minecraft:husbandry/obtain_netherite_hoe": {
+  "stellarity:cursed_tome/spellbooks/light": {
     "criteria": {
-      "netherite_hoe": "2025-03-13 20:10:45 -0500"
+      "requirement": "2025-05-07 00:13:41 -0500"
     },
     "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/natures_wrath": {
+    "criteria": {
+      "requirement": "2025-05-07 00:13:41 -0500"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement": "2025-05-07 00:13:41 -0500"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-05-07 00:13:41 -0500"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+    "criteria": {
+      "requirement": "2025-05-07 00:13:41 -0500"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
+    "criteria": {
+      "requirement": "2025-05-07 00:13:41 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "bumbling_beepartments": "2025-05-11 22:23:49 -0500"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

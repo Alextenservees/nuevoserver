@@ -133,6 +133,20 @@
 	#Whether to replace the vanilla bottle of xp texture with the point items.
 	ReplaceXPBottleTexture = true
 
+[render]
+	EnableCompassTip = true
+	EnableGoldenAppleTip = true
+	EnablePotionTip = true
+	EnableMilkBucketTip = true
+	EnableScriptBookTip = true
+	EnableGlassBottleTip = true
+	EnableNameTagTip = true
+	EnableLeadTip = true
+	EnableSaddleTip = true
+	EnableShearsTip = true
+	EnableYsmRouletteTip = true
+	EnableAIChatTip = true
+
 [ai]
 	#Whether or not to enable the AI Chat feature
 	ChatEnabled = true
@@ -147,6 +161,10 @@
 	TTSLanguage = "en_us"
 	#TTS Proxy Address, such as 127.0.0.1:1080, empty is no proxy, SOCKS proxies are not supported
 	TTSProxyAddress = ""
+	#STT Url address, currently only the player2 app is supported
+	STTUrl = "http://127.0.0.1:4315/v1/stt"
+	#STT Proxy Address, such as 127.0.0.1:1080, empty is no proxy, SOCKS proxies are not supported
+	STTProxyAddress = ""
 	#The maximum historical conversation length cached by the maid
 	#Range: 1 ~ 128
 	MaidMaxHistoryChatSize = 16
