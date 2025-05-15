@@ -3221,5 +3221,23 @@
     },
     "done": false
   },
+  "stellarity:nether/imbuements": {
+    "criteria": {
+      "criteria": "2025-05-15 06:29:19 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-05-15 06:18:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-05-15 06:11:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
