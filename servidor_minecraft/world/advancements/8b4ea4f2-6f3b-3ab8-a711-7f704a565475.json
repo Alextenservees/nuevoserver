@@ -3221,11 +3221,11 @@
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "inventorypets:blaze": {
     "criteria": {
-      "requirement": "2025-05-15 07:02:00 +0000"
+      "crafting_table": "2025-05-15 07:08:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "stellarity:nether/imbuements": {
     "criteria": {
