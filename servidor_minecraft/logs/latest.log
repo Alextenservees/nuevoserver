@@ -29808,3 +29808,36 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [15May2025 07:24:38.757] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [15May2025 07:25:30.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 lost connection: Timed out
 [15May2025 07:25:30.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 left the game
+[15May2025 07:26:25.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexten22[/127.246.215.127:59975] logged in with entity id 44694 at (7.350917413804847, 69.0, 15.334967709313498)
+[15May2025 07:26:25.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
+[15May2025 07:26:25.608] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
+[15May2025 07:26:53.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.135.192.191:44551] logged in with entity id 44841 at (327.36852724594115, 67.0, 326.9941866881316)
+[15May2025 07:26:53.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[15May2025 07:26:53.454] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[15May2025 07:27:01.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[15May2025 07:27:03.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[15May2025 07:27:35.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/45318, l='ServerLevel[Nuevo mundo]', x=16.26, y=71.00, z=-144.25] died, message: 'Leatherworker was slain by Warden'
+[15May2025 07:28:08.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Timed out
+[15May2025 07:28:08.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[15May2025 07:28:10.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 lost connection: Timed out
+[15May2025 07:28:10.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 left the game
+[15May2025 07:28:55.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexten22[/127.246.215.127:48269] logged in with entity id 45662 at (7.156951207207485, 69.0, 14.58845225007439)
+[15May2025 07:28:55.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
+[15May2025 07:28:55.646] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
+[15May2025 07:29:09.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.135.192.191:36125] logged in with entity id 45764 at (222.67679849708944, 76.06786860629074, 235.06425135398214)
+[15May2025 07:29:09.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[15May2025 07:29:09.119] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[15May2025 07:29:09.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[15May2025 07:29:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[15May2025 07:29:39.098] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15May2025 07:29:39.098] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15May2025 07:29:59.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[15May2025 07:30:50.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/46647, l='ServerLevel[Nuevo mundo]', x=18.50, y=72.50, z=-137.50] died, message: 'Leatherworker was slain by Warden'
+[15May2025 07:33:15.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[15May2025 07:33:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[15May2025 07:33:18.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[15May2025 07:34:10.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[15May2025 07:34:40.829] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15May2025 07:34:40.829] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15May2025 07:34:44.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/47883, l='ServerLevel[Nuevo mundo]', x=18.50, y=72.50, z=-137.50] died, message: 'Fisherman was slain by Warden'
+[15May2025 07:35:09.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
