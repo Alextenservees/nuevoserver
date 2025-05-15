@@ -3221,6 +3221,12 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-05-15 07:02:00 +0000"
+    },
+    "done": false
+  },
   "stellarity:nether/imbuements": {
     "criteria": {
       "criteria": "2025-05-15 06:29:19 +0000"
