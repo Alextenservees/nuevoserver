@@ -3469,5 +3469,11 @@
     },
     "done": true
   },
+  "celestisynth:root": {
+    "criteria": {
+      "obtained_core": "2025-05-15 07:49:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

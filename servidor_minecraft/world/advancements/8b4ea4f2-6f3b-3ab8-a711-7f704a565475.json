@@ -3245,6 +3245,12 @@
     },
     "done": true
   },
+  "celestisynth:root": {
+    "criteria": {
+      "obtained_core": "2025-05-15 07:45:58 +0000"
+    },
+    "done": true
+  },
   "celestisynth:obtain_supernal_netherite_ingot": {
     "criteria": {
       "criteria": "2025-05-15 07:37:41 +0000"

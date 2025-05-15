@@ -29846,3 +29846,9 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [15May2025 07:44:40.878] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [15May2025 07:44:40.878] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [15May2025 07:45:58.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Down to the Core]
+[15May2025 07:49:40.811] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15May2025 07:49:40.811] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15May2025 07:49:59.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [Down to the Core]
+[15May2025 07:54:40.797] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[15May2025 07:54:40.798] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[15May2025 07:56:36.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 moved too quickly! 0.0,-14.79052181865221,0.0
