@@ -3488,15 +3488,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "ghostly_pickaxe": "2025-05-16 08:03:15 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/radgill_bucket": {
-    "criteria": {
-      "radgill_bucket": "2025-05-16 08:14:56 +0000"
+      "cave_codex": "2025-05-16 07:29:30 +0000"
     },
     "done": true
   },
@@ -3506,9 +3500,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-05-16 07:55:34 +0000"
+    },
+    "done": true
+  },
   "idas:ancient_mines": {
     "criteria": {
       "in_ancient_mines": "2025-05-16 08:01:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-05-16 08:03:15 +0000"
     },
     "done": true
   },
@@ -3518,15 +3524,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_codex": {
+  "alexscaves:alexscaves/radgill_bucket": {
     "criteria": {
-      "cave_codex": "2025-05-16 07:29:30 +0000"
+      "radgill_bucket": "2025-05-16 08:14:56 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/enter_acid_with_armor": {
+  "atmospheric:husbandry/finish_gateau": {
     "criteria": {
-      "enter_acid_with_armor": "2025-05-16 07:55:34 +0000"
+      "finish_gateau": "2025-05-16 08:28:18 +0000"
     },
     "done": true
   },

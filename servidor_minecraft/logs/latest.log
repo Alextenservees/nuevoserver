@@ -29877,3 +29877,67 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [16May2025 08:20:02.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
 [16May2025 08:20:11.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to blueplayer66]
 [16May2025 08:20:12.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[16May2025 08:20:31.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Crisis Adverted]
+[16May2025 08:23:29.611] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[16May2025 08:23:29.611] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[16May2025 08:24:00.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[16May2025 08:24:06.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[16May2025 08:24:29.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[16May2025 08:25:21.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[16May2025 08:25:24.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[16May2025 08:25:33.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to blueplayer66]
+[16May2025 08:25:37.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[16May2025 08:26:52.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
+[16May2025 08:26:53.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[16May2025 08:26:54.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[16May2025 08:26:55.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Smelly Situation]
+[16May2025 08:26:56.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[16May2025 08:27:13.037] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[16May2025 08:27:14.193] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[16May2025 08:27:15.286] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[16May2025 08:27:16.445] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[16May2025 08:27:17.546] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[16May2025 08:27:18.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[16May2025 08:27:18.614] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[16May2025 08:27:32.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16May2025 08:27:34.091] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.246.215.127:45505
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.UnsupportedOperationException
+	at java.util.ImmutableCollections.uoe(ImmutableCollections.java:142) ~[?:?]
+	at java.util.ImmutableCollections$AbstractImmutableCollection.add(ImmutableCollections.java:147) ~[?:?]
+	at net.minecraftforge.common.extensions.IForgeMobEffectInstance.addCurativeItem(IForgeMobEffectInstance.java:48) ~[forge-1.20.1-47.3.7-universal.jar%23470!/:?]
+	at gaia.item.edible.TaprootItem.lambda$finishUsingItem$0(TaprootItem.java:20) ~[GrimoireOfGaia4-1.20.1-4.0.0-alpha.11.jar%23369!/:4.0.0-alpha.11]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at gaia.item.edible.TaprootItem.m_5922_(TaprootItem.java:16) ~[GrimoireOfGaia4-1.20.1-4.0.0-alpha.11.jar%23369!/:4.0.0-alpha.11]
+	at net.minecraft.world.item.ItemStack.m_41671_(ItemStack.java:279) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.world.entity.LivingEntity.mixinextras$bridge$m_41671_$474(LivingEntity.java) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.world.entity.LivingEntity.wrapOperation$zlc000$bumblezone$onCompleteUsingItem(LivingEntity.java:29608) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8095_(LivingEntity.java:3022) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_8095_(ServerPlayer.java:1102) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_142106_(LivingEntity.java:2904) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_142106_(ServerPlayer.java:1671) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21329_(LivingEntity.java:2886) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2260) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23465!/:?]
+	... 9 more
+[16May2025 08:27:34.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 lost connection: Internal server error
+[16May2025 08:27:34.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 left the game
+[16May2025 08:27:41.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexten22[/127.246.215.127:36909] logged in with entity id 87413 at (4.257653108614404, 69.0, 24.868832131896617)
+[16May2025 08:27:41.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
+[16May2025 08:27:41.151] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
+[16May2025 08:28:18.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [Let Them Eat... Cake?]
+[16May2025 08:28:33.179] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[16May2025 08:28:33.180] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[16May2025 08:28:33.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
+[16May2025 08:29:19.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to blueplayer66]
