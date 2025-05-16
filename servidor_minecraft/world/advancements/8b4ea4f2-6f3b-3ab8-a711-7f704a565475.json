@@ -3263,5 +3263,11 @@
     },
     "done": true
   },
+  "infinite_abyss:the_journey_begins": {
+    "criteria": {
+      "the_journey_begins": "2025-05-16 06:46:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
