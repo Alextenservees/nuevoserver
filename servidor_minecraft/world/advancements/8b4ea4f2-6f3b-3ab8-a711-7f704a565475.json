@@ -3281,9 +3281,16 @@
   },
   "alexscaves:alexscaves/eat_radiation_foods": {
     "criteria": {
+      "slam": "2025-05-16 07:59:18 +0000",
       "spelunkie": "2025-05-16 07:46:46 +0000"
     },
     "done": false
+  },
+  "idas:ancient_mines": {
+    "criteria": {
+      "in_ancient_mines": "2025-05-16 08:00:58 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
