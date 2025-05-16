@@ -29516,3 +29516,10 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [16May2025 06:22:53.413] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
 [16May2025 06:26:57.555] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [16May2025 06:26:57.556] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[16May2025 06:31:46.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/321, l='ServerLevel[Nuevo mundo]', x=17.50, y=82.26, z=81.50] died, message: 'Nitwit was slain by Wasp'
+[16May2025 06:31:57.516] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[16May2025 06:31:57.516] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[16May2025 06:36:57.513] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[16May2025 06:36:57.513] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[16May2025 06:38:02.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[16May2025 06:38:26.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
