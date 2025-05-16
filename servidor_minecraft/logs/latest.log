@@ -29542,3 +29542,21 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [16May2025 06:57:00.570] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [16May2025 06:57:00.570] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [16May2025 06:57:41.290] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-39, 6], pos: BlockPos{x=-612, y=77, z=111}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[16May2025 07:00:04.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
+[16May2025 07:00:11.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[16May2025 07:00:25.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[16May2025 07:00:28.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[16May2025 07:00:49.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[16May2025 07:01:00.906] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityFairy['rick'/13410, l='ServerLevel[Nuevo mundo]', x=15.89, y=94.19, z=-97.44] died: rick was slain by Alexten22
+[16May2025 07:01:10.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> 10 90 -76
+[16May2025 07:01:29.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 moved too quickly! 0.9999998211860657,-18.0,-4.0
+[16May2025 07:02:00.567] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[16May2025 07:02:00.567] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[16May2025 07:04:55.547] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityFairy['rick'/14923, l='ServerLevel[Nuevo mundo]', x=39.11, y=72.39, z=-401.49] died: rick was slain by blueplayer66.
+[16May2025 07:05:47.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 moved wrongly!
+[16May2025 07:05:51.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 moved too quickly! -0.9999992251396179,18.0,4.0
+[16May2025 07:06:03.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported blueplayer66 to Alexten22]
+[16May2025 07:06:03.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 moved too quickly! 0.9999998211860657,-18.0,-4.0
+[16May2025 07:06:05.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 moved too quickly! 0.9999998211860657,-18.0,-4.0
+[16May2025 07:07:00.561] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[16May2025 07:07:00.561] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
