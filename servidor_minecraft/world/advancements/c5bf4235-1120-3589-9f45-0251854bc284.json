@@ -3475,5 +3475,17 @@
     },
     "done": true
   },
+  "celestisynth:obtain_poltergeist": {
+    "criteria": {
+      "criteria": "2025-05-15 07:54:41 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_breezebreaker": {
+    "criteria": {
+      "criteria": "2025-05-15 08:02:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
