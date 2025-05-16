@@ -137,6 +137,7 @@
       "minecraft:stony_shore": "2024-12-13 00:22:53 +0000",
       "minecraft:snowy_plains": "2025-01-04 04:37:29 +0000",
       "minecraft:snowy_taiga": "2025-04-12 07:54:31 +0000",
+      "minecraft:dripstone_caves": "2025-05-16 07:43:29 +0000",
       "atmospheric:atmospheric:rainforest_basin": "2025-04-15 06:05:12 +0000",
       "atmospheric:atmospheric:rainforest": "2025-04-15 06:35:21 +0000",
       "minecraft:grove": "2025-03-02 02:12:16 +0000",
@@ -3268,6 +3269,24 @@
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-05-16 07:31:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "spelunkie": "2025-05-16 07:46:46 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-05-16 07:44:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-05-16 07:43:57 +0000"
     },
     "done": true
   },
