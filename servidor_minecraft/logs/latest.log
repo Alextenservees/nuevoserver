@@ -29536,3 +29536,9 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [16May2025 06:47:00.880] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [16May2025 06:47:18.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 moved too quickly! -0.9999992251396179,18.0,4.0
 [16May2025 06:47:43.792] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityFairy['rick'/7996, l='ServerLevel[Nuevo mundo]', x=13.98, y=92.90, z=-71.32] died: rick was slain by Alexten22
+[16May2025 06:52:00.544] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[16May2025 06:52:00.545] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[16May2025 06:54:31.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityFairy['rick'/10274, l='ServerLevel[Nuevo mundo]', x=-5.70, y=43.99, z=-43.30] died: rick was slain by Alexten22
+[16May2025 06:57:00.570] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[16May2025 06:57:00.570] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[16May2025 06:57:41.290] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-39, 6], pos: BlockPos{x=-612, y=77, z=111}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
