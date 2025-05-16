@@ -3265,6 +3265,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-05-16 07:31:09 +0000"
+    },
+    "done": true
+  },
   "infinite_abyss:the_journey_begins": {
     "criteria": {
       "the_journey_begins": "2025-05-16 06:46:11 +0000"
