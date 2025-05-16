@@ -3304,6 +3304,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-05-16 08:12:27 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_brainiac": {
     "criteria": {
       "killed": "2025-05-16 07:43:57 +0000"
