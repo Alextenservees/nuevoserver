@@ -3500,5 +3500,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-05-16 07:55:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

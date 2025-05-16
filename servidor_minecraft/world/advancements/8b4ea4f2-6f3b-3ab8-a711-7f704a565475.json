@@ -2607,7 +2607,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-04-16 05:11:36 +0000",
-      "in_better_spider_dungeon": "2025-04-16 05:11:32 +0000"
+      "in_better_spider_dungeon": "2025-04-16 05:11:32 +0000",
+      "in_better_monster_room": "2025-05-16 07:53:18 +0000"
     },
     "done": false
   },
@@ -3266,6 +3267,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-16 07:53:18 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-05-16 07:31:09 +0000"
@@ -3281,6 +3288,12 @@
   "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
       "enter_acid_with_armor": "2025-05-16 07:44:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/acid_create_rust": {
+    "criteria": {
+      "rust": "2025-05-16 07:49:17 +0000"
     },
     "done": true
   },
