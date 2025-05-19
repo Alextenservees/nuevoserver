@@ -3267,15 +3267,27 @@
     },
     "done": true
   },
-  "betterdungeons:small_dungeon": {
+  "infinite_abyss:the_journey_begins": {
     "criteria": {
-      "in_better_monster_room": "2025-05-16 07:53:18 +0000"
+      "the_journey_begins": "2025-05-16 06:46:11 +0000"
     },
     "done": true
   },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-05-16 07:31:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-05-16 07:43:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-05-16 07:44:07 +0000"
     },
     "done": true
   },
@@ -3286,33 +3298,21 @@
     },
     "done": false
   },
-  "idas:ancient_mines": {
-    "criteria": {
-      "in_ancient_mines": "2025-05-16 08:00:58 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sulfur_dust": {
-    "criteria": {
-      "sulfur_dust": "2025-05-16 08:26:55 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_acid_with_armor": {
-    "criteria": {
-      "enter_acid_with_armor": "2025-05-16 07:44:07 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/acid_create_rust": {
     "criteria": {
       "rust": "2025-05-16 07:49:17 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_nucleeper": {
+  "betterdungeons:small_dungeon": {
     "criteria": {
-      "killed": "2025-05-16 08:20:31 +0000"
+      "in_better_monster_room": "2025-05-16 07:53:18 +0000"
+    },
+    "done": true
+  },
+  "idas:ancient_mines": {
+    "criteria": {
+      "in_ancient_mines": "2025-05-16 08:00:58 +0000"
     },
     "done": true
   },
@@ -3322,17 +3322,89 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_brainiac": {
+  "alexscaves:alexscaves/defeat_nucleeper": {
     "criteria": {
-      "killed": "2025-05-16 07:43:57 +0000"
+      "killed": "2025-05-16 08:20:31 +0000"
     },
     "done": true
   },
-  "infinite_abyss:the_journey_begins": {
+  "alexscaves:alexscaves/sulfur_dust": {
     "criteria": {
-      "the_journey_begins": "2025-05-16 06:46:11 +0000"
+      "sulfur_dust": "2025-05-16 08:26:55 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:10:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:10:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:10:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:10:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:10:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:10:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:10:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:10:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:10:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:10:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:10:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:10:19 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
