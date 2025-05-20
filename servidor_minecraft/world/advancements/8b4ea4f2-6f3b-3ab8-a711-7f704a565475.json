@@ -3334,11 +3334,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "alexscaves:alexscaves/radon_bottle": {
     "criteria": {
-      "requirement": "2025-05-20 06:47:27 +0000"
+      "radon_bottle": "2025-05-20 06:48:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
