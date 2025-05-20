@@ -3334,9 +3334,21 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2025-05-20 07:32:23 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/radon_bottle": {
     "criteria": {
       "radon_bottle": "2025-05-20 06:48:20 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-05-20 07:30:48 +0000"
     },
     "done": true
   },
