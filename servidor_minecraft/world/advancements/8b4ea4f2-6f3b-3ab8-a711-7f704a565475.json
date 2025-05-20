@@ -3358,6 +3358,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-05-20 08:31:18 +0000"
+    },
+    "done": true
+  },
   "terramity:excalibur_advancement": {
     "criteria": {
       "excalibur_advancement_0": "2025-05-20 08:01:13 +0000"
