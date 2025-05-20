@@ -3352,5 +3352,17 @@
     },
     "done": true
   },
+  "goety:goety/craft_witch_hat": {
+    "criteria": {
+      "witch_hat": "2025-05-20 07:58:20 +0000"
+    },
+    "done": true
+  },
+  "terramity:excalibur_advancement": {
+    "criteria": {
+      "excalibur_advancement_0": "2025-05-20 08:01:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
