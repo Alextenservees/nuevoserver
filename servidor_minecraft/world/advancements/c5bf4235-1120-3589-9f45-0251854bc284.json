@@ -433,6 +433,7 @@
       "minecraft:wither": "2025-04-29 07:23:50 +0000",
       "minecraft:slime": "2024-11-24 00:03:19 +0000",
       "minecraft:evoker": "2024-12-14 01:36:31 +0000",
+      "quark:forgotten": "2025-05-20 07:52:18 +0000",
       "minecraft:phantom": "2024-10-31 23:59:21 +0000",
       "minecraft:zombified_piglin": "2024-10-31 22:46:50 +0000",
       "minecraft:witch": "2024-11-06 04:24:46 +0000",
@@ -3551,6 +3552,12 @@
   "alexscaves:alexscaves/toxic_paste": {
     "criteria": {
       "toxic_paste": "2025-05-16 08:40:34 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-05-20 07:52:19 +0000"
     },
     "done": true
   },
